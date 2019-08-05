@@ -16,7 +16,7 @@ p {
   margin-bottom: 2rem;
 }
 
-p + ul, p + ol {
+p + ul, p + ol { /* removes margin between paragraphs and lists, there's probably a better way to set this all up */
   margin-top: -2rem;
   margin-bottom: 2rem;
 }
