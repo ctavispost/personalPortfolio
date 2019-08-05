@@ -1,9 +1,24 @@
 html {
   box-sizing: border-box;
+  font-size: 16px;
 }
 
 *, *:before, *:after {
   box-sizing: inherit;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
+p + ul, p + ol {
+  margin-top: -2rem;
+  margin-bottom: 2rem;
 }
 
 .navbar {
