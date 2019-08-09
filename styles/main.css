@@ -1,16 +1,94 @@
 html {
   box-sizing: border-box;
   font-size: 16px;
+  --outerMargin: 40px;
+  --headFootText: 1.2rem;
+  --lineHeight: 1.5;
+  --mainGap: calc(2rem + 5vw); /* margin between main and nav-banner or footer */
 }
 
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
+html, body {
+  height: 100%;
+}
+
 body {
+  background-color: #1C2124;
+  color: #FFF;
   font-family: 'Roboto', sans-serif;
-  line-height: 1.5;
-  margin: 40px;
+  line-height: var(--lineHeight);
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: calc(100% - 2 * var(--outerMargin));
+  margin: var(--outerMargin) var(--outerMargin) 0 var(--outerMargin);
+}
+
+a {
+  color: #90caf9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d1c4e9;
+}
+
+a:active{
+  color: #b39ddb;
+}
+
+a:visited {
+  color: #ce93d8;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+
+}
+
+.brandName {
+  font-weight: bold;
+  margin: 0;
+}
+
+.horizontalUl {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navUl {
+  justify-content: flex-end;
+}
+
+.navText {
+  margin-left: calc(1rem + 1vw);
+  font-size: var(--headFootText);
+}
+
+.main {
+  margin-top: var(--mainGap);
+  margin-bottom: var(--mainGap);
+}
+
+.mainSideMargin {
+  margin-left: var(--outerMargin);
+  margin-right: var(--outerMargin);
 }
 
 p {
@@ -20,22 +98,6 @@ p {
 p + ul, p + ol { /* removes margin between paragraphs and lists, there's probably a better way to set this all up */
   margin-top: -2rem;
   margin-bottom: 2rem;
-}
-
-.navbar {
-
-}
-
-.brand {
-
-}
-
-.logo {
-
-}
-
-.brandHeading {
-
 }
 
 .intro {
@@ -80,4 +142,24 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 .illustration {
 
+}
+
+.foot {
+  background-color: #272C30;
+  margin: calc(2rem + 5vw) 0 0 0;
+  width: 100%;
+  padding-top: var(--outerMargin);
+  padding-bottom: 5rem;
+}
+
+.footUl {
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: var(--headFootText);
+}
+
+.footText {
+  margin-left: var(--outerMargin);
+  margin-right: var(--outerMargin);
+  margin-bottom: 0;
 }

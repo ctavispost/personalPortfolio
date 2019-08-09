@@ -24,24 +24,24 @@
     <nav class="navbar" role="navigation">
       <header>
         <a class="brand" href="index.html">
-          <span class="logo"></span> <!-- place logo -->
-          <h1 class="brandHeading">C. Tavis Post</h1>
+          <img src="images/logo/logoDarkWhiteAndBlue.svg" alt="round logo of initials CTP" class="logo" width="76px" height="80px"> <!-- remove height and width, replace in CSS -->
+          <h1 class="brandName navText">C. Tavis Post</h1>
         </a>
       </header>
-      <ul>
+      <ul class="horizontalUl navUl">
         <li>
-          <a href="href="mailto:ctavispost@gmail.com"">Contact</a>
+          <a href="href="mailto:ctavispost@gmail.com"" class="navText">Contact</a>
         </li>
         <li>
-          <a href="index.html#projects">Projects</a>
+          <a href="index.html#projects" class="navText">Projects</a>
         </li>
         <li>
-          <a href="about.html">About me</a>
+          <a href="about.html" class="navText">About me</a>
         </li>
       </ul>
     </nav>
 
-    <main>
+    <main class="main">
       <article>
 
         <header>
@@ -536,47 +536,48 @@
       </article>
     </main>
 
-    <footer role="contentinfo">
-      <ul>
-        <li>
-          <a href="https://www.linkedin.com/in/c-tavis-post-0604609/" target="_blank">
-            <span class="fa fa-linkedin-square" aria-hidden="true"></span>
-            <span class= social>LinkedIn</span>
-          </a>
-        </li>
+    <footer class="foot" role="contentinfo">
 
-        <li>
-          <a href="https://github.com/ctavispost/" target="_blank">
-            <span class="fa fa-github-square" aria-hidden="true"></span>
-            <span class= social>Github</span>
-          </a>
-        </li>
+        <ul class="horizontalUl footText footUl">
+          <li>
+            <a href="mailto:ctavispost@gmail.com">
+              <!-- <span class="fa fa-envelope-square" aria-hidden="true"></span> -->
+              Get in touch
+            </a>
+          </li>
 
-        <!-- facebook
-        <li>
-          <a href="https://www.facebook.com/TheTavisPost">
-            <span class="fa fa-facebook-square" aria-hidden="True"></span>
-            <span class= social>Facebook</span>
-          </a>
-        </li>
-        -->
+          <li>
+            <a href="https://www.linkedin.com/in/c-tavis-post-0604609/" target="_blank">
+              <!-- <span class="fa fa-linkedin-square" aria-hidden="true"></span> -->
+              LinkedIn
+            </a>
+          </li>
 
-        <li>
-          <a href="https://twitter.com/Ctavispost" target="_blank">
-            <span class="fa fa-twitter-square" aria-hidden="true"></span>
-            <span class= social>Twitter</span>
-          </a>
-        </li>
+          <li>
+            <a href="https://github.com/ctavispost/" target="_blank">
+              <!-- <span class="fa fa-github-square" aria-hidden="true"></span> -->
+              Github
+            </a>
+          </li>
 
-        <li>
-          <a href="mailto:ctavispost@gmail.com">
-            <span class="fa fa-envelope-square" aria-hidden="true"></span>
-            <span class= social>Get in touch</span>
-          </a>
-        </li>
-      </ul>
+          <!-- facebook
+          <li>
+            <a href="https://www.facebook.com/TheTavisPost">
+              <span class="fa fa-facebook-square" aria-hidden="True"></span>
+              <span class= social>Facebook</span>
+            </a>
+          </li>
+          -->
 
-      <p>&copy C. Tavis Post 2019</p>
+          <li>
+            <a href="https://twitter.com/Ctavispost" target="_blank">
+              <!-- <span class="fa fa-twitter-square" aria-hidden="true"></span> -->
+              Twitter
+            </a>
+          </li>
+        </ul>
+
+        <p class="footText">&copy C. Tavis Post 2019</p>
     </footer>
 
   </body>
