@@ -1,10 +1,11 @@
 html {
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 100%; /* user agent selects base font-size */
   --outerMargin: 40px;
-  --headFootText: 1.2rem;
+  --headFootText: 1.2rem; /* text size for head and footer elements */
   --lineHeight: 1.5;
-  --mainGap: calc(2rem + 5vw); /* margin between main and nav-banner or footer */
+  --mainGap: calc(2rem + 5vh); /* margin between main and nav-banner or footer */
+  --textScale: 1.414;
 }
 
 *, *:before, *:after {
@@ -86,9 +87,28 @@ a:visited {
   margin-bottom: var(--mainGap);
 }
 
-.mainSideMargin {
+.sideMargin {
   margin-left: var(--outerMargin);
   margin-right: var(--outerMargin);
+}
+
+.intro {
+  margin-top: calc(2 * var(--mainGap));
+  margin-bottom: var(--mainGap);
+  height: 50vh;
+
+  /* background image */
+  background-color: transparent;
+  background-image: url(/images/seattleSkylineSm.png); /* stand-in for similar image with lights... would like to show whole thing without making it too small; could animate on scroll using JS and CSS later on */
+  background-position: bottom left;
+  background-size: initial;
+  background-repeat: no-repeat;
+}
+
+.introText {
+  font-size: calc(1rem * var(--textScale));
+  width: 40ch;
+  margin: 0;
 }
 
 p {
@@ -112,12 +132,8 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 }
 
-.stageWhisper {
-
-}
-
 .studies {
-
+  display: grid;
 }
 
 #projects {
@@ -141,7 +157,20 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 }
 
 .illustration {
+  background-color: #b3ac9b; /* arbitrary: a color in the current backing image */
+  background-image: url(/images/florenceOregonCrop.jpg); /* if replacing, choose a light image */
+  background-position: bottom left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 508px; /* width of selected image */
+  min-height: 300px;
+  writing-mode: vertical-lr;
+  -webkit-writing-mode: vertical-lr;
+  -ms-writing-mode: vertical-lr;
+}
 
+a.darkLink {
+  color: #000;
 }
 
 .foot {
