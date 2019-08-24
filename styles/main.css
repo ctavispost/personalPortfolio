@@ -4,8 +4,9 @@ html {
   --outerMargin: 40px;
   --headFootText: 1.2rem; /* text size for head and footer elements */
   --lineHeight: 1.5;
-  --mainGap: calc(2rem + 5vh); /* margin between main and nav-banner or footer */
+  --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
   --textScale: 1.414;
+  --textHighEmph: hsla(0, 0%, 100%, .87);
 }
 
 *, *:before, *:after {
@@ -18,7 +19,7 @@ html, body {
 
 body {
   background-color: #1C2124;
-  color: #FFF;
+  color: var(--textHighEmph);
   font-family: 'Roboto', sans-serif;
   line-height: var(--lineHeight);
   margin: 0;
@@ -26,12 +27,14 @@ body {
 }
 
 .navbar {
-  display: flex;
-  align-items: center;
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: auto auto;
   justify-content: space-between;
-  flex-wrap: wrap;
-  width: calc(100% - 2 * var(--outerMargin));
-  margin: var(--outerMargin) var(--outerMargin) 0 var(--outerMargin);
+  align-items: center;
+  margin: var(--outerMargin);
+  grid-row-gap: 2vmin; /* hopefully sets margin between nav and logo on narrow screens, make sure to TEST */
+  row-gap: 2vmin; /* grid-row-gap is set to be deprecated */
 }
 
 a {
@@ -52,17 +55,11 @@ a:visited {
 }
 
 .brand {
-  display: flex;
   align-items: center;
 }
 
 .logo {
-
-}
-
-.brandName {
-  font-weight: bold;
-  margin: 0;
+  height: var(--outerMargin);
 }
 
 .horizontalUl {
@@ -74,12 +71,15 @@ a:visited {
 }
 
 .navUl {
-  justify-content: flex-end;
+  align-content: center;
 }
 
 .navText {
-  margin-left: calc(1rem + 1vw);
   font-size: var(--headFootText);
+}
+
+.spaceToLeft {
+  margin-left: calc(1rem + 2vw);
 }
 
 .main {
@@ -93,9 +93,17 @@ a:visited {
 }
 
 .intro {
-  margin-top: calc(2 * var(--mainGap));
+  margin-top: var(--mainGap);
   margin-bottom: var(--mainGap);
-  height: 50vh;
+  padding-left: var(--outerMargin);
+  height: 30vh;
+
+  /* set grid */
+  display: grid;
+  grid-auto-flow: row;
+  grid-column-gap: 3ch;
+  grid-template-columns: auto 1fr;
+  align-items: start;
 
   /* background image */
   background-color: transparent;
@@ -105,10 +113,20 @@ a:visited {
   background-repeat: no-repeat;
 }
 
+.introHead {
+  margin: 0;
+}
+
+.display {
+  font-family: 'Monoton', cursive;
+  font-size: calc(1rem * var(--textScale) * var(--textScale) * var(--textScale) * var(--textScale));
+  line-height: 1;
+}
+
 .introText {
   font-size: calc(1rem * var(--textScale));
-  width: 40ch;
-  margin: 0;
+  max-width: 40ch;
+  margin: 0 var(--outerMargin) 0 0;
 }
 
 p {
@@ -118,18 +136,6 @@ p {
 p + ul, p + ol { /* removes margin between paragraphs and lists, there's probably a better way to set this all up */
   margin-top: -2rem;
   margin-bottom: 2rem;
-}
-
-.intro {
-
-}
-
-.heading {
-
-}
-
-.introText {
-
 }
 
 .studies {
@@ -156,14 +162,14 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 }
 
-.illustration {
+.illustration { /* could remove background, place picture in link and position it beneath the text; should be doable in grid */
   background-color: #b3ac9b; /* arbitrary: a color in the current backing image */
   background-image: url(/images/florenceOregonCrop.jpg); /* if replacing, choose a light image */
   background-position: bottom left;
   background-size: cover;
   background-repeat: no-repeat;
   max-width: 508px; /* width of selected image */
-  min-height: 300px;
+  min-height: 300px; /* what looks good for selected image */
   writing-mode: vertical-lr;
   -webkit-writing-mode: vertical-lr;
   -ms-writing-mode: vertical-lr;
@@ -175,7 +181,7 @@ a.darkLink {
 
 .foot {
   background-color: #272C30;
-  margin: calc(2rem + 5vw) 0 0 0;
+  margin: var(--mainGap) 0 0 0;
   width: 100%;
   padding-top: var(--outerMargin);
   padding-bottom: 5rem;
