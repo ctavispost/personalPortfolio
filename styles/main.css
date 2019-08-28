@@ -120,6 +120,7 @@ a:visited {
 .display {
   font-family: 'Monoton', cursive;
   font-size: calc(1rem * var(--textScale) * var(--textScale) * var(--textScale) * var(--textScale));
+  font-weight: 400;
   line-height: 1;
 }
 
