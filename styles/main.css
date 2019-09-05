@@ -7,7 +7,7 @@ html {
   --lineHeight: 1.5;
   --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
   --textScale: 1.414; /* scale text at powers of 1.414 */
-  --textHighEmph: hsla(0, 0%, 100%, .87); /* Material dark theme standard */
+  --textHighEmph: hsla(0, 0%, 100%, .87); /* Material dark theme high emphasis text */
   --mainBg: #1C2124; /* main background-color (#121212 w. 8% primary color #90CAF9 overlay) */
   --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
   --eightDpBg: #373C3E; /* background-color at 8dp (w. 12% white overlay) */
@@ -143,11 +143,18 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   margin-bottom: 2rem;
 }
 
+.showcase {
+
+  display: grid;
+  grid-gap: 4vmin;
+}
+
 .studies {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  /* grid-template-rows: repeat(auto-fil, minmax(150px, 1fr)); */
-  grid-gap: 5vmin;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(80px, 125px));
+  grid-gap: 4vw;
+  grid-auto-flow: dense;
 }
 
 #projects {
@@ -163,6 +170,10 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 .card:hover {
   background-color: var(--eightDpBg);
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.cardLink {
+  display: block;
 }
 
 a.cardLink:link {
@@ -192,6 +203,7 @@ a.cardLink:visited {
 .project {
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 .project01 { /* should be larger than other projects */
@@ -207,16 +219,21 @@ a.cardLink:visited {
 .projPic {
   order: -1;
   width: 100%;
-  /* padding-top: 4vh; */
+  object-fit: contain;
+}
+
+.decoration {
+
 }
 
 .project02 {
-  grid-column: span 2;
-  grid-row: span 2;
+  grid-column: span 3;
+  grid-row: span 3;
 }
 
 .project03 {
-
+  grid-column: span 2;
+  grid-row: span 2;
 }
 
 .illustration { /* should be larger than project 02 and 03, but smaller than 01 */
