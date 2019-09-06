@@ -261,15 +261,14 @@ a.cardLink:visited {
   object-fit: contain;
 }
 
-@media screen and (min-width: 700px) {
-  .project02 {
+.project02 {
     grid-area: proj02;
-  }
+}
 
   .project03 {
     grid-area: proj03;
-  }
 }
+
 
 .illustration { /* should be larger than project 02 and 03, but smaller than 01 */
   background-image: url(/images/florenceOregonCrop.jpg); /* if replacing, choose a light image or adjust a.darklink below */
@@ -277,7 +276,7 @@ a.cardLink:visited {
   background-size: cover;
   background-repeat: no-repeat;
   grid-area: illust;
-  /* max-width: 508px; /* width of selected image */
+  max-width: 508px; /* width of selected image */
   min-height: 300px; /* what looks good for selected image */
 }
 
