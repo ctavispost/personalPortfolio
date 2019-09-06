@@ -91,23 +91,16 @@ a:visited {
   margin-bottom: var(--mainGap);
 }
 
-.sideMargin {
-  margin-left: var(--outerMargin);
-  margin-right: var(--outerMargin);
+@media screen and (min-width: 700px) {
+  .sideMargin {
+    margin-left: var(--outerMargin);
+    margin-right: var(--outerMargin);
+  }
 }
 
 .intro {
-  margin-top: var(--mainGap);
-  margin-bottom: var(--mainGap);
-  padding-left: var(--outerMargin);
+  margin: var(--mainGap) 0 var(--mainGap) 0;
   height: calc(50px + 35vh);
-
-  /* set grid */
-  display: grid;
-  grid-auto-flow: row;
-  grid-column-gap: 4ch;
-  grid-template-columns: auto 1fr;
-  align-items: start;
 
   /* background image */
   background-color: transparent;
@@ -117,8 +110,15 @@ a:visited {
   background-repeat: no-repeat;
 }
 
+.introContainer {
+  display: grid;
+  grid-auto-flow: row;
+  grid-gap: 1vmin;
+  justify-content: center;
+}
+
 .introHead {
-  margin: 0;
+  margin: 0 var(--outerMargin) 0 var(--outerMargin);
 }
 
 .display {
@@ -131,7 +131,7 @@ a:visited {
 .introText {
   font-size: calc(1rem * var(--textScale));
   max-width: 40ch;
-  margin: 0 var(--outerMargin) 0 0; /* sets right margin so text is never flush with window edge */
+  margin: 0 var(--outerMargin) 0 var(--outerMargin); /* sets right margin so text is never flush with window edge */
 }
 
 p {
@@ -144,17 +144,47 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 }
 
 .showcase {
-
-  display: grid;
-  grid-gap: 4vmin;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
 }
 
 .studies {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-template-rows: repeat(auto-fit, minmax(80px, 125px));
-  grid-gap: 4vw;
-  grid-auto-flow: dense;
+  grid-row-gap: 2rem; /* 4vmin; */
+  grid-column-gap: 0;
+  overflow: hidden;
+  align-items: start;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+@media screen and (min-width: 700px) {
+   .studies {
+     grid-template-columns: repeat(4, 1fr);
+     grid-template-rows: repeat(9, auto);
+     grid-template-areas:
+      "proj01 proj01 . ."
+      "proj01 proj01 . ."
+      ". . proj02 ."
+      ". . proj02 ."
+      ". . . proj03"
+      ". . . proj03"
+      ". . writ ."
+      "illust illust . ."
+      "illust illust . .";
+
+      /* "block proj01 proj01 . . ."
+      ". proj01 proj01 . . ."
+      ". . block . proj02 ."
+      ". . . block proj02 ."
+      ". . . proj03 block ."
+      ". . . proj03 . block"
+      ". . . . block ."
+      ". . . writ writ ."
+      ". illust illust . . ."
+      ". illust illust . . ."
+      "block . . . . ."; */
+   }
 }
 
 #projects {
@@ -176,6 +206,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   display: block;
 }
 
+/*
 a.cardLink:link {
   color: var(--textHighEmph);
   text-decoration: none;
@@ -199,17 +230,17 @@ a.cardLink:visited {
   text-decoration: none;
   font-weight: normal;
 }
+*/
 
 .project {
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
+
 }
 
-.project01 { /* should be larger than other projects */
-  grid-column: span 4;
-  grid-row: span 4;
+@media screen and (min-width: 700px) {
+  .project01 { /* should be larger than other projects */
+    grid-area: proj01;
   }
+}
 
 .projText {
   margin-left: var(--outerMargin);
@@ -219,21 +250,17 @@ a.cardLink:visited {
 .projPic {
   order: -1;
   width: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 
-.decoration {
+@media screen and (min-width: 700px) {
+  .project02 {
+    grid-area: proj02;
+  }
 
-}
-
-.project02 {
-  grid-column: span 3;
-  grid-row: span 3;
-}
-
-.project03 {
-  grid-column: span 2;
-  grid-row: span 2;
+  .project03 {
+    grid-area: proj03;
+  }
 }
 
 .illustration { /* should be larger than project 02 and 03, but smaller than 01 */
@@ -241,7 +268,8 @@ a.cardLink:visited {
   background-position: bottom left;
   background-size: cover;
   background-repeat: no-repeat;
-  max-width: 508px; /* width of selected image */
+  grid-area: illust;
+  /* max-width: 508px; /* width of selected image */
   min-height: 300px; /* what looks good for selected image */
 }
 
@@ -257,6 +285,10 @@ a.cardLink:visited {
 
 a.darkLink {
   color: #000;
+}
+
+.writing {
+  grid-area: writ;
 }
 
 .foot {
