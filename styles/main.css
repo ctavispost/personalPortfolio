@@ -179,18 +179,6 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       ". . writ ."
       "illust illust . ."
       "illust illust . .";
-
-      /* "block proj01 proj01 . . ."
-      ". proj01 proj01 . . ."
-      ". . block . proj02 ."
-      ". . . block proj02 ."
-      ". . . proj03 block ."
-      ". . . proj03 . block"
-      ". . . . block ."
-      ". . . writ writ ."
-      ". illust illust . . ."
-      ". illust illust . . ."
-      "block . . . . ."; */
    }
 }
 
@@ -276,7 +264,7 @@ a.cardLink:visited {
   background-size: cover;
   background-repeat: no-repeat;
   grid-area: illust;
-  max-width: 508px; /* width of selected image */
+  max-width: 800px; /* width of selected image */
   min-height: 300px; /* what looks good for selected image */
 }
 
