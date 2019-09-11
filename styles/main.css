@@ -37,8 +37,6 @@ body {
   justify-content: space-between;
   align-items: center;
   margin: var(--outerMargin);
-  grid-row-gap: 2vmin; /* hopefully sets margin between nav and logo on narrow screens, make sure to TEST */
-  row-gap: 2vmin; /* grid-row-gap is set to be deprecated */
 }
 
 a {
@@ -59,7 +57,7 @@ a:visited {
 }
 
 .brand {
-  align-items: center;
+  align-items: start;
 }
 
 .logo {
@@ -68,10 +66,31 @@ a:visited {
 
 .horizontalUl {
   display: flex;
+  flex-wrap: wrap; /* fallback in case there's a problem with the media query bewlow */
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+
+@media screen and (max-width: 450px) {
+  .navbar {
+    align-items: flex-start;
+  }
+
+  .brand {
+    align-items: flex-start;
+  }
+
+  .navUl {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+  }
+
+  .navUl:nth-child(n+2) {
+    line-height: calc(1.3 * var(--lineHeight));
+  }
 }
 
 .navUl {
@@ -155,19 +174,29 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   grid-column-gap: 0;
   align-items: start;
   grid-template-columns: auto;
-  grid-template-rows: repeat(5, auto);
+  grid-template-rows: auto;
   overflow: hidden;
   grid-template-areas:
     "proj01"
-    "proj02"
-    "proj03"
-    "writ"
+    /* "proj02" */
+    /* "proj03" */
+    /* "writ" */
     "illust";
 }
 
 @media screen and (min-width: 800px) {
    .studies {
-     grid-template-columns: repeat(4, 1fr);
+     grid-column-gap: 2rem;
+     grid-row-gap: 4rem;
+     grid-template-columns: repeat(2, 1fr);
+     grid-template-rows: repeat(2, auto);
+     grid-template-areas:
+      "proj01 ."
+      ". illust";
+
+
+     /* full display of illustration, writing, and 3 project cards */
+     /* grid-template-columns: repeat(4, 1fr);
      grid-template-rows: repeat(9, auto);
      grid-template-areas:
       "proj01 proj01 . ."
@@ -178,7 +207,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       ". . . proj03"
       ". . writ ."
       "illust illust . ."
-      "illust illust . .";
+      "illust illust . .";*/
    }
 }
 
@@ -193,7 +222,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 
-.card:hover {
+.card:hover, .card:active {
   background-color: var(--eightDpBg);
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
@@ -267,6 +296,7 @@ a.cardLink:visited {
   background-repeat: no-repeat;
   grid-area: illust;
   max-width: 800px; /* width of selected image */
+  max-height: 60vh;
   min-height: 300px; /* what looks good for selected image */
 }
 
@@ -300,6 +330,14 @@ a.darkLink {
   justify-content: space-between;
   flex-wrap: wrap;
   font-size: var(--headFootText);
+}
+
+@media screen and (max-width: 450px) {
+  .footUl {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:flex-start;
+  }
 }
 
 .footText {
