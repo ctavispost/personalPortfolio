@@ -170,7 +170,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 .studies {
   display: grid;
-  grid-row-gap: 2rem; /* 4vmin; */
+  grid-row-gap: calc(1rem + 8vh);
   grid-column-gap: 0;
   align-items: start;
   grid-template-columns: auto;
@@ -186,8 +186,6 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 @media screen and (min-width: 800px) {
    .studies {
-     grid-column-gap: 2rem;
-     grid-row-gap: 4rem;
      grid-template-columns: repeat(2, 1fr);
      grid-template-rows: repeat(2, auto);
      grid-template-areas:
