@@ -232,10 +232,8 @@ a.cardLink:visited {
 
 }
 
-@media screen and (min-width: 700px) {
-  .project01 { /* should be larger than other projects */
+.project01 { /* should be larger than other projects */
     grid-area: proj01;
-  }
 }
 
 .projText {
@@ -250,7 +248,11 @@ a.cardLink:visited {
 }
 
 .project02 {
-    grid-area: proj02;
+  grid-area: proj02;
+}
+
+.unfinished {
+  display: none;
 }
 
   .project03 {
