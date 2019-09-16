@@ -1,0 +1,13 @@
+# Site settings
+name: C. Tavis Post
+title: C. Tavis Post
+email: tavispost@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Portfolio of UX design, illustration, and writing by C. Tavis Post
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'http://localhost:4000'
+twitter_username: ctavispost
+github_username: ctavipost
+
+# Build settings
+markdown: kramdown

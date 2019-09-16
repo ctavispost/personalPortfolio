@@ -1,3 +1,7 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
 html {
   box-sizing: border-box;
   font-size: 100%; /* user agent selects base font-size */
@@ -282,6 +286,8 @@ a.darkLink {
   grid-area: writ;
 } */
 
+
+/* for footer */
 .foot {
   background-color: #272C30;
   margin: var(--mainGap) 0 0 0;
@@ -308,4 +314,42 @@ a.darkLink {
   margin-left: var(--outerMargin);
   margin-right: var(--outerMargin);
   margin-bottom: 0;
+}
+
+/* for illustration page */
+.illustContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  grid-gap: calc(1rem + 5vw);
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+@media screen and (min-width:800px) {
+  .illustContainer {
+    margin-left: var(--outerMargin);
+    margin-right: var(--outerMargin);
+  }
+}
+
+.illustCard {
+  display: flex;
+  flex-flow: column;
+  max-width: 100%;
+  height: auto;
+  align-items: flex-start;
+}
+
+.illustImg {
+  max-width: 100%;
+  height: auto;
+  object-fit: scale-down;
+  margin-bottom: .3rem;
+  /* box-shadow: -1px 0px 0px rgba(0,0,0,0.06); */
+}
+
+.caption {
+  margin: 0;
+  font-size: .75rem;
 }
