@@ -1,3 +1,8 @@
+---
+title: About
+format: default
+---
+
 <article class="mainSideMargin">
 
 <header>
