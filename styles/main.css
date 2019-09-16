@@ -353,3 +353,15 @@ a.darkLink {
   margin: 0;
   font-size: .75rem;
 }
+
+
+/* for projects  */
+.projContainer {
+  display: grid;
+}
+
+.projLimitWidth {
+  margin-left: var(outerMargin);
+  margin-right: var(outerMargin);
+  max-width: 66ch;
+}

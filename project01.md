@@ -3,34 +3,36 @@ title: jot &
 layout: default
 ---
 
-<article>
-  <header>
-    <img src="images/jotAnd/lockupHorizontalDark.png" alt="jot & wordmark and logo lockup" height="100px">
-    <p>a web storage and notebook concept</p>
-  </header>
+<article class="projContainer">
+  <section class="projLimitWidth">
+    <header>
+      <img src="images/jotAnd/lockupHorizontalDark.png" alt="jot & wordmark and logo lockup" height="100px">
+      <p>a web storage and notebook concept</p>
+    </header>
 
-  <details aria-expanded="true/false" tabindex="0" role="button">
-    <summary>Role: UX research and design</summary>
-    <div>
-      With guidance from the Bloc.io team, I researched the field and user needs, and created a distinctly branded concept from sketches to a hifi mockup and clickable prototype.
-    </div>
-  </details>
+    <details aria-expanded="true/false" tabindex="0" role="button">
+      <summary>Role: UX research and design</summary>
+      <div>
+        With guidance from the Bloc.io team, I researched the field and user needs, and created a distinctly branded concept from sketches to a hifi mockup and clickable prototype.
+      </div>
+    </details>
 
-  <details aria-expanded="true/false" tabindex="0" role="button">
-    <summary>Deliverables</summary>
-    <div> <!-- links for various sections -->
-      UX strategy, competitive analysis, survey, personas, user stories, user flows, content strategy, site-map, wireframes, lo-fi clickable prototype, lo-fi user testing and analysis, logo, brand guidelines, hi-fi mockup, illustrations, hi-fi clickable prototype, hi-fi user testing and analysis, preference tests, refined mockup and prototype
-    </div>
-  </details>
+    <details aria-expanded="true/false" tabindex="0" role="button">
+      <summary>Deliverables</summary>
+      <div> <!-- links for various sections -->
+        UX strategy, competitive analysis, survey, personas, user stories, user flows, content strategy, site-map, wireframes, lo-fi clickable prototype, lo-fi user testing and analysis, logo, brand guidelines, hi-fi mockup, illustrations, hi-fi clickable prototype, hi-fi user testing and analysis, preference tests, refined mockup and prototype
+      </div>
+    </details>
 
-  <details aria-expanded="true/false" tabindex="0" role="button">
-    <summary>Tools</summary>
-    <div> <!-- to include brand logos -->
-      Google Docs suite, Figma, Draw.io, Zoom, Autodesk Sketchbook, Adobe Illustrator, UsabilityHub
-    </div>
-  </details>
+    <details aria-expanded="true/false" tabindex="0" role="button">
+      <summary>Tools</summary>
+      <div> <!-- to include brand logos -->
+        Google Docs suite, Figma, Draw.io, Zoom, Autodesk Sketchbook, Adobe Illustrator, UsabilityHub
+      </div>
+    </details>
+  </section>
 
-  <section> <!-- introduction -->
+  <section class="projLimitWidth"> <!-- introduction -->
     <p><span>jot &</span> combines file storage and organization with a simple notepad. Notes offer a quick and easy way for people to share and collaborate.</p>
 
     <section> <!-- problem -->
@@ -63,10 +65,9 @@ layout: default
         <button type="submit">view mockup</button> <!-- button is lower emphasis -->
       </form>
     </section> <!-- solution -->
-
   </section> <!-- end introduction -->
 
-  <section> <!-- disovery -->
+  <section class="projLimitWidth"> <!-- disovery -->
     <header>
       <h1>Discovery</h1>
     </header>
@@ -108,7 +109,6 @@ layout: default
       </ul>
 
       <p>All services supported saving, sharing, text-editing, and some form of collaboration, with support across devices. These broad areas of overlap were taken as the start of an MVP.</p>
-
     </section> <!-- end competitive analysis -->
 
     <section> <!-- user survey -->
@@ -136,7 +136,7 @@ layout: default
     </section> <!-- end mvp -->
   </section> <!-- end discovery -->
 
-  <section> <!-- information architecture -->
+  <section class="projLimitWidth"> <!-- information architecture -->
     <header>
       <h1>Information architecture</h1>
     </header>
@@ -346,7 +346,7 @@ layout: default
     </section> <!-- end wireframes -->
   </section> <!-- end information architecture -->
 
-  <section> <!-- visual design -->
+  <section class="projLimitWidth"> <!-- visual design -->
     <header>
       <h1>Visual design</h1>
     </header>
@@ -369,8 +369,6 @@ layout: default
       <p>Based on the needs of our personas and users in general, jot &amp's primary values are creativity, communication, and dependability. Its promotional copy seeks a sense of togetherness, sharing, memories, fun, and ease, while leaving room for business and work. There is also a quiet emphasis on personal empowerment, as well as ‘saving’, since people want to save space on their devices by saving items to the cloud while saving money.</p>
 
       <p>The brand color, a bright violet, mixes of work and play. The brand copy of Poppins sets a jaunty, bold feel, while Open Sans assures professionalism and reliability as a  body copy. The logo brings all of this together in a playful, geometric combination of the brand name, a camera, and a stylus.</p>
-
-      <p></p>
     </section> <!-- end branding -->
 
     <section> <!-- hi-fi wireframes -->
@@ -384,8 +382,6 @@ layout: default
       <p>First, I found free images which matched the brand, illustrated them in Autodesk Sketchbook (iOS), simplified the images in Adobe Illustrator, and added them to the landing and features pages.</p>
 
       <p>Throughout the mockup, I simplified pages, reset type, and added color while increasing consistency and whitespace. My intent was to create a more straightforward experience.</p>
-
-
 
       <section> <!-- hi-fi prototype -->
         <header>
@@ -480,7 +476,7 @@ layout: default
     </section> <!-- end hi-fi wireframes -->
   </section> <!-- end visual design -->
 
-  <section> <!-- conclusions -->
+  <section class="projLimitWidth"> <!-- conclusions -->
     <section> <!-- future -->
       <header>
         <h2>The future of <span>jot &amp</span></h2>
