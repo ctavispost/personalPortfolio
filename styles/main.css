@@ -15,6 +15,7 @@ html {
   --mainBg: #1C2124; /* main background-color (#121212 w. 8% primary color #90CAF9 overlay) */
   --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
   --eightDpBg: #373C3E; /* background-color at 8dp (w. 12% white overlay) */
+  --maxText: 66ch; /* max text line width */
 }
 
 *, *:before, *:after {
@@ -363,12 +364,18 @@ a.darkLink {
 .projLimitWidth {
   margin-left: var(--outerMargin);
   margin-right: var(--outerMargin);
-  max-width: 66ch;
+  max-width: var(--maxText);
 }
 
 /* for about */
+.aboutContainer {
+  margin-left: var(--outerMargin);
+  margin-right: var(--outerMargin);
+}
+
 .aboutText {
   margin: 0 0 1rem 0;
+  max-width: var(--maxText);
 }
 
 .lessLeading {
@@ -377,23 +384,27 @@ a.darkLink {
 
 .aboutAside {
   display: flex;
+  justify-content: center;
+}
+
+.selfPortrait {
+  height: auto;
+  object-fit: contain;
 }
 
 @media screen and (min-width: 76ch) {
   .aboutContainer {
     display: grid;
-    grid-template-columns: minmax(44ch, 1fr) auto;
+    grid-template-columns: minmax(44ch, 66ch) minmax(200px, 600px);
     justify-content: center;
+    grid-column-gap: var(--outerMargin);
   }
 
   .aboutAside {
-    justify-content: center;
     align-items: flex-end;
   }
-}
 
-.selfPortrait {
-  max-width: 66%;
-  height: auto;
-  object-fit: contain;
+  .selfPortrait {
+    max-width: 66%;
+  }
 }
