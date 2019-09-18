@@ -373,6 +373,15 @@ a.darkLink {
   margin-right: var(--outerMargin);
 }
 
+@media screen and (min-width: 76ch) {
+  .aboutContainer {
+    display: grid;
+    grid-template-columns: minmax(44ch, 66ch) minmax(200px, 600px);
+    justify-content: center;
+    grid-column-gap: var(--outerMargin);
+  }
+}
+
 .aboutText {
   margin: 0 0 1rem 0;
   max-width: var(--maxText);
@@ -382,29 +391,9 @@ a.darkLink {
   line-height: .5;
 }
 
-.aboutAside {
-  display: flex;
-  justify-content: center;
-}
-
 .selfPortrait {
   height: auto;
+  max-width: 100%;
   object-fit: contain;
-}
-
-@media screen and (min-width: 76ch) {
-  .aboutContainer {
-    display: grid;
-    grid-template-columns: minmax(44ch, 66ch) minmax(200px, 600px);
-    justify-content: center;
-    grid-column-gap: var(--outerMargin);
-  }
-
-  .aboutAside {
-    align-items: flex-end;
-  }
-
-  .selfPortrait {
-    max-width: 66%;
-  }
+  place-self: end start;
 }
