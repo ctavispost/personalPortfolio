@@ -4,7 +4,7 @@ format: default
 ---
 
 <article class="aboutContainer">
-  <div class="projLimitWidth">
+  <div>
     <h1 class="aboutText lessLeading">I'm Tavis,</h1>
 
     <p class="aboutText">and I love storytelling and making a difference for people. I blend my unique backgrounds in art, retail, and social services with technical skills in content, development, and design to help make things which help people.</p>
@@ -16,7 +16,5 @@ format: default
     <p class="aboutText"><a href="mailto:tavispost@gmail.com">So let's chat.</a></p>
   </div>
 
-  <aside class="aboutAside">
-    <img src="images/selfPortrait.png" alt="stylized self portrait of Tavis smiling in a hat" class="selfPortrait">
-  </aside>
+  <img src="images/selfPortrait.png" alt="stylized self portrait of Tavis smiling in a hat" class="selfPortrait">
 </article>
