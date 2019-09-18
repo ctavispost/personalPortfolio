@@ -322,7 +322,7 @@ a.darkLink {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   grid-column-gap: calc(1rem + 5vw);
-  gird-row-gap: calc(3rem + 15vh);
+  grid-row-gap: calc(3rem + 15vh);
   align-items: center;
   justify-content: center;
   margin: 0;
