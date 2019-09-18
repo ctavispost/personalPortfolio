@@ -321,7 +321,8 @@ a.darkLink {
 .illustContainer {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-  grid-gap: calc(1rem + 5vw);
+  grid-column-gap: calc(1rem + 5vw);
+  gird-row-gap: calc(3rem + 15vh);
   align-items: center;
   justify-content: center;
   margin: 0;
@@ -343,6 +344,7 @@ a.darkLink {
 }
 
 .illustImg {
+  align-self: center;
   max-width: 100%;
   height: auto;
   object-fit: scale-down;
@@ -351,7 +353,7 @@ a.darkLink {
 }
 
 .caption {
-  margin: 0;
+  margin: 0 var(--outerMargin);
   font-size: .75rem;
 }
 
@@ -376,7 +378,7 @@ a.darkLink {
 @media screen and (min-width: 80ch) {
   .aboutContainer {
     display: grid;
-    grid-template-columns: minmax(44ch, 66ch) minmax(100px, 600px);
+    grid-template-columns: minmax(44ch, 66ch) minmax(10px, 600px);
     justify-content: center;
     grid-column-gap: var(--outerMargin);
   }
