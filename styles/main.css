@@ -377,7 +377,6 @@ a.darkLink {
 
 .aboutAside {
   display: flex;
-  margin-right: var(--outerMargin);
 }
 
 @media screen and (min-width: 76ch) {
@@ -394,7 +393,7 @@ a.darkLink {
 }
 
 .selfPortrait {
-  max-width: 100%;
+  max-width: 66%;
+  height: auto;
   object-fit: contain;
-  overflow-x: hidden;
 }
