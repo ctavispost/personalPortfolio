@@ -158,12 +158,12 @@ a:visited {
 }
 
 p {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 p + ul, p + ol { /* removes margin between paragraphs and lists, there's probably a better way to set this all up */
-  margin-top: -2rem;
-  margin-bottom: 2rem;
+  margin-top: -1rem;
+  margin-bottom: 1rem;
 }
 
 .showcase {
@@ -364,4 +364,21 @@ a.darkLink {
   margin-left: var(--outerMargin);
   margin-right: var(--outerMargin);
   max-width: 66ch;
+}
+
+/* for about */
+.aboutContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-gap: var(--outerMargin);
+}
+
+.aboutText {
+  margin: 0 0 1rem 0;
+}
+
+.selfPortrait {
+  order: -1;
+  max-width: 100%;
+  object-fit: contain;
 }

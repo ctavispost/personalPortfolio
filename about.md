@@ -3,7 +3,7 @@ title: About
 format: default
 ---
 
-<article class="mainSideMargin">
+<article class="projLimitWidth">
 
 <header>
     <h1>I'm Tavis,</h1>
