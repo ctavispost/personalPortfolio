@@ -367,18 +367,31 @@ a.darkLink {
 }
 
 /* for about */
-.aboutContainer {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  grid-gap: var(--outerMargin);
-}
-
 .aboutText {
   margin: 0 0 1rem 0;
 }
 
+.aboutAside {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 66ch) {
+  .aboutContainer {
+    display: grid;
+    grid-template-columns: minmax(40ch, 1fr) auto;
+    grid-gap: var(--outerMargin);
+    justify-content: center;
+  }
+
+  .aboutAside {
+    justify-content: center;
+  }
+}
+
 .selfPortrait {
-  order: -1;
   max-width: 100%;
   object-fit: contain;
+  overflow-x: hidden;
+  margin-bottom: 2rem;
 }
