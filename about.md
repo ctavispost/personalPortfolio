@@ -18,7 +18,5 @@ format: default
 
   <aside class="aboutAside">
     <img src="images/selfPortrait.png" alt="stylized self portrait of Tavis smiling in a hat" class="selfPortrait">
-
-    <a href="https://docs.google.com/document/d/e/2PACX-1vSeg_1y6tts2ORIXd81lNkF6zm8rIbwkZbR5v7EczDiMI7k7oiGJTr75relscFxutErCJRMyvtVV84W/pub">view resume</a>
   </aside>
 </article>
