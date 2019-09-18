@@ -340,11 +340,10 @@ a.darkLink {
   flex-flow: column;
   max-width: 100%;
   height: auto;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .illustImg {
-  align-self: center;
   max-width: 100%;
   height: auto;
   object-fit: scale-down;
@@ -353,7 +352,7 @@ a.darkLink {
 }
 
 .caption {
-  margin: 0 var(--outerMargin);
+  margin: 0;
   font-size: .75rem;
 }
 
