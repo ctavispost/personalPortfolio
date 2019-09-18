@@ -372,7 +372,7 @@ a.darkLink {
 }
 
 .lessLeading {
-  line-height: .8;
+  line-height: .5;
 }
 
 .aboutAside {
@@ -389,7 +389,7 @@ a.darkLink {
 
   .aboutAside {
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
   }
 }
 
