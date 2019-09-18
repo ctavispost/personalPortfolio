@@ -380,16 +380,16 @@ a.darkLink {
   margin-right: var(--outerMargin);
 }
 
-@media screen and (min-width: 66ch) {
+@media screen and (min-width: calc((66ch + 2 * var(--outerMargin))) {
   .aboutContainer {
     display: grid;
-    grid-template-columns: minmax(40ch, 1fr) auto;
+    grid-template-columns: minmax(44ch, 1fr) auto;
     justify-content: center;
   }
 
   .aboutAside {
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
   }
 }
 
