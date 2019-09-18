@@ -373,19 +373,19 @@ a.darkLink {
 
 .aboutAside {
   display: flex;
-  flex-direction: column;
 }
 
 @media screen and (min-width: 66ch) {
   .aboutContainer {
     display: grid;
-    grid-template-columns: minmax(40ch, 1fr) auto;
+    grid-template-columns: minmax(50ch, 1fr) auto;
     grid-gap: var(--outerMargin);
     justify-content: center;
   }
 
   .aboutAside {
     justify-content: center;
+    align-items: flex-start;
   }
 }
 
@@ -393,5 +393,4 @@ a.darkLink {
   max-width: 100%;
   object-fit: contain;
   overflow-x: hidden;
-  margin-bottom: 2rem;
 }
