@@ -5,7 +5,7 @@ format: default
 
 <article class="aboutContainer">
   <div class="projLimitWidth">
-    <h1 class="aboutText">I'm Tavis,</h1>
+    <h1 class="aboutText lessLeading">I'm Tavis,</h1>
 
     <p class="aboutText">and I love storytelling and making a difference for people. I blend my unique backgrounds in art, retail, and social services with technical skills in content, development, and design to help make things which help people.</p>
 

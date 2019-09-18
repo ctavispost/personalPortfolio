@@ -371,15 +371,19 @@ a.darkLink {
   margin: 0 0 1rem 0;
 }
 
+.lessLeading {
+  line-height: .8;
+}
+
 .aboutAside {
   display: flex;
+  margin-right: var(--outerMargin);
 }
 
 @media screen and (min-width: 66ch) {
   .aboutContainer {
     display: grid;
     grid-template-columns: minmax(40ch, 1fr) auto;
-    grid-gap: var(--outerMargin);
     justify-content: center;
   }
 
