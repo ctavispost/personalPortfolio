@@ -373,10 +373,10 @@ a.darkLink {
   margin-right: var(--outerMargin);
 }
 
-@media screen and (min-width: 76ch) {
+@media screen and (min-width: 80ch) {
   .aboutContainer {
     display: grid;
-    grid-template-columns: minmax(44ch, 66ch) minmax(200px, 600px);
+    grid-template-columns: minmax(44ch, 66ch) minmax(100px, 600px);
     justify-content: center;
     grid-column-gap: var(--outerMargin);
   }
@@ -395,5 +395,5 @@ a.darkLink {
   height: auto;
   max-width: 100%;
   object-fit: contain;
-  place-self: end start;
+  place-self: start end;
 }
