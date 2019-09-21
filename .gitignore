@@ -7,3 +7,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Do not commit jekyll generated files.
+_site
