@@ -115,6 +115,7 @@
     <p>
       <a href="https://photos.app.goo.gl/eMCaAEY4GrbSuHLHA">sketches</a>,
       <a href="https://www.figma.com/file/OGfJVyaOtpHKKyxEiE4pEQIV/cloudWireframes?node-id=0%3A1">wires in Figma</a>
+    </p>
   </header>
 
   <p>I began sketching wireframes at a fairly high level before transitioning to dummying pages in Figma.</p>
