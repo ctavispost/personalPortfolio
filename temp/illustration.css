@@ -1,0 +1,32 @@
+body {
+  color: #FFF;
+  background-color: #1C2124;
+}
+
+.illustContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  grid-gap: calc(1rem + 5vw);
+  margin: 0;
+}
+
+.illustCard {
+  display: flex;
+  flex-flow: column;
+  max-width: 100%;
+  height: auto;
+  align-items: flex-start;
+}
+
+.illustImg {
+  max-width: 100%;
+  height: auto;
+  object-fit: scale-down;
+  margin-bottom: .3rem;
+  /* box-shadow: -1px 0px 0px rgba(0,0,0,0.06); */
+}
+
+.caption {
+  margin: 0;
+  font-size: .75rem;
+}
