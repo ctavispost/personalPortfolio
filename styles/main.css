@@ -264,9 +264,14 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   background-size: cover;
   background-repeat: no-repeat;
   grid-area: illust;
+  opacity: .8;
   max-width: 800px; /* width of selected image */
   max-height: 60vh;
   min-height: 300px; /* what looks good for selected image */
+}
+
+.illustration:hover, .illustation:active {
+  opacity: 1;
 }
 
 
@@ -360,12 +365,27 @@ a.darkLink {
 /* for projects  */
 .projContainer {
   display: grid;
+  justify-content: center;
 }
 
 .projLimitWidth {
   margin-left: var(--outerMargin);
   margin-right: var(--outerMargin);
   max-width: var(--maxText);
+}
+
+.largeBreak {
+  margin-bottom: var(--mainGap);
+}
+
+.smallBreak {
+  margin-bottom: calc(var(--mainGap) / 2);
+}
+
+.headWithSub {
+  margin-top: calc(var(--mainGap) / 3);
+  margin-bottom: 0;
+  line-height: 0.25;
 }
 
 /* for about */
