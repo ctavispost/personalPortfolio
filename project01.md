@@ -3,23 +3,23 @@ title: jot &
 layout: default
 ---
 <article class="projContainer">
-  <section class="projLimitWidth">
+  <section class="projLimitWidth largeBreak">
   {% include_relative project01/summary.md %}
   </section>
 
-  <section class="projLimitWidth">
+  <section class="projLimitWidth largeBreak">
   {% include_relative project01/introduction.md %}
   </section>
 
-  <section class="projLimitWidth">
+  <section class="projLimitWidth largeBreak">
   {% include_relative project01/discovery.md %}
   </section>
 
-  <section class="projLimitWidth">
+  <section class="projLimitWidth largeBreak">
   {% include_relative project01/information_architecture.md %}
   </section>
 
-  <section class="projLimitWidth">
+  <section class="projLimitWidth largeBreak">
   {% include_relative project01/visual_design.md %}
   </section>
 
