@@ -388,6 +388,10 @@ a.darkLink {
   line-height: 0.25;
 }
 
+.smallPic {
+  max-width: 250px;
+}
+
 /* for about */
 .aboutContainer {
   margin-left: var(--outerMargin);

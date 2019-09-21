@@ -18,7 +18,7 @@
       <p>retail manager and photo enthusiast</p>
     </header>
 
-    <img src="images/jotAnd/personaPhil.jpg" alt="Phil and his Nikon camera" class="personaPhoto">
+    <img src="images/jotAnd/personaPhil.jpg" alt="Phil and his Nikon camera" class="smallPic">
 
     <h4>Motivations:</h4>
     <p>Images take up most of Phil’s storage. He would like one service with a large amount of space for saving and sharing photos alongside comments.</p>
@@ -36,7 +36,7 @@
       <p>UX designer</p>
     </header>
 
-    <img src="images/jotAnd/personaAdrienne.png" alt="Adrienne standing outside at night" class="personaPhoto">
+    <img src="images/jotAnd/personaAdrienne.png" alt="Adrienne standing outside at night" class="smallPic">
 
     <h4>Motivations:</h4>
     <p>Adrienne works with images, written documents, and forms across various apps. She spends more time than she would like trying to organize things.</p>
@@ -54,7 +54,7 @@
       <p>illustrator and graphic designer</p>
     </header>
 
-    <img src="images/jotAnd/personaJean.png" alt="Jean smiling in sunglasses" class="personaPhoto">
+    <img src="images/jotAnd/personaJean.png" alt="Jean smiling in sunglasses" class="smallPic">
 
     <h4>Motivations:</h4>
     <p>Jean sends clients moodboards, storyboards, and iterative sketches with notes. He keeps his projects organized.</p>
@@ -208,4 +208,3 @@
     </section> <!-- end results -->
   </section> <!-- end testing -->
 </section> <!-- end wireframes -->
-
