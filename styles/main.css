@@ -163,8 +163,8 @@ p {
 }
 
 p + ul, p + ol { /* removes margin between paragraphs and lists, there's probably a better way to set this all up */
-  margin-top: -1rem;
-  margin-bottom: 1rem;
+  margin-top: -.5rem;
+  margin-bottom: 0rem;
 }
 
 .showcase {
@@ -375,15 +375,23 @@ a.darkLink {
 }
 
 .lgBreak {
-  margin-bottom: var(--mainGap);
+  margin-top: var(--mainGap);
 }
 
 .medBreak {
-  margin-bottom: calc(var(--mainGap) / 1.5);
+  margin-top: calc(var(--mainGap) / 1.5);
 }
 
 .smBreak {
   margin-top: calc(var(--mainGap) / 3);
+}
+
+.smallerBreak {
+  margin-top: 2rem;
+}
+
+.smallestBreak {
+  margin-top: 1rem;
 }
 
 .centerGrid {
@@ -421,6 +429,10 @@ button:focus {
 
 button:active {
     transform: scale(0.99);
+}
+
+h4 {
+  font-weight: bold;
 }
 
 .headerWithP {
