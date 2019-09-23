@@ -1,6 +1,6 @@
 <section> <!-- future -->
-  <header>
-    <h2>The future of <span>jot &amp</span></h2>
+  <header class="centerGrid">
+    <h1>The future of <span>jot &amp</span></h1>
   </header>
 
   <p>This is a complete MVP, which could be coded, tested, and delivered as a desktop web app. There is room for improvement, and more testing could done. In particular, the mobile version should go through user testing and be reiterated on.</p>
@@ -12,9 +12,9 @@
   <p>Finally, a microblog-style feed showing publicly shared notes might add further interactive and social elements, increasing user engagement.</p>
 </section> <!-- end future (oh no! No more future. It's all over!)-->
 
-<section> <!-- what I learned -->
-  <header>
-    <h2>What I learned</h2>
+<section class="lgBreak"> <!-- what I learned -->
+  <header class="centerGrid">
+    <h1>What I learned</h1>
   </header>
 
   <p>After working my way through problems caused by not having built components or a pattern library early on, I realized I should focus on atomic elements first and build outwards. High-level sketches are useful starting points, but it’s important to sweat the details early on, even though they will undergo multiple iterations.</p>

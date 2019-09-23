@@ -1,10 +1,10 @@
-<header>
+<header class="centerGrid">
   <h1>Information architecture</h1>
 </header>
 
-<section> <!-- personas -->
+<section class="mediumBreak"> <!-- personas -->
   <header>
-    <h2>User personas</h2>
+    <h2 class="headerWithP">User personas</h2>
     <p>
       <a href="https://docs.google.com/document/d/1XABeFr_YAZBsAiqMEYqeHhgtVXVuxF-VSLV26RvkFj0/edit?usp=sharing">full personas</a>
     </p>
@@ -12,9 +12,9 @@
 
   <p>Based upon survey responses and personal conversations, I created three personas to help guide future decisions.</p>
 
-  <article class="personaCard">
+  <article class="mediumBreak personaCard">
     <header>
-      <h3>Phil</h3>
+      <h3 class="headerWithP">Phil</h3>
       <p>retail manager and photo enthusiast</p>
     </header>
 
@@ -30,9 +30,9 @@
     <p>Phil wishes his uploads were faster. He doesn’t like pop-over messages suggesting he upgrade service. He doesn’t want to use email to discuss photos he’s shared.</p>
   </article>
 
-  <article class="personaCard">
+  <article class="mediumBreak personaCard">
     <header>
-      <h3>Adrienne</h3>
+      <h3 class="headerWithP">Adrienne</h3>
       <p>UX designer</p>
     </header>
 
@@ -48,9 +48,9 @@
     <p>Adrienne wishes photo sorting and sharing was more enjoyable. She doesn’t like the amount of time it can take to find a particular picture.</p>
   </article>
 
-  <article class="personaCard">
+  <article class="mediumBreak personaCard">
     <header>
-      <h3>Jean</h3>
+      <h3 class="headerWithP">Jean</h3>
       <p>illustrator and graphic designer</p>
     </header>
 
@@ -67,9 +67,9 @@
   </article>
 </section> <!-- end personas -->
 
-<section> <!-- user stories -->
+<section class="mediumBreak"> <!-- user stories -->
   <header>
-    <h2>User stories</h2>
+    <h2 class="headerWithP">User stories</h2>
     <p>
       <a href="https://docs.google.com/spreadsheets/d/16q3cgDIgeU6s8arXSn1Y3eMI1SCY9AIanu35P59fqY4/edit?usp=sharing">story spreadsheet</a>
     </p>
@@ -80,9 +80,9 @@
   <p>Administrator tasks were not included in the MVP, but should be considered for future development.</p>
 </section> <!-- end user stories -->
 
-<section> <!-- user flows -->
+<section class="medBreak"> <!-- user flows -->
   <header>
-    <h2>User flows</h2>
+    <h2 class="headerWithP">User flows</h2>
     <p>
       <a href="https://photos.app.goo.gl/aztZhvVhkCP181qy5">sketches</a>,
       <a href="https://drive.google.com/drive/folders/1XPv79YS1-zoFnEEOQ3lvJxKOktbMxvhz?usp=sharing">finished diagrams</a>
@@ -92,9 +92,9 @@
   <p>Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>
 </section> <!-- end user flows -->
 
-<section> <!-- content strategy -->
+<section class="medBreak"> <!-- content strategy -->
   <header>
-    <h2>Content strategy</h2>
+    <h2 class="headerWithP">Content strategy</h2>
     <p>
       <a href="https://drive.google.com/file/d/183QfjSOy3Kk1dEQ7lY1EaMt5PYfma_H1/view?usp=sharing">site map</a>,
       <a href="https://drive.google.com/file/d/183QfjSOy3Kk1dEQ7lY1EaMt5PYfma_H1/view?usp=sharing">branding sketches</a>,
@@ -109,9 +109,9 @@
   <p>These artefacts became the skeleton for my wireframes.</p>
 </section> <!-- end content strategy -->
 
-<section> <!-- wireframes -->
+<section class="medBreak"> <!-- wireframes -->
   <header>
-    <h2>Wireframes</h2>
+    <h2 class="headerWithP">Wireframes</h2>
     <p>
       <a href="https://photos.app.goo.gl/eMCaAEY4GrbSuHLHA">sketches</a>,
       <a href="https://www.figma.com/file/OGfJVyaOtpHKKyxEiE4pEQIV/cloudWireframes?node-id=0%3A1">wires in Figma</a>
@@ -124,9 +124,9 @@
 
   <p>This taught me to start with atomic components before building outwards. I should have paid more attention to the smaller details first, built repeatable pieces, and then moved on to full screens and higher level processes.</p>
 
-  <section> <!-- prototype -->
+  <section class="mediumBreak"> <!-- prototype -->
     <header>
-      <h2>Lo-fi prototype</h2>
+      <h2 class="headerWithP">Lo-fi prototype</h2>
       <p>
         <a href="https://www.figma.com/proto/OGfJVyaOtpHKKyxEiE4pEQIV/cloudWireframes?node-id=0%3A1&scaling=min-zoom">clickable prototype</a>
       </p>
@@ -141,9 +141,9 @@
     <p>I began with a large set of screens for my desktop version (1440px width), and had to work backwards to make each desktop page responsive and to size things down for mobile screens. This order was backwards. In the future, I intend to start with the smallest breakpoints (beginning in mobile) and to build from there.</p>
   </section> <!-- end prototype -->
 
-  <section> <!-- testing -->
+  <section class="mediumBreak"> <!-- testing -->
     <header>
-      <h3>Testing</h3>
+      <h3 class="headerWithP">Testing</h3>
       <p>
         <a href="https://docs.google.com/document/d/1e2g1QqLh2anBu8npRgYEgkCc-YH8B7KxoMNkZruqhjQ/edit?usp=sharing">test script</a>,
         <a href="https://docs.google.com/document/d/1Ec0qJFvM-Q7k3bQSu5v_uWrmb0MqKzhseXGMN3T-T7Q/edit?usp=sharing">results and analysis</a>
@@ -163,9 +163,9 @@
       </ul>
     </ol>
 
-    <section> <!-- tester 1, Alex -->
+    <section class="smBreak"> <!-- tester 1, Alex -->
       <header>
-        <h4>Alex</h4>
+        <h4 class="headerWithP">Alex</h4>
         <p>36 y.o., female, Product Manager</p>
         <p>in person</p>
       </header>
@@ -173,9 +173,9 @@
       <p>Alex learned how the system worked, successfully completing each task, and was able to apply the same approach to similar tasks, but was not always satisfied with the methods. In particular, the overflow menu was problematic and the ‘new’/plus menu was not immediately obvious to her.</p>
     </section> <!-- end tester 1, Alex -->
 
-    <section> <!-- tester 2, Emma -->
+    <section class="smBreak"> <!-- tester 2, Emma -->
       <header>
-        <h4>Emma</h4>
+        <h4 class="headerWithP">Emma</h4>
         <p>65 y.o., female, Social Worker</p>
         <p>video conference</p>
       </header>
@@ -183,9 +183,9 @@
       <p>There were a number of pain points which left Emma unsure and made it difficult to move confidently through jot &. Without a ‘next’ button on tour pages, she wasn’t sure how to proceed. The connection between ‘upload’ and saving a file to the cloud was unclear to her. Using the overflow menu to delete or move objects was not obvious–she wanted to click on items and have the relevant options appear. Similar issues persisted in the notepad. The program was basically broken for her.</p>
     </section> <!-- end tester 2, Emma -->
 
-    <section> <!-- tester 3, Ken -->
+    <section class="smBreak"> <!-- tester 3, Ken -->
       <header>
-        <h4>Ken</h4>
+        <h4 class="headerWithP">Ken</h4>
         <p>68 y.o., male, retired Lawyer and Banker</p>
         <p>video conference</p>
       </header>
@@ -193,7 +193,7 @@
       <p>Ken wanted a more explicitly guided experience, with clearer actions. He had similar issues to Alex and Emma above.</p>
     </section> <!-- end tester 3, Ken -->
 
-    <section> <!-- results -->
+    <section class="medBreak"> <!-- results -->
       <header>
         <h3>Resultant action</h3>
       </header>

@@ -1,10 +1,10 @@
-<header>
+<header class="centerGrid">
   <h1>Visual design</h1>
 </header>
 
-<section> <!-- branding -->
+<section class="medBreak"> <!-- branding -->
   <header>
-    <h2>Branding</h2>
+    <h2 class="headerWithP">Branding</h2>
     <p>
       <a href="https://photos.app.goo.gl/Wyf7B3deGEDaxchk8">mindmaps</a>,
       <a href="https://photos.app.goo.gl/FGLEMWGuJFmU9oj48">logo sketches</a>,
@@ -22,9 +22,9 @@
   <p>The brand color, a bright violet, mixes work and play. The brand copy of Poppins sets a jaunty, bold feel, while the body copy of Open Sans reassures with professionalism and reliability. Jot &amp’s logo brings all of this together in a playful, geometric combination of the brand name, a camera, and a stylus.</p>
 </section> <!-- end branding -->
 
-<section> <!-- hi-fi wireframes -->
+<section class="medBreak"> <!-- hi-fi wireframes -->
   <header>
-    <h2>Hi-fi wireframes</h2>
+    <h2 class="headerWithP">Hi-fi wireframes</h2>
     <p><a href="https://www.figma.com/file/BvOs1gYiZ40By1v86qFXTL/cloudRefine">mockup</a></p>
   </header>
 
@@ -34,25 +34,25 @@
 
   <p>To create a more straightforward experience I simplified pages, reset type, and added color while increasing consistency and whitespace, continuing this approach throughout the rest of the design process.</p>
 
-  <section> <!-- hi-fi prototype -->
+  <section class="medBreak"> <!-- hi-fi prototype -->
     <header>
-      <h2>Hi-fi prototype</h2>
+      <h2 class="headerWithP">Hi-fi prototype</h2>
       <p><a href="https://www.figma.com/proto/BvOs1gYiZ40By1v86qFXTL/cloudRefine?scaling=min-zoom">clickable prototype</a></p>
     </header>
 
     <p>While working on my mockup, I built connections between pages and components for a Figma prototype. I tested its features during this process upon changes, and again before user testing. There weren’t any big surprises this time, just minor bugs I fixed before moving on to testing.</p>
   </section> <!-- end hi-fi prototype -->
 
-  <section> <!-- testing -->
+  <section class="medBreak"> <!-- testing -->
     <header>
-      <h3>Testing</h3>
+      <h3 class="headerWithP">Testing</h3>
       <p><a href="https://docs.google.com/document/d/17_bbxnWsodth0zANs9ScN6jnsRaxHzyOO1Dx5RtIA5o/edit?usp=sharing" >script</a>, <a href="https://docs.google.com/document/d/1d8AtdfETmOCmeqdB7ep-7KK-fPyiaY03M3pzOEmaZ6w/edit?usp=sharing" >results and analysis</a></p>
     </header>
 
     <p>I conducted three informal, in-person, qualitative tests to look into the branding, copy, visual design, and functionality of my prototype. These resulted in fairly clear guidance, leading to immediate changes and direction for preference testing.</p>
 
-    <section> <!-- tester David -->
-      <header>
+    <section class="smBreak"> <!-- tester David -->
+      <header class="headerWithP">
         <h4>David</h4>
         <p>69 years old, male, retired Sales and Management Trainer</p>
       </header>
@@ -62,9 +62,9 @@
       <p>In app, David appreciated the presentation and “content flow” of text, color, and layout. He said, “It was great until using the menu. Then I felt like I needed a step-by-step guide,” but, “I like the whole concept of jot &amp.” He was able to move, delete, and restore items easily, but found uploading difficult.</p>
     </section> <!-- end tester David -->
 
-    <section> <!-- tester Devin -->
+    <section class="smBreak"> <!-- tester Devin -->
       <header>
-        <h4>Devin</h4>
+        <h4 class="headerWithP">Devin</h4>
         <p>35 years old, male, Welder</p>
       </header>
 
@@ -73,9 +73,9 @@
       <p>Devin breezed through onboarding and the tour of jot & with few questions. He was able to navigate the app at a brisk pace, only pausing briefly to figure out how to upload items. Devin described the app as functional, sensible, and user-friendly. He praised its art, colors, and layout. He said he would use the app and share it with others.</p>
     </section> <!-- end tester Devin -->
 
-    <section> <!-- tester Wesley -->
+    <section class="smBreak"> <!-- tester Wesley -->
       <header>
-        <h4>Wesley</h4>
+        <h4 class="headerWithP">Wesley</h4>
         <p>38 years old, male, Video Gamer</p>
       </header>
 
@@ -88,7 +88,7 @@
       <p>Wesley felt jot &amp was “relaxed and calm” but also “a little sad,” because the app was so overwhelmingly gray. He suggested adding different colors for file icons, with different colors for each file type.</p>
     </section> <!-- end tester Wesley -->
 
-    <section> <!-- results -->
+    <section class="medBreak"> <!-- results -->
       <header>
         <h3>Resultant action</h3>
       </header>
@@ -103,9 +103,9 @@
     </section> <!-- end results -->
   </section> <!-- end testing -->
 
-  <section> <!-- preference tests -->
+  <section class="medBreak"> <!-- preference tests -->
     <header>
-      <h3>Preference tests</h3>
+      <h3 class="headerWithP">Preference tests</h3>
       <p><a href="https://docs.google.com/document/d/1oKUHSqGzvwyJrSO2bsXQD86Igto7JDxRwu_BxuoYFYs/edit?usp=sharing">tests, results, and analysis</a></p>
     </header>
 
@@ -113,7 +113,7 @@
 
   </section> <!-- end preference tests -->
 
-  <section> <!-- finishing touches -->
+  <section class="medBreak"> <!-- finishing touches -->
     <header>
       <h3>Finishing touches</h3>
     </header>
@@ -125,4 +125,3 @@
     <p>I updated the styleguide, adding pages for the colors of file icons and buttons and  a section covering hover and click states for clickable icons and links.</p>
   </section> <!-- end finishing touches -->
 </section> <!-- end hi-fi wireframes -->
-

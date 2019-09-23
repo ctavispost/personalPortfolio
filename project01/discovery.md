@@ -1,4 +1,4 @@
-<header>
+<header class="centerGrid">
   <h1>Discovery</h1>
 </header>
 
@@ -42,8 +42,8 @@
 </section> <!-- end competitive analysis -->
 
 <section class="medBreak"> <!-- user survey -->
-  <header class="headerWithP">
-    <h2>User surveys</h2>
+  <header>
+    <h2 class="headerWithP">User surveys</h2>
     <p>
       <a href="https://docs.google.com/document/d/1IHJvq1w5f7r7YySX0X0GNedk00ECIwRaf9I908ixWHM/edit?usp=sharing">survey results and analysis</a>
     </p>
