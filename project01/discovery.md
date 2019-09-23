@@ -2,7 +2,7 @@
   <h1>Discovery</h1>
 </header>
 
-<section> <!-- ux strategy -->
+<section class="medBreak"> <!-- ux strategy -->
   <header>
     <h2>Defining questions</h2>
     <p>
@@ -21,9 +21,9 @@
   <p>I set out to answer these questions through competitive analysis and user surveys.</p>
 </section> <!-- end ux strategy -->
 
-<section> <!-- competitive analysis -->
+<section class="medBreak"> <!-- competitive analysis -->
   <header>
-    <h2>Competitive analysis</h2>
+    <h2 class="headerWithP">Competitive analysis</h2>
     <p>
       <a href="https://docs.google.com/document/d/1HgViwIEgB70t-5nhOErMvRskMoC-aQfqty4rWqXPpx4/edit?usp=sharing">SWOT of Google Drive, Dropbox, and Evernote</a>
     </p>
@@ -41,8 +41,8 @@
   <p>All services supported saving, sharing, text-editing, and some form of collaboration. These broad areas of overlap were the start of an MVP.</p>
 </section> <!-- end competitive analysis -->
 
-<section> <!-- user survey -->
-  <header>
+<section class="medBreak"> <!-- user survey -->
+  <header class="headerWithP">
     <h2>User surveys</h2>
     <p>
       <a href="https://docs.google.com/document/d/1IHJvq1w5f7r7YySX0X0GNedk00ECIwRaf9I908ixWHM/edit?usp=sharing">survey results and analysis</a>
@@ -57,7 +57,7 @@
   </ul>
 </section> <!-- end user survey -->
 
-<section> <!-- mvp -->
+<section class="medBreak"> <!-- mvp -->
   <header>
     <h2>MVP</h2>
   </header>

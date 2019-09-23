@@ -285,7 +285,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 }
 
 a.darkLink {
-  color: #000;
+  color: hsla(0, 100%, 0%, 0.9);
 }
 
 /* .writing {
@@ -374,16 +374,56 @@ a.darkLink {
   max-width: var(--maxText);
 }
 
-.largeBreak {
+.lgBreak {
   margin-bottom: var(--mainGap);
 }
 
-.smallBreak {
-  margin-bottom: calc(var(--mainGap) / 2);
+.medBreak {
+  margin-bottom: calc(var(--mainGap) / 1.5);
 }
 
-.headWithSub {
+.smBreak {
   margin-top: calc(var(--mainGap) / 3);
+}
+
+.centerGrid {
+  display: grid;
+  justify-content: center;
+}
+
+button {
+    display: inline-block;
+    border: none;
+    padding: 1rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    background: #ffe082;
+    color: hsla(0, 100%, 0%, 0.9);
+    font-family: sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out,
+                transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+button:hover,
+button:focus {
+    background: #ffcc33;
+}
+
+button:focus {
+    outline: 1px solid #fff;
+    outline-offset: -4px;
+}
+
+button:active {
+    transform: scale(0.99);
+}
+
+.headerWithP {
   margin-bottom: 0;
   line-height: 0.25;
 }
