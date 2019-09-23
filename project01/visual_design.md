@@ -52,9 +52,9 @@
     <p>I conducted three informal, in-person, qualitative tests to look into the branding, copy, visual design, and functionality of my prototype. These resulted in fairly clear guidance, leading to immediate changes and direction for preference testing.</p>
 
     <section class="smBreak"> <!-- tester David -->
-      <header class="headerWithP">
-        <h4>David</h4>
-        <p>69 years old, male, retired Sales and Management Trainer</p>
+      <header>
+        <h4 class="headerWithP">David</h4>
+        <p>69 years old, male, retired Sales Trainer</p>
       </header>
 
       <p>David took his time moving through the app, reading carefully and considering things before moving on. He enjoyed the visuals, layouts, and copy in the landing and feature pages.</p>
