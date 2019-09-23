@@ -17,9 +17,9 @@
     </p>
   </header>
 
-  <p>Based on user and persona needs, jot &amp's primary values are creativity, communication, and dependability. Its promotional copy points to togetherness, sharing, memories, fun, and ease, while leaving room for business and work. There is a quiet emphasis on personal empowerment and ‘saving’.</p>
+  <p>Based on user and persona needs, jot &'s primary values are creativity, communication, and dependability. Its promotional copy points to togetherness, sharing, memories, fun, and ease, while leaving room for business and work. There is a quiet emphasis on personal empowerment and ‘saving’.</p>
 
-  <p>The brand color, a bright violet, mixes work and play. The brand copy of Poppins sets a jaunty, bold feel, while the body copy of Open Sans reassures with professionalism and reliability. Jot &amp’s logo brings all of this together in a playful, geometric combination of the brand name, a camera, and a stylus.</p>
+  <p>The brand color, a bright violet, mixes work and play. The brand copy of Poppins sets a jaunty, bold feel, while the body copy of Open Sans reassures with professionalism and reliability. Jot &’s logo brings all of this together in a playful, geometric combination of the brand name, a camera, and a stylus.</p>
 </section> <!-- end branding -->
 
 <section class="medBreak"> <!-- hi-fi wireframes -->
@@ -59,7 +59,7 @@
 
       <p>David took his time moving through the app, reading carefully and considering things before moving on. He enjoyed the visuals, layouts, and copy in the landing and feature pages.</p>
 
-      <p>In app, David appreciated the presentation and “content flow” of text, color, and layout. He said, “It was great until using the menu. Then I felt like I needed a step-by-step guide,” but, “I like the whole concept of jot &amp.” He was able to move, delete, and restore items easily, but found uploading difficult.</p>
+      <p>In app, David appreciated the presentation and “content flow” of text, color, and layout. He said, “It was great until using the menu. Then I felt like I needed a step-by-step guide,” but, “I like the whole concept of jot &.” He was able to move, delete, and restore items easily, but found uploading difficult.</p>
     </section> <!-- end tester David -->
 
     <section class="smBreak"> <!-- tester Devin -->
@@ -85,7 +85,7 @@
 
       <p>Wesley got through the signup and tour processes quickly and without questions. He thought the pages were useful. He was then able to move through the app easily and with little guidance.</p>
 
-      <p>Wesley felt jot &amp was “relaxed and calm” but also “a little sad,” because the app was so overwhelmingly gray. He suggested adding different colors for file icons, with different colors for each file type.</p>
+      <p>Wesley felt jot & was “relaxed and calm” but also “a little sad,” because the app was so overwhelmingly gray. He suggested adding different colors for file icons, with different colors for each file type.</p>
     </section> <!-- end tester Wesley -->
 
     <section class="medBreak"> <!-- results -->

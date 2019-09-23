@@ -1,6 +1,6 @@
 <section> <!-- future -->
   <header class="centerGrid">
-    <h1>The future of <span>jot &amp</span></h1>
+    <h1>The future of <span>jot &</span></h1>
   </header>
 
   <p>This is a complete MVP, which could be coded, tested, and delivered as a desktop web app. There is room for improvement, and more testing could done. In particular, the mobile version should go through user testing and be reiterated on.</p>
