@@ -36,7 +36,7 @@
       <p>UX designer</p>
     </header>
 
-    <img src="images/jotAnd/personaAdrienne.png" alt="Adrienne standing outside at night" class="smallPic">
+    <img src="images/jotAnd/personaAdrienne.jpg" alt="Adrienne standing outside at night" class="smallPic">
 
     <h4 class="smallLeading">Motivations:</h4>
     <p>Adrienne works with images, written documents, and forms across various apps. She spends more time than she would like trying to organize things.</p>
@@ -54,7 +54,7 @@
       <p>illustrator and graphic designer</p>
     </header>
 
-    <img src="images/jotAnd/personaJean.png" alt="Jean smiling in sunglasses" class="smallPic">
+    <img src="images/jotAnd/personaJean.jpg" alt="Jean smiling in sunglasses" class="smallPic">
 
     <h4 class="smallLeading">Motivations:</h4>
     <p>Jean sends clients moodboards, storyboards, and iterative sketches with notes. He keeps his projects organized.</p>
