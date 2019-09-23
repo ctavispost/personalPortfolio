@@ -1,6 +1,6 @@
-<header class="medBreak centerGrid">
-  <img src="images/jotAnd/lockupHorizontalDark.png" alt="jot & wordmark and logo lockup" height="100px">
-  <p>A web storage and notebook concept, <span>jot &</span> combines file storage and organization with a simple notepad. Notes offer a quick and easy way for people to share and collaborate.</p>
+<header class="centerGrid">
+  <img src="images/jotAnd/lockupHorizontalDark.png" alt="jot & wordmark and logo lockup" height="100px" class="center">
+  <p class="medBreak">A web storage and notebook concept, <span>jot &</span> combines file storage and organization with a simple notepad. Notes offer a quick and easy way for people to share and collaborate.</p>
 </header>
 
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">

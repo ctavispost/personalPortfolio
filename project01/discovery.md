@@ -2,7 +2,7 @@
   <h1>Discovery</h1>
 </header>
 
-<section class="medBreak"> <!-- ux strategy -->
+<section class="smBreak"> <!-- ux strategy -->
   <header>
     <h2>Defining questions</h2>
     <p>

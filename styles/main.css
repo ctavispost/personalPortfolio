@@ -374,6 +374,10 @@ a.darkLink {
   max-width: var(--maxText);
 }
 
+.center {
+  justify-self: center;
+}
+
 .lgBreak {
   margin-top: var(--mainGap);
 }

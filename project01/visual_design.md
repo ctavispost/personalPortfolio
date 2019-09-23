@@ -2,7 +2,7 @@
   <h1>Visual design</h1>
 </header>
 
-<section class="medBreak"> <!-- branding -->
+<section class="smBreak"> <!-- branding -->
   <header>
     <h2 class="headerWithP">Branding</h2>
     <p>

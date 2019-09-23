@@ -7,7 +7,7 @@ layout: default
   {% include_relative project01/summary.md %}
   </section>
 
-  <section class="projLimitWidth lgBreak">
+  <section class="projLimitWidth medBreak">
   {% include_relative project01/introduction.md %}
   </section>
 

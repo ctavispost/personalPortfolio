@@ -2,7 +2,7 @@
   <h1>Information architecture</h1>
 </header>
 
-<section class="mediumBreak"> <!-- personas -->
+<section class="smBreak"> <!-- personas -->
   <header>
     <h2 class="headerWithP">User personas</h2>
     <p>
@@ -12,7 +12,7 @@
 
   <p>Based upon survey responses and personal conversations, I created three personas to help guide future decisions.</p>
 
-  <article class="mediumBreak personaCard">
+  <article class="medBreak personaCard">
     <header>
       <h3 class="headerWithP">Phil</h3>
       <p>retail manager and photo enthusiast</p>
@@ -30,7 +30,7 @@
     <p>Phil wishes his uploads were faster. He doesn’t like pop-over messages suggesting he upgrade service. He doesn’t want to use email to discuss photos he’s shared.</p>
   </article>
 
-  <article class="mediumBreak personaCard">
+  <article class="medBreak personaCard">
     <header>
       <h3 class="headerWithP">Adrienne</h3>
       <p>UX designer</p>
@@ -48,7 +48,7 @@
     <p>Adrienne wishes photo sorting and sharing was more enjoyable. She doesn’t like the amount of time it can take to find a particular picture.</p>
   </article>
 
-  <article class="mediumBreak personaCard">
+  <article class="medBreak personaCard">
     <header>
       <h3 class="headerWithP">Jean</h3>
       <p>illustrator and graphic designer</p>
@@ -67,7 +67,7 @@
   </article>
 </section> <!-- end personas -->
 
-<section class="mediumBreak"> <!-- user stories -->
+<section class="medBreak"> <!-- user stories -->
   <header>
     <h2 class="headerWithP">User stories</h2>
     <p>
@@ -124,7 +124,7 @@
 
   <p>This taught me to start with atomic components before building outwards. I should have paid more attention to the smaller details first, built repeatable pieces, and then moved on to full screens and higher level processes.</p>
 
-  <section class="mediumBreak"> <!-- prototype -->
+  <section class="medBreak"> <!-- prototype -->
     <header>
       <h2 class="headerWithP">Lo-fi prototype</h2>
       <p>
@@ -141,7 +141,7 @@
     <p>I began with a large set of screens for my desktop version (1440px width), and had to work backwards to make each desktop page responsive and to size things down for mobile screens. This order was backwards. In the future, I intend to start with the smallest breakpoints (beginning in mobile) and to build from there.</p>
   </section> <!-- end prototype -->
 
-  <section class="mediumBreak"> <!-- testing -->
+  <section class="medBreak"> <!-- testing -->
     <header>
       <h3 class="headerWithP">Testing</h3>
       <p>
