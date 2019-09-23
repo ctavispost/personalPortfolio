@@ -20,13 +20,13 @@
 
     <img src="images/jotAnd/personaPhil.jpg" alt="Phil and his Nikon camera" class="smallPic">
 
-    <h4>Motivations:</h4>
+    <h4 class="smallLeading">Motivations:</h4>
     <p>Images take up most of Phil’s storage. He would like one service with a large amount of space for saving and sharing photos alongside comments.</p>
 
-    <h4>Goals:</h4>
+    <h4 class="smallLeading">Goals:</h4>
     <p>Phil wants to post directly to social networks or link others to a page with equal ease. He needs to be able to document incidents, combining photos and writing, and to collaborate on these with the rest of his team.</p>
 
-    <h4>Frustrations:</h4>
+    <h4 class="smallLeading">Frustrations:</h4>
     <p>Phil wishes his uploads were faster. He doesn’t like pop-over messages suggesting he upgrade service. He doesn’t want to use email to discuss photos he’s shared.</p>
   </article>
 
@@ -38,13 +38,13 @@
 
     <img src="images/jotAnd/personaAdrienne.png" alt="Adrienne standing outside at night" class="smallPic">
 
-    <h4>Motivations:</h4>
+    <h4 class="smallLeading">Motivations:</h4>
     <p>Adrienne works with images, written documents, and forms across various apps. She spends more time than she would like trying to organize things.</p>
 
-    <h4>Goals:</h4>
+    <h4 class="smallLeading">Goals:</h4>
     <p>She wants to be able to quickly and easily find, organize, and share files online.</p>
 
-    <h4>Frustrations:</h4>
+    <h4 class="smallLeading">Frustrations:</h4>
     <p>Adrienne wishes photo sorting and sharing was more enjoyable. She doesn’t like the amount of time it can take to find a particular picture.</p>
   </article>
 
@@ -56,13 +56,13 @@
 
     <img src="images/jotAnd/personaJean.png" alt="Jean smiling in sunglasses" class="smallPic">
 
-    <h4>Motivations:</h4>
+    <h4 class="smallLeading">Motivations:</h4>
     <p>Jean sends clients moodboards, storyboards, and iterative sketches with notes. He keeps his projects organized.</p>
 
-    <h4>Goals:</h4>
+    <h4 class="smallLeading">Goals:</h4>
     <p>Jean would like a single service from which to share and organize files. He needs to be able to attach notes to illustrations (without distracting from them) and to let clients respond or change files in real time.</p>
 
-    <h4>Frustrations:</h4>
+    <h4 class="smallLeading">Frustrations:</h4>
     <p>Jean doesn’t like available mobile apps and finds them difficult to manage. He is unsatisfied with the current file layouts and organization; he would like more visual and structured options.</p>
   </article>
 </section> <!-- end personas -->

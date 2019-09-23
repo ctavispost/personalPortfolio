@@ -374,7 +374,7 @@ a.darkLink {
   max-width: var(--maxText);
 }
 
-.centerimg {
+.centerImg {
   height: auto;
   justify-self: center;
   max-width: 100%;
@@ -448,6 +448,11 @@ h4 {
 
 .smallPic {
   max-width: 250px;
+}
+
+.smallLeading  {
+    margin-bottom: 0;
+    line-height: .75;
 }
 
 /* for about */

@@ -4,7 +4,7 @@
 
 <section class="smBreak"> <!-- ux strategy -->
   <header>
-    <h2>Defining questions</h2>
+    <h2 class="headerWithP">Defining questions</h2>
     <p>
       <a href="https://docs.google.com/document/d/1tjt01N_hKcYRORMEWI-b-Le8S9hJT_R8fhSkpouxKgQ/edit?usp=sharing">UX strategy</a>
     </p>
