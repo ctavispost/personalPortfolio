@@ -92,7 +92,6 @@
   <div class="centerGrid">
     <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg">
     <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg">
-    <img src="images/jotAnd/flowChartsLt.webp" alt="user-flow charts" class="centerImg">
   </div>
 
   <p>Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>
@@ -103,7 +102,7 @@
     <h2 class="headerWithP">Content strategy</h2>
     <p>
       <a href="https://drive.google.com/file/d/183QfjSOy3Kk1dEQ7lY1EaMt5PYfma_H1/view?usp=sharing">site map</a>,
-      <a href="https://drive.google.com/file/d/183QfjSOy3Kk1dEQ7lY1EaMt5PYfma_H1/view?usp=sharing">branding sketches</a>,
+      <a href="https://drive.google.com/open?id=1E45tZCBOaOxMjeVgoMtxw8kcBTOQs3vY">branding sketches</a>,
       <a href="https://docs.google.com/document/d/1KKm5PP05SXRa0FzlW_hRNbD4AR4U0OBkp1hMaWrFflc/edit?usp=sharing">content strategy</a>
     </p>
   </header>
