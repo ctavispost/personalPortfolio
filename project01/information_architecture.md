@@ -89,6 +89,12 @@
     </p>
   </header>
 
+  <div class="centerGrid">
+    <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg">
+    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg">
+    <img src="images/jotAnd/flowChartsLt.webp" alt="user-flow charts" class="centerImg">
+  </div>
+
   <p>Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>
 </section> <!-- end user flows -->
 

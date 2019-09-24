@@ -29,6 +29,12 @@
     </p>
   </header>
 
+  <div class="respImgGrid">
+    <img src="images/jotAnd/corporateLogos/googleDrive.png" alt="Google Drive logo lockup" class="centerImg">
+    <img src="images/jotAnd/corporateLogos/dropbox.png" alt="Dropbox logo lockup" class="centerImg">
+    <img src="images/jotAnd/corporateLogos/evernote.png" alt="Evernote logo lockup" class="centerImg">
+  </div>
+
   <p>By examining the apps and landing pages for these services and reading several industry analyses, I learned a strong competitor should:</p>
   <ul>
     <li>Establish a clear brand identity, especially on the landing page</li>
@@ -45,7 +51,8 @@
   <header>
     <h2 class="headerWithP">User surveys</h2>
     <p>
-      <a href="https://docs.google.com/document/d/1IHJvq1w5f7r7YySX0X0GNedk00ECIwRaf9I908ixWHM/edit?usp=sharing">survey results and analysis</a>
+      <a href="https://goo.gl/forms/Nc3Sbl9m6eSMWxXs2">survey</a>,
+      <a href="https://docs.google.com/document/d/1IHJvq1w5f7r7YySX0X0GNedk00ECIwRaf9I908ixWHM/edit?usp=sharing">results and analysis</a>
     </p>
   </header>
 

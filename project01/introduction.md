@@ -12,16 +12,16 @@
   <p>People want to share and organize their content (including photos and writing) quickly and easily.</p>
 </section> <!-- end problem -->
 
-<section class="medBreak"> <!-- solution -->
+<section class="lgBreak"> <!-- solution -->
   <header>
     <h2>The solution</h2>
   </header>
 
-  <div class="centerGrid smBreak">
+  <div class="centerGrid medBreak">
     <img src="images/jotAnd/jotLapNote.png" alt="jot & laptop dashboard in note view" class="centerImg">
   </div>
 
-  <p class="smBreak">This is a prototype for a responsive web app integrating storage and sharing services with a collaborative notepad. It empowers users to:</p>
+  <p class="medBreak">This is a prototype for a responsive web app integrating storage and sharing services with a collaborative notepad. It empowers users to:</p>
 
   <ul>
     <li>Save files and craft their structure</li>
