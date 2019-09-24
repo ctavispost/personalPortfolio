@@ -1,5 +1,8 @@
 <header class="centerGrid">
-  <img src="images/jotAnd/lockupHorizontalDark.png" alt="jot & wordmark and logo lockup" class="centerImg">
+  <img src="images/jotAnd/lockupHorizontalDark.png" alt="white, horizontal lockup for jot &" class="centerImg">
+
+  <img src="images/jotAnd/jotLapGrid.png" alt="laptop dashboard showing cloud files and folders" class="centerImg">
+
   <p class="medBreak">A web storage and notebook concept, <span>jot &</span> combines file storage and organization with a simple notepad. Notes offer a quick and easy way for people to share and collaborate.</p>
 </header>
 

@@ -1,3 +1,9 @@
+<section class="centerGrid respImgGrid">
+  <img src="images/jotAnd/jotMobGrid.png" alt="jot & mobile dashboard in grid view" class="centerImg">
+  <img src="images/jotAnd/jotMobList.png" alt="jot & mobile dashboard in list view" class="centerImg">
+  <img src="images/jotAnd/jotMobNote.webp" alt="jot & mobile dashboard in a note" class="centerImg">
+</section>
+
 <section> <!-- problem -->
   <header>
     <h2>The problem</h2>
@@ -10,6 +16,10 @@
   <header>
     <h2>The solution</h2>
   </header>
+
+  <section class="centerGrid respImgGrid">
+    <img src="images/jotAnd/jotLapNote.png" alt="jot & laptop dashboard in note view" class="centerImg">
+  </section>
 
   <p>This is a prototype for a responsive web app integrating storage and sharing services with a collaborative notepad. It empowers users to:</p>
 
