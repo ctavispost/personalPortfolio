@@ -4,7 +4,7 @@
   <img src="images/jotAnd/jotMobNote.webp" alt="jot & mobile dashboard in a note" class="centerImg">
 </section>
 
-<section> <!-- problem -->
+<section class="lgBreak"> <!-- problem -->
   <header>
     <h2>The problem</h2>
   </header>
@@ -17,11 +17,11 @@
     <h2>The solution</h2>
   </header>
 
-  <section class="centerGrid respImgGrid">
+  <div class="centerGrid smBreak">
     <img src="images/jotAnd/jotLapNote.png" alt="jot & laptop dashboard in note view" class="centerImg">
-  </section>
+  </div>
 
-  <p>This is a prototype for a responsive web app integrating storage and sharing services with a collaborative notepad. It empowers users to:</p>
+  <p class="smBreak">This is a prototype for a responsive web app integrating storage and sharing services with a collaborative notepad. It empowers users to:</p>
 
   <ul>
     <li>Save files and craft their structure</li>
