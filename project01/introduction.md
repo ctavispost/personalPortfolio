@@ -1,4 +1,4 @@
-<section class="centerGrid respImgGrid">
+<section class="centerGrid respImgGrid grid3Col">
   <img src="images/jotAnd/jotMobGrid.png" alt="jot & mobile dashboard in grid view" class="centerImg">
   <img src="images/jotAnd/jotMobList.png" alt="jot & mobile dashboard in list view" class="centerImg">
   <img src="images/jotAnd/jotMobNote.webp" alt="jot & mobile dashboard in a note" class="centerImg">
@@ -17,7 +17,8 @@
     <h2>The solution</h2>
   </header>
 
-  <div class="centerGrid medBreak">
+  <div class="centerGrid grid2Col respImgGrid medBreak">
+    <img src="images/jotAnd/jotLapList.png" alt="jot & laptop dashboard in list view" class="centerImg">
     <img src="images/jotAnd/jotLapNote.png" alt="jot & laptop dashboard in note view" class="centerImg">
   </div>
 

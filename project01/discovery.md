@@ -29,7 +29,7 @@
     </p>
   </header>
 
-  <div class="respImgGrid">
+  <div class="respImgGrid grid3Col">
     <img src="images/jotAnd/corporateLogos/googleDrive.png" alt="Google Drive logo lockup" class="centerImg">
     <img src="images/jotAnd/corporateLogos/dropbox.png" alt="Dropbox logo lockup" class="centerImg">
     <img src="images/jotAnd/corporateLogos/evernote.png" alt="Evernote logo lockup" class="centerImg">

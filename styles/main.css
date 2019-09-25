@@ -128,7 +128,7 @@ a:visited {
 
   /* background image */
   background-color: transparent;
-  background-image: url(/images/seattleSkylineSm.png); /* stand-in for similar image with lights... would like to show whole thing without making it too small; could animate on scroll using JS and CSS later on */
+  background-image: url(/images/seattleSkylineSm.png);
   background-position: bottom left;
   background-size: initial;
   background-repeat: no-repeat;
@@ -407,8 +407,15 @@ a.darkLink {
 
 .respImgGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   grid-gap: 2rem;
+}
+
+.grid3Col {
+  grid-template-columns: minmax(100px, 1fr) minmax(100px, 1fr) minmax(100px, 1fr));
+}
+
+.grid2Col {
+  grid-template-columns: minmax(100px, 1fr) minmax(100px, 1fr));
 }
 
 button {

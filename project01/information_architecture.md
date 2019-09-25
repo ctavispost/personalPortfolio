@@ -90,11 +90,11 @@
   </header>
 
   <div class="centerGrid">
-    <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg">
-    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg">
+    <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg smBreak smallPic">
+    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg smBreak">
   </div>
 
-  <p>Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>
+  <p class="smBreak">Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>
 </section> <!-- end user flows -->
 
 <section class="medBreak"> <!-- content strategy -->
@@ -108,14 +108,14 @@
   </header>
 
   <div class="centerGrid">
-    <img src="images/jotAnd/earlyBranding1.jpg" alt="sketches and notes for logo ideas" class="centerImg">
+    <img src="images/jotAnd/earlyBranding1.jpg" alt="sketches and notes for logo ideas" class="centerImg smallPic">
   </div>
 
   <p>Drawing logical connections between tasks in the user flows, I drew up a site map, and began to verbally lay out the app and landing page.</p>
 
   <p>To establish product tone, I sketched dummy wireframes, logos, and word association lists. I tried out several names, settling on the flexibility and invitational promise of 'jot &'.</p>
 
-  <p>These artefacts became the skeleton for my wireframes.</p>
+  <p>These artifacts became the skeleton for my wireframes.</p>
 </section> <!-- end content strategy -->
 
 <section class="medBreak"> <!-- wireframes -->
@@ -127,12 +127,12 @@
     </p>
   </header>
 
-  <div class="centerGrid respImgGrid">
+  <div class="centerGrid grid2Col respImgGrid smBreak">
     <img src="images/jotAnd/sketchGrid.jpg" alt="sketch of a file dashboard in grid view" class="centerImg">
     <img src="images/jotAnd/lapFrame.png" alt="wireframe of a file dashboard in grid view" class="centerImg">
   </div>
 
-  <p>I began sketching wireframes at a fairly high level before transitioning to dummying pages in Figma.</p>
+  <p class="smBreak">I began sketching wireframes at a fairly high level before transitioning to dummying pages in Figma.</p>
 
   <p>As I began to build out wireframes, the project ballooned with the creation of dozens of eventually discarded pages. Exact steps in processes turned out to be hard to pin down, and as I made changes in one place, it became difficult to maintain consistency.</p>
 
@@ -148,7 +148,7 @@
 
     <p>After working out many of the problems in the static screens, I began to compose a clickable prototype. This turned out to be one of the hardest and most demanding sections of my work. I ended up making hundreds of pages of material while running into previously unknown constraints in Figma.</p>
 
-    <p>I eventually dropped many responses to user input (such as hover states in menus or above icons) and leaf the prototype less interactive than planned in order to achieve functionality.</p>
+    <p>I eventually dropped many responses to user input (such as hover states in menus or above icons), making the prototype less interactive than planned in order to achieve functionality.</p>
 
     <p>I continued to replace individual pieces with components and struggled to standardize my screens.</p>
 
@@ -212,7 +212,7 @@
         <h3>Resultant action</h3>
       </header>
 
-      <p>The testers were able to navigate the landing page and sign up easily. However, the onboarding tour and empty state screen posed problems. Alleviating fear was the most important thing I had to do after testing.</p>
+      <p>The testers were able to navigate the landing page and sign up easily. However, the onboarding tour and empty-state screen posed problems. Alleviating fear was the most important thing I had to do after testing.</p>
 
       <p>Improved tour directions and the addition of buttons to advance the tour let users ease in to the experience.</p>
 

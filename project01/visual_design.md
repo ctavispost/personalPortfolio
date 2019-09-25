@@ -2,6 +2,10 @@
   <h1>Visual design</h1>
 </header>
 
+<div class="centerGrid smBreak">
+  <img src="images/jotAnd/logos.png" alt="black and white squares and circles containing different colorations of the jot & logo" class="centerImg">
+</div>
+
 <section class="smBreak"> <!-- branding -->
   <header>
     <h2 class="headerWithP">Branding</h2>
@@ -17,7 +21,11 @@
     </p>
   </header>
 
-  <p>Based on user and persona needs, jot &'s primary values are creativity, communication, and dependability. Its promotional copy points to togetherness, sharing, memories, fun, and ease, while leaving room for business and work. There is a quiet emphasis on personal empowerment and ‘saving’.</p>
+  <div class="centerGrid smallerBreak">
+    <img src="images/jotAnd/moodboard.jpg" alt="muticolored moodboard with various scenes and people" class="centerImg smallPic">
+  </div>
+
+  <p class="smallerBreak">Based on user and persona needs, jot &'s primary values are creativity, communication, and dependability. Its promotional copy points to togetherness, sharing, memories, fun, and ease, while leaving room for business and work. There is a quiet emphasis on personal empowerment and ‘saving’.</p>
 
   <p>The brand color, a bright violet, mixes work and play. The brand copy of Poppins sets a jaunty, bold feel, while the body copy of Open Sans reassures with professionalism and reliability. Jot &’s logo brings all of this together in a playful, geometric combination of the brand name, a camera, and a stylus.</p>
 </section> <!-- end branding -->
@@ -28,7 +36,13 @@
     <p><a href="https://www.figma.com/file/BvOs1gYiZ40By1v86qFXTL/cloudRefine">mockup</a></p>
   </header>
 
-  <p>With the branding set, I began to apply it to create a mockup from my wireframes in Figma.</p>
+  <div class="centerGrid grid3Col respImgGrid smBreak">
+    <img src="images/jotAnd/hifiGrid.jpg" alt="high fidelity mockup of grid dashboard" class="centerImg">
+    <img src="images/jotAnd/hifiList.jpg" alt="high fidelity mockup of list dashboard" class="centerImg">
+    <img src="images/jotAnd/hifiNote.jpg" alt="high fidelity mockup of note dashboard" class="centerImg">
+  </div>
+
+  <p class="smBreak">With the branding set, I began to apply it to create a mockup from my wireframes in Figma.</p>
 
   <p>First, I found free images which matched the brand, illustrated them in Autodesk Sketchbook (iOS), simplified the images in Adobe Illustrator, and added them to the landing and features pages.</p>
 
@@ -122,6 +136,6 @@
 
     <p>For the prototype, I made the logo clickable, added a page for search results, adjusted related overlays, and fixed a glitch which made some menu options activate upon hovering.</p>
 
-    <p>I updated the styleguide, adding pages for the colors of file icons and buttons and  a section covering hover and click states for clickable icons and links.</p>
+    <p>I updated the styleguide, adding pages for the colors of file icons and buttons and a section covering hover and click states for clickable icons and links.</p>
   </section> <!-- end finishing touches -->
 </section> <!-- end hi-fi wireframes -->
