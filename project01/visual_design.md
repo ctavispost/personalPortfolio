@@ -6,7 +6,7 @@
   <img src="images/jotAnd/logos.png" alt="black and white squares and circles containing different colorations of the jot & logo" class="centerImg">
 </div>
 
-<section class="smBreak"> <!-- branding -->
+<section class="lgBreak"> <!-- branding -->
   <header>
     <h2 class="headerWithP">Branding</h2>
     <p>
@@ -21,11 +21,11 @@
     </p>
   </header>
 
-  <div class="centerGrid smallerBreak">
+  <div class="centerGrid smBreak">
     <img src="images/jotAnd/moodboard.jpg" alt="muticolored moodboard with various scenes and people" class="centerImg smallPic">
   </div>
 
-  <p class="smallerBreak">Based on user and persona needs, jot &'s primary values are creativity, communication, and dependability. Its promotional copy points to togetherness, sharing, memories, fun, and ease, while leaving room for business and work. There is a quiet emphasis on personal empowerment and ‘saving’.</p>
+  <p class="smBreak">Based on user and persona needs, jot &'s primary values are creativity, communication, and dependability. Its promotional copy points to togetherness, sharing, memories, fun, and ease, while leaving room for business and work. There is a quiet emphasis on personal empowerment and ‘saving’.</p>
 
   <p>The brand color, a bright violet, mixes work and play. The brand copy of Poppins sets a jaunty, bold feel, while the body copy of Open Sans reassures with professionalism and reliability. Jot &’s logo brings all of this together in a playful, geometric combination of the brand name, a camera, and a stylus.</p>
 </section> <!-- end branding -->

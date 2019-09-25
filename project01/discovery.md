@@ -30,9 +30,9 @@
   </header>
 
   <div class="respImgGrid grid3Col">
-    <img src="images/jotAnd/corporateLogos/googleDrive.png" alt="Google Drive logo lockup" class="centerImg">
-    <img src="images/jotAnd/corporateLogos/dropbox.png" alt="Dropbox logo lockup" class="centerImg">
-    <img src="images/jotAnd/corporateLogos/evernote.png" alt="Evernote logo lockup" class="centerImg">
+    <img src="images/jotAnd/corporateLogos/googleDriveLogo.png" alt="Google Drive logo lockup" class="centerImg">
+    <img src="images/jotAnd/corporateLogos/dropboxLogo.png" alt="Dropbox logo lockup" class="centerImg">
+    <img src="images/jotAnd/corporateLogos/evernoteLogo.png" alt="Evernote logo lockup" class="centerImg">
   </div>
 
   <p>By examining the apps and landing pages for these services and reading several industry analyses, I learned a strong competitor should:</p>
