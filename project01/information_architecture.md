@@ -107,6 +107,10 @@
     </p>
   </header>
 
+  <div class="centerGrid">
+    <img src="images/jotAnd/earlyBranding1.jpg" alt="sketches and notes for logo ideas" class="centerImg">
+  </div>
+
   <p>Drawing logical connections between tasks in the user flows, I drew up a site map, and began to verbally lay out the app and landing page.</p>
 
   <p>To establish product tone, I sketched dummy wireframes, logos, and word association lists. I tried out several names, settling on the flexibility and invitational promise of 'jot &'.</p>
@@ -122,6 +126,11 @@
       <a href="https://www.figma.com/file/OGfJVyaOtpHKKyxEiE4pEQIV/cloudWireframes?node-id=0%3A1">wires in Figma</a>
     </p>
   </header>
+
+  <div class="centerGrid respImgGrid">
+    <img src="images/jotAnd/sketchGrid.jpg" alt="sketch of a file dashboard in grid view" class="centerImg">
+    <img src="images/jotAnd/lapFrame.png" alt="wireframe of a file dashboard in grid view" class="centerImg">
+  </div>
 
   <p>I began sketching wireframes at a fairly high level before transitioning to dummying pages in Figma.</p>
 
