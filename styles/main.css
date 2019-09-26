@@ -378,7 +378,7 @@ a.darkLink {
 }
 
 #collapsibleNav:target > #plus { /* hides #plus when list is open */
-  display: nplus;
+  display: none;
 }
 
 #plus { /* pressing #plus opens list, hides #plus, and shows #collapse */
@@ -386,7 +386,7 @@ a.darkLink {
   width: 1.5rem;
   height: 1.5rem;
   text-align: center;
-  text-decoration: nplus;
+  text-decoration: none;
   background: #ffe082;
   cursor: pointer;
 }
@@ -396,12 +396,11 @@ a.darkLink {
 }
 
 #collapse { /* is hidden initially and when pressed */
-  margin-top: 40px; /* this line shouldn't be necessary, but... */
   padding: 1rem;
   width: 1.5rem;
   height: 1.5rem;
-  display: nplus;
-  text-decoration: nplus;
+  display: none;
+  text-decoration: none;
   text-align: center;
   background: #ffe082;
   cursor: pointer;
@@ -412,15 +411,15 @@ a.darkLink {
 }
 
 .contents { /* hides list initially and when #collapse is pressed */
-  display: nplus;
-  list-style-type: nplus;
+  display: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
 .contSect {
   padding: 1rem 2rem;
-  tex-decoration: nplus;
+  tex-decoration: none;
   background: #ffe082;
   cursor: pointer;
 }
