@@ -221,7 +221,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 
-.card:hover, .card:active {
+.card:hover, .card:active, .card:focus {
   background-color: var(--eightDpBg);
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
@@ -430,6 +430,7 @@ button {
     font-size: 1rem;
     cursor: pointer;
     text-align: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     transition: background 250ms ease-in-out,
                 transform 150ms ease;
     -webkit-appearance: none;
@@ -437,8 +438,10 @@ button {
 }
 
 button:hover,
-button:focus {
+button:focus,
+button:active {
     background: #ffcc33;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
 button:focus {
@@ -464,8 +467,12 @@ h4 {
 }
 
 .smallLeading  {
-    margin-bottom: 0;
-    line-height: .75;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+figcaption {
+  font-size: .8rem;
 }
 
 /* for about */
