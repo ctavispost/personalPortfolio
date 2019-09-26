@@ -1,4 +1,37 @@
-<section> <!-- future -->
+<section> <!-- start to finish -->
+  <header class="centerGrid">
+    <h1>From start to finish</h1>
+  </header>
+
+  <div class="centerGrid respImgGrid smBreak">
+    <div class="centerGrid grid2Col respImgGrid">
+      <figure>
+        <img src="images/jotAnd/sketchGrid.jpg" alt="sketch of a grid dashboard" class="centerImg">
+        <figcaption>early sketch</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/jotAnd/lapFrame.png" alt="wireframe grid dashboard" class="centerImg">
+        <figcaption>wireframe</figcaption>
+      </figure>
+    </div>
+
+    <div class="centerGrid grid2Col respImgGrid">
+      <figure>
+        <img src="images/jotAnd/hifiGrid.jpg" alt="high fidelity grid dashboard" class="centerImg">
+        <figcaption>hifi</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/jotAnd/finalGridLap.png" alt="hifi grid dashboard with more colors" class="centerImg">
+        <figcaption>present</figcaption>
+      </figure>
+    </div>
+  </div>
+
+</section> <!-- end start to finish -->
+
+<section class="lgBreak"> <!-- future -->
   <header class="centerGrid">
     <h1>The future of <span>jot &</span></h1>
   </header>

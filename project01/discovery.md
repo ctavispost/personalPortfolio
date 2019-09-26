@@ -29,13 +29,13 @@
     </p>
   </header>
 
-  <div class="respImgGrid grid3Col">
+  <div class="respImgGrid grid3Col smBreak">
     <img src="images/jotAnd/corporateLogos/googleDriveLogo.png" alt="Google Drive logo lockup" class="centerImg">
     <img src="images/jotAnd/corporateLogos/dropboxLogo.png" alt="Dropbox logo lockup" class="centerImg">
     <img src="images/jotAnd/corporateLogos/evernoteLogo.png" alt="Evernote logo lockup" class="centerImg">
   </div>
 
-  <p>By examining the apps and landing pages for these services and reading several industry analyses, I learned a strong competitor should:</p>
+  <p class="smBreak">By examining the apps and landing pages for these services and reading several industry analyses, I learned a strong competitor should:</p>
   <ul>
     <li>Establish a clear brand identity, especially on the landing page</li>
     <li>Minimize distractions, alowinging users to focus on their content</li>

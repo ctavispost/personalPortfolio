@@ -111,6 +111,18 @@
 
       <p>While users appreciated the colors of the feature and landing pages, they were less enthusiastic about the relative lack of color in the app. So I ran preference tests to see if pages could be livened up without causing distraction.</p>
 
+      <div class="centerGrid grid2Col respImgGrid">
+        <figure>
+          <img src="images/jotAnd/hifiTourPlus.png" alt="tour screen explaining the plus button" class="centerImg">
+          <figcaption>a tested tour screen</figcaption>
+        </figure>
+
+        <figure>
+          <img src="images/jotAnd/mockTourPlus.png" alt="tour screen explaining when to use the plus button" class="centerImg">
+          <figcaption>easier to read and more direct</figcaption>
+        </figure>
+      </div>
+
       <p>I adjusted the tour, simplifying micro-copy and reordering screens to give the introduction a better flow. I added ‘back’ buttons, in case someone wanted to reread a section or accidentally moved forward. Boxes were rendered white instead of gray to add to readability and user comprehension. I also positioned arrows more obviously.</p>
 
       <p>We discovered several bugs in the prototype during testing, such as images not responding to input properly or pages mistakenly loading as overlays. These were fixed afterwards.</p>

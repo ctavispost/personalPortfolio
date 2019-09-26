@@ -214,6 +214,18 @@
 
       <p>The testers were able to navigate the landing page and sign up easily. However, the onboarding tour and empty-state screen posed problems. Alleviating fear was the most important thing I had to do after testing.</p>
 
+      <div class="centerGrid grid2Col respImgGrid">
+        <figure>
+          <img src="images/jotAnd/wireTour03.jpg" alt="a wireframe tour screen pointing out the navbar" class="centerImg">
+          <figcaption>wireframe tour screen</figcaption>
+        </figure>
+
+        <figure>
+          <img src="images/jotAnd/hifiTour03.jpg" alt="a hifi tour screen pointing out the navbar" class="centerImg">
+          <figcaption>improved tour screen</figcaption>
+        </figure>
+      </div>
+
       <p>Improved tour directions and the addition of buttons to advance the tour let users ease in to the experience.</p>
 
       <p>I had assumed older users would be more comfortable using a drop-down menu system, this was not true. Instead, testers found the overflow menu confusing. They wanted the actions to be accessed by pressing an item itself. I followed their guidance. This helped diminish user fear and streamlined the process of acting on files and folders.</p>
