@@ -194,7 +194,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
    .studies {
      background-image: url(/images/pattern.svg);
      background-position: center center;
-     background-size: cover;
+     background-size: contain;
      background-repeat: no-repeat;
      grid-template-columns: repeat(2, 1fr);
      grid-template-rows: repeat(2, auto);
