@@ -1,7 +1,3 @@
-<header class="centerGrid">
-  <h1>Visual design</h1>
-</header>
-
 <div class="centerGrid smBreak">
   <img src="images/jotAnd/logos.png" alt="black and white squares and circles containing different colorations of the jot & logo" class="centerImg">
 </div>

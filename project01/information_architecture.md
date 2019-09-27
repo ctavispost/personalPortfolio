@@ -1,7 +1,3 @@
-<header class="centerGrid">
-  <h1>Information architecture</h1>
-</header>
-
 <section class="smBreak"> <!-- personas -->
   <header>
     <h2 class="headerWithP">User personas</h2>

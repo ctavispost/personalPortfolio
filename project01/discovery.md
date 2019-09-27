@@ -1,7 +1,3 @@
-<header class="centerGrid">
-  <h1>Discovery</h1>
-</header>
-
 <section class="smBreak"> <!-- ux strategy -->
   <header>
     <h2 class="headerWithP">Defining questions</h2>
