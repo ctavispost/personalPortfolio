@@ -2,19 +2,8 @@
 title: jot &
 layout: default
 ---
-<nav id="collapsibleNav">
-  <a href="#collapsibleNav" id="plus">&#43;</a>
-  <a href="#plus" id="collapse">&#45;</a>
-  <ul class="contents">
-    <li class="contSect">Introduction</li>
-    <li class="contSect">Discovery</li>
-    <li class="contSect">Information architecture</li>
-    <li class="contSect">Visual design</li>
-    <li class="contSect">Conclusion</li>
-  </ul>
-</nav>
-
 <article class="projContainer">
+
   <section class="projLimitWidth lgBreak">
   {% include_relative project01/summary.md %}
   </section>
@@ -23,19 +12,25 @@ layout: default
   {% include_relative project01/introduction.md %}
   </section>
 
-  <section class="projLimitWidth lgBreak">
+  <button class="accordion lgBreak"><h1>Discovery</h1></button>
+  <section class="projLimitWidth panel">
   {% include_relative project01/discovery.md %}
   </section>
 
-  <section class="projLimitWidth lgBreak">
+  <button class="accordion lgBreak"><h1>Information architecture</h1></button>
+  <section class="projLimitWidth panel">
   {% include_relative project01/information_architecture.md %}
   </section>
 
-  <section class="projLimitWidth lgBreak">
+  <button class="accordion lgBreak"><h1>Visual Design</h1></button>
+  <section class="projLimitWidth panel">
   {% include_relative project01/visual_design.md %}
   </section>
 
-  <section class="projLimitWidth lgBreak"> <!-- conclusions -->
+  <button class="accordion lgBreak"><h1>Conclusions</h1></button>
+  <section class="projLimitWidth panel"> <!-- conclusions -->
   {% include_relative project01/conclusions.md %}
   </section> <!-- conclusions -->
 </article>
+
+<script src="accordion.js"></script>
