@@ -192,6 +192,10 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 @media screen and (min-width: 800px) {
    .studies {
+     background-image: url(/images/pattern.svg);
+     background-position: center center;
+     background-size: cover;
+     background-repeat: no-repeat;
      grid-template-columns: repeat(2, 1fr);
      grid-template-rows: repeat(2, auto);
      grid-template-areas:
