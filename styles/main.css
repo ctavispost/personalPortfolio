@@ -498,8 +498,12 @@ h4 {
   line-height: .75;
 }
 
-figcaption {
+.figcaption {
   font-size: .8rem;
+}
+
+.zeroMargin {
+  margin: 0;
 }
 
 /* for about */

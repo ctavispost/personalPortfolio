@@ -108,12 +108,12 @@
       <p>While users appreciated the colors of the feature and landing pages, they were less enthusiastic about the relative lack of color in the app. So I ran preference tests to see if pages could be livened up without causing distraction.</p>
 
       <div class="centerGrid grid2Col respImgGrid">
-        <figure>
+        <figure class="zeroMargin">
           <img src="images/jotAnd/hifiTourPlus.png" alt="tour screen explaining the plus button" class="centerImg">
           <figcaption>a tested tour screen</figcaption>
         </figure>
 
-        <figure>
+        <figure class="zeroMargin">
           <img src="images/jotAnd/mockTourPlus.png" alt="tour screen explaining when to use the plus button" class="centerImg">
           <figcaption>easier to read and more direct</figcaption>
         </figure>

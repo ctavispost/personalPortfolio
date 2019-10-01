@@ -211,12 +211,12 @@
       <p>The testers were able to navigate the landing page and sign up easily. However, the onboarding tour and empty-state screen posed problems. Alleviating fear was the most important thing I had to do after testing.</p>
 
       <div class="centerGrid grid2Col respImgGrid">
-        <figure>
+        <figure class="zeroMargin">
           <img src="images/jotAnd/wireTour03.jpg" alt="a wireframe tour screen pointing out the navbar" class="centerImg">
           <figcaption>wireframe tour screen</figcaption>
         </figure>
 
-        <figure>
+        <figure class="zeroMargin">
           <img src="images/jotAnd/hifiTour03.jpg" alt="a hifi tour screen pointing out the navbar" class="centerImg">
           <figcaption>improved tour screen</figcaption>
         </figure>

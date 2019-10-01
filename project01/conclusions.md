@@ -5,24 +5,24 @@
 
   <div class="centerGrid respImgGrid smBreak">
     <div class="centerGrid grid2Col respImgGrid">
-      <figure>
+      <figure class="zeroMargin">
         <img src="images/jotAnd/sketchGrid.jpg" alt="sketch of a grid dashboard" class="centerImg">
         <figcaption>early sketch</figcaption>
       </figure>
 
-      <figure>
+      <figure class="zeroMargin">
         <img src="images/jotAnd/lapFrame.png" alt="wireframe grid dashboard" class="centerImg">
         <figcaption>wireframe</figcaption>
       </figure>
     </div>
 
     <div class="centerGrid grid2Col respImgGrid">
-      <figure>
+      <figure class="zeroMargin">
         <img src="images/jotAnd/hifiGrid.jpg" alt="high fidelity grid dashboard" class="centerImg">
         <figcaption>hifi</figcaption>
       </figure>
 
-      <figure>
+      <figure class="zeroMargin">
         <img src="images/jotAnd/finalGridLap.png" alt="hifi grid dashboard with more colors" class="centerImg">
         <figcaption>present</figcaption>
       </figure>
