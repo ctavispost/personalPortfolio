@@ -7,12 +7,6 @@ layout: default
 
     <!-- illustrations -->
     <div class="illustCard">
-      <img src="images/illustrations/florenceOregon.jpg" alt="woman walking Florence, OR beach" class="illustImg">
-      <p class="caption">'Through the sand in the wind'</p>
-      <p class="caption">digital illustration, 2018</p>
-    </div>
-
-    <div class="illustCard">
       <img src="images/illustrations/lakeWashington.jpg" alt="a woman in a sunhat at a park" class="illustImg">
       <p class="caption">'Overlooking Lake Washington on a fine day'</p>
       <p class="caption">digital illustration, 2018</p>
@@ -101,6 +95,12 @@ layout: default
       <img src="images/illustrations/kingstonCove.jpg" alt="Appletree Cove in Kingston, WA" class="illustImg">
       <p class="caption">'Appletree Cove'</p>
       <p class="caption">digital illustration, 2017</p>
+    </div>
+
+    <div class="illustCard">
+      <img src="images/illustrations/florenceOregon.jpg" alt="woman walking Florence, OR beach" class="illustImg">
+      <p class="caption">'Through the sand in the wind'</p>
+      <p class="caption">digital illustration, 2018</p>
     </div>
 
     <div class="illustCard">
