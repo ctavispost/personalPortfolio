@@ -147,3 +147,5 @@
     <p>I updated the styleguide, adding pages for the colors of file icons and buttons and a section covering hover and click states for clickable icons and links.</p>
   </section> <!-- end finishing touches -->
 </section> <!-- end hi-fi wireframes -->
+
+<div class="lgBreak"></div> <!-- empty div for spacing -->

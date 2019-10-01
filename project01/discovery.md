@@ -67,3 +67,5 @@
 
   <p>The aim: a responsive storage app integrated with a notepad, featuring sharing and collaboration.</p>
 </section> <!-- end mvp -->
+
+<div class="lgBreak"></div> <!-- empty div for spacing -->
