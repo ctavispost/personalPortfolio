@@ -269,16 +269,20 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   background-size: cover;
   background-repeat: no-repeat;
   grid-area: illust;
-  opacity: .8;
   max-width: 800px; /* width of selected image */
   max-height: 60vh;
   min-height: 300px; /* what looks good for selected image */
 }
 
-.illustration:hover, .illustation:active {
-  opacity: 1;
+.bgCover { /* set a background color overlay for cards with an image */
+  background-color: hsla(203, 9%, 17%, 0.25); /* oneDpBg in hsl with transparency */
+  width: 100%;
+  height: 100%;
 }
 
+.bgCover:hover, .bgCover:focus, .bgCover:active { /* overlay transparent when pressed, hovered, etc */
+  background-color: hsla(203, 9%, 17%, 0);
+}
 
 .illustLink {
   display: block;

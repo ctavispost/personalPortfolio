@@ -20,7 +20,7 @@ layout: default
   </article>
 
   <article class="card illustration">
-    <a href="illustration.html" class="darkLink illustLink">
+    <a href="illustration.html" class="bgCover darkLink illustLink">
       <h1>illustrations</h1>
     </a>
   </article>
