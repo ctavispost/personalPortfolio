@@ -359,6 +359,7 @@ a.darkLink {
 
 .illustImg {
   max-width: 100%;
+  max-height: 92vh;
   height: auto;
   object-fit: scale-down;
   margin-bottom: .3rem;
