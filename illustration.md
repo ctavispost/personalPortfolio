@@ -25,15 +25,15 @@ layout: default
     </div>
 
     <div class="illustCard">
-      <img src="images/illustrations/pugetSound.jpg" alt="Puget Sound sunset from Seattle waterfront" class="illustImg">
-      <p class="caption">'Sunset over the Salish Sea'</p>
-      <p class="caption">digital illustration, 2017</p>
-    </div>
-
-    <div class="illustCard">
       <img src="images/illustrations/lakeWashington.jpg" alt="a woman in a sunhat at a park" class="illustImg">
       <p class="caption">'Overlooking Lake Washington on a fine day'</p>
       <p class="caption">digital illustration, 2018</p>
+    </div>
+
+    <div class="illustCard">
+      <img src="images/illustrations/pugetSound.jpg" alt="Puget Sound sunset from Seattle waterfront" class="illustImg">
+      <p class="caption">'Sunset over the Salish Sea'</p>
+      <p class="caption">digital illustration, 2017</p>
     </div>
 
     <div class="illustCard">
@@ -43,32 +43,50 @@ layout: default
     </div>
 
     <div class="illustCard">
+      <picture class="illustImg">
+        <source srcset="images/illustrations/busLeopard.webp">
+        <img src="images/illustrations/busLeopard.jpg" alt="lady on the bus wearing a leopard print jacket">
+      </picture>
+      <p class="caption">'Bussing'</p>
+      <p class="caption">acrylic on canvas, 2016</p>
+    </div>
+
+    <div class="illustCard">
+      <picture class="illustImg">
+        <source srcset="images/illustrations/warnSignExplode.webp">
+        <img src="images/illustrations/warnSignExplode.jpg" alt="a simplified person staring directly into an exploding vent">
+      </picture>
+      <p class="caption">'Warning Signs: Life is Dangerous 2'</p>
+      <p class="caption">acrylic and paint-pen on board, 2016</p>
+    </div>
+
+    <div class="illustCard">
+      <picture class="illustImg">
+        <source srcset="images/illustrations/warnSignWave.webp">
+        <img src="images/illustrations/warnSignWave.jpg" alt="person on a jetty recoiling from a tall wave">
+      </picture>
+      <p class="caption">'Warning Signs: Life is Dangerous 3'</p>
+      <p class="caption">acrylic and paint-pen on board, 2016</p>
+    </div>
+
+    <div class="illustCard">
+      <picture class="illustImg">
+        <source srcset="images/illustrations/busRiders.webp">
+        <img src="images/illustrations/busRiders.jpg" alt="view from behind a woman and man on the bus">
+      </picture>
+      <p class="caption">'Bussing'</p>
+      <p class="caption">pigment and marker on paper, 2014</p>
+    </div>
+
+    <div class="illustCard">
       <img src="images/illustrations/sketching.jpg" alt="a lady sketching the landscape" class="illustImg">
       <p class="caption">'Sketching'</p>
       <p class="caption">digital illustration from stock photography, 2019</p>
     </div>
 
     <div class="illustCard">
-      <img src="images/illustrations/photographing.jpg" alt="a woman taking a picture while seated" class="illustImg">
-      <p class="caption">'Photographing'</p>
-      <p class="caption">digital illustration from stock photography, 2019</p>
-    </div>
-
-    <div class="illustCard">
-      <img src="images/illustrations/computing.jpg" alt="a young man studying in a lounge" class="illustImg">
-      <p class="caption">'Studying'</p>
-      <p class="caption">digital illustration from stock photography, 2019</p>
-    </div>
-
-    <div class="illustCard">
       <img src="images/illustrations/david.jpg" alt="close-up bust of a man, David" class="illustImg">
       <p class="caption">'David'</p>
-      <p class="caption">digital illustration, 2019</p>
-    </div>
-
-    <div class="illustCard">
-      <img src="images/illustrations/circuitree.jpg" alt="cellphone user walking toward a tree made of circuits" class="illustImg">
-      <p class="caption">'Circuit tree'</p>
       <p class="caption">digital illustration, 2019</p>
     </div>
 
@@ -82,6 +100,15 @@ layout: default
       <img src="images/illustrations/kingstonCove.jpg" alt="Appletree Cove in Kingston, WA" class="illustImg">
       <p class="caption">'Appletree Cove'</p>
       <p class="caption">digital illustration, 2017</p>
+    </div>
+
+    <div class="illustCard">
+      <picture class="illustImg">
+        <source srcset="images/illustrations/catbus.webp">
+        <img src="images/illustrations/catbus.jpg" alt="the Catbus from My Neighbor Totoro">
+      </picture>
+      <p class="caption">'Catbus' (Catbus &copy Studio Ghibli)</p>
+      <p class="caption">acrylic and paint-pen on board, 2016</p>
     </div>
 
     <div class="illustCard">
