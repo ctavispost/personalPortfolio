@@ -43,37 +43,25 @@ layout: default
     </div>
 
     <div class="illustCard">
-      <picture class="illustImg">
-        <source srcset="images/illustrations/busLeopard.webp">
-        <img src="images/illustrations/busLeopard.jpg" alt="lady on the bus wearing a leopard print jacket">
-      </picture>
+      <img src="images/illustrations/busLeopard.jpg" alt="lady on the bus wearing a leopard print jacket" class="illustImg">
       <p class="caption">'Bussing'</p>
       <p class="caption">acrylic on canvas, 2016</p>
     </div>
 
     <div class="illustCard">
-      <picture class="illustImg">
-        <source srcset="images/illustrations/warnSignExplode.webp">
-        <img src="images/illustrations/warnSignExplode.jpg" alt="a simplified person staring directly into an exploding vent">
-      </picture>
+      <img src="images/illustrations/warnSignExplode.jpg" alt="a simplified person staring directly into an exploding vent" class="illustImg">
       <p class="caption">'Warning Signs: Life is Dangerous 2'</p>
       <p class="caption">acrylic and paint-pen on board, 2016</p>
     </div>
 
     <div class="illustCard">
-      <picture class="illustImg">
-        <source srcset="images/illustrations/warnSignWave.webp">
-        <img src="images/illustrations/warnSignWave.jpg" alt="person on a jetty recoiling from a tall wave">
-      </picture>
+      <img src="images/illustrations/warnSignWave.jpg" alt="person on a jetty about to be swallowed by a tall wave" class="illustImg">
       <p class="caption">'Warning Signs: Life is Dangerous 3'</p>
       <p class="caption">acrylic and paint-pen on board, 2016</p>
     </div>
 
     <div class="illustCard">
-      <picture class="illustImg">
-        <source srcset="images/illustrations/busRiders.webp">
-        <img src="images/illustrations/busRiders.jpg" alt="view from behind a woman and man on the bus">
-      </picture>
+      <img src="images/illustrations/busRiders.jpg" alt="view from behind a woman and man on the bus" class="illustImg">
       <p class="caption">'Bussing'</p>
       <p class="caption">pigment and marker on paper, 2014</p>
     </div>
@@ -103,10 +91,7 @@ layout: default
     </div>
 
     <div class="illustCard">
-      <picture class="illustImg">
-        <source srcset="images/illustrations/catbus.webp">
-        <img src="images/illustrations/catbus.jpg" alt="the Catbus from My Neighbor Totoro">
-      </picture>
+      <img src="images/illustrations/catbus.jpg" alt="the Catbus from My Neighbor Totoro" class="illustImg">
       <p class="caption">'Catbus' (Catbus &copy Studio Ghibli)</p>
       <p class="caption">acrylic and paint-pen on board, 2016</p>
     </div>
