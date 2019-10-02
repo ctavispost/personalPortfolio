@@ -9,7 +9,7 @@
   <p>Based upon survey responses and personal conversations, I created three personas to help guide future decisions.</p>
 
   <article class="medBreak personaCard">
-    <div class="columnFlex maybeLeftMarg">
+    <div class="columnFlex maybeMarg">
       <header>
         <h3 class="headerWithP">Phil</h3>
         <p>retail manager and photo enthusiast</p>
@@ -19,7 +19,7 @@
       <p>large storage space, saving and sharing photos with comments</p>
 
       <h4 class="smallLeading">Goals:</h4>
-      <p>post direct to social networks, document incidents, combining photos and writing, collaborate with team</p>
+      <p>post direct to social networks, document incidents, combine photos and writing, collaborate with team</p>
 
       <h4 class="smallLeading">Frustrations:</h4>
       <p>slow uploads, sales modals, using email to discuss shared items</p>
@@ -31,7 +31,7 @@
   </article>
 
   <article class="medBreak personaCard">
-    <div class="columnFlex maybeLeftMarg">
+    <div class="columnFlex maybeMarg">
       <header>
         <h3 class="headerWithP">Adrienne</h3>
         <p>UX designer</p>
@@ -53,7 +53,7 @@
   </article>
 
   <article class="medBreak personaCard">
-    <div class="columnFlex maybeLeftMarg">
+    <div class="columnFlex maybeMarg">
       <header>
         <h3 class="headerWithP">Jean</h3>
         <p>illustrator and graphic designer</p>
