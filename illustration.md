@@ -87,7 +87,7 @@ layout: default
 
     <div class="illustCard">
         <img src="images/illustrations/catbus.jpg" alt="the Catbus from My Neighbor Totoro" class="illustImg">
-        <p class="caption">'Catbus' (Catbus &copy Studio Ghibli)</p>
+        <p class="caption">'Catbus' (Catbus &copy; Studio Ghibli)</p>
         <p class="caption">acrylic and paint-pen on board, 2016</p>
     </div>
 
