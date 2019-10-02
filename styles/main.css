@@ -34,9 +34,9 @@ html {
 /* remove all animations and transitions for people who prefer not to see them */
 @media (prefers-reduced-motion: reduce) {
   * {
-    animation-play-state: paused !important;
-    transition: none !important;
-    scroll-behavior: auto !important;
+    animation-play-state: paused;
+    transition: none;
+    scroll-behavior: auto;
   }
 }
 
@@ -504,6 +504,37 @@ h4 {
 .headerWithP {
   margin-bottom: 0;
   line-height: 0.25;
+}
+
+.personaCard {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width:501px) {
+  .personaCard {
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: var(--oneDpBg);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  }
+}
+
+@media screen and (min-width:501px) {
+  .columnFlex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .maybeLeftMarg {
+    margin-left: var(--outerMargin);
+  }
+}
+
+.displayFirst {
+  order: -1;
 }
 
 .smallPic {

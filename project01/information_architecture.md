@@ -9,57 +9,69 @@
   <p>Based upon survey responses and personal conversations, I created three personas to help guide future decisions.</p>
 
   <article class="medBreak personaCard">
-    <header>
-      <h3 class="headerWithP">Phil</h3>
-      <p>retail manager and photo enthusiast</p>
-    </header>
+    <div class="columnFlex maybeLeftMarg">
+      <header>
+        <h3 class="headerWithP">Phil</h3>
+        <p>retail manager and photo enthusiast</p>
+      </header>
 
-    <img src="images/jotAnd/personaPhil.jpg" alt="Phil and his Nikon camera" class="smallPic">
+      <h4 class="smallLeading">Motivations:</h4>
+      <p>large storage space, saving and sharing photos with comments</p>
 
-    <h4 class="smallLeading">Motivations:</h4>
-    <p>Images take up most of Phil’s storage. He would like one service with a large amount of space for saving and sharing photos alongside comments.</p>
+      <h4 class="smallLeading">Goals:</h4>
+      <p>post direct to social networks, document incidents, combining photos and writing, collaborate with team</p>
 
-    <h4 class="smallLeading">Goals:</h4>
-    <p>Phil wants to post directly to social networks or link others to a page with equal ease. He needs to be able to document incidents, combining photos and writing, and to collaborate on these with the rest of his team.</p>
+      <h4 class="smallLeading">Frustrations:</h4>
+      <p>slow uploads, sales modals, using email to discuss shared items</p>
+    </div>
 
-    <h4 class="smallLeading">Frustrations:</h4>
-    <p>Phil wishes his uploads were faster. He doesn’t like pop-over messages suggesting he upgrade service. He doesn’t want to use email to discuss photos he’s shared.</p>
+    <aside class="displayFirst">
+      <img src="images/jotAnd/personaPhil.jpg" alt="Phil and his Nikon camera" class="smallPic">
+    </aside>
   </article>
 
   <article class="medBreak personaCard">
-    <header>
-      <h3 class="headerWithP">Adrienne</h3>
-      <p>UX designer</p>
-    </header>
+    <div class="columnFlex maybeLeftMarg">
+      <header>
+        <h3 class="headerWithP">Adrienne</h3>
+        <p>UX designer</p>
+      </header>
 
-    <img src="images/jotAnd/personaAdrienne.jpg" alt="Adrienne standing outside at night" class="smallPic">
+      <h4 class="smallLeading">Motivations:</h4>
+      <p>works with images, writing, and forms</p>
 
-    <h4 class="smallLeading">Motivations:</h4>
-    <p>Adrienne works with images, written documents, and forms across various apps. She spends more time than she would like trying to organize things.</p>
+      <h4 class="smallLeading">Goals:</h4>
+      <p>quickly and easily find, organize, and share files</p>
 
-    <h4 class="smallLeading">Goals:</h4>
-    <p>She wants to be able to quickly and easily find, organize, and share files online.</p>
+      <h4 class="smallLeading">Frustrations:</h4>
+      <p>wants to enjoy sharing and organizing more</p>
+    </div>
 
-    <h4 class="smallLeading">Frustrations:</h4>
-    <p>Adrienne wishes photo sorting and sharing was more enjoyable. She doesn’t like the amount of time it can take to find a particular picture.</p>
+    <aside class="displayFirst">
+      <img src="images/jotAnd/personaAdrienne.jpg" alt="Adrienne standing outside at night" class="smallPic">
+    </aside>
   </article>
 
   <article class="medBreak personaCard">
-    <header>
-      <h3 class="headerWithP">Jean</h3>
-      <p>illustrator and graphic designer</p>
-    </header>
+    <div class="columnFlex maybeLeftMarg">
+      <header>
+        <h3 class="headerWithP">Jean</h3>
+        <p>illustrator and graphic designer</p>
+      </header>
 
-    <img src="images/jotAnd/personaJean.jpg" alt="Jean smiling in sunglasses" class="smallPic">
+      <h4 class="smallLeading">Motivations:</h4>
+      <p>moodboards, storyboards, and sketches with notes</p>
 
-    <h4 class="smallLeading">Motivations:</h4>
-    <p>Jean sends clients moodboards, storyboards, and iterative sketches with notes. He keeps his projects organized.</p>
+      <h4 class="smallLeading">Goals:</h4>
+      <p>single service from which to share and organize files, real-time collaboration</p>
 
-    <h4 class="smallLeading">Goals:</h4>
-    <p>Jean would like a single service from which to share and organize files. He needs to be able to attach notes to illustrations (without distracting from them) and to let clients respond or change files in real time.</p>
+      <h4 class="smallLeading">Frustrations:</h4>
+      <p>mobile apps, not enough structure or options</p>
+    </div>
 
-    <h4 class="smallLeading">Frustrations:</h4>
-    <p>Jean doesn’t like available mobile apps and finds them difficult to manage. He is unsatisfied with the current file layouts and organization; he would like more visual and structured options.</p>
+    <aside class="displayFirst">
+      <img src="images/jotAnd/personaJean.jpg" alt="Jean smiling in sunglasses" class="smallPic">
+    </aside>
   </article>
 </section> <!-- end personas -->
 
