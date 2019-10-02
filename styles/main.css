@@ -7,7 +7,7 @@ html {
   font-size: 100%; /* user agent selects base font-size */
   scroll-behavior: smooth;
 
-  --outerMargin: 40px;
+  --outerMargin: 20px;
   --headFootText: 1.2rem; /* text size for head and footer elements */
   --lineHeight: 1.5;
   --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
@@ -22,6 +22,22 @@ html {
 
 *, *:before, *:after {
   box-sizing: inherit;
+}
+
+/* increase outerMargin for screens over 500px width */
+@media screen and (min-width: 501px) {
+  html {
+    --outerMargin: 40px;
+  }
+}
+
+/* remove all animations and transitions for people who prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-play-state: paused !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
 }
 
 html, body {
@@ -68,7 +84,7 @@ a:visited {
 }
 
 .logo {
-  height: var(--outerMargin);
+  height: calc(var(--outerMargin) * 2 / 10 + 2rem);
 }
 
 .horizontalUl {
