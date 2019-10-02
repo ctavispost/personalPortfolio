@@ -511,7 +511,7 @@ h4 {
   flex-direction: column;
 }
 
-@media screen and (min-width:501px) { /* places photo to left of text on persona card */
+@media screen and (min-width:640px) { /* places photo to left of text on persona card */
   .personaCard {
     flex-direction: row;
     background-color: var(--oneDpBg);
@@ -520,7 +520,7 @@ h4 {
   }
 }
 
-@media screen and (min-width:501px) {
+@media screen and (min-width:640px) {
   .columnFlex { /* sets up a column next to smallPic containing text of persona */
     display: flex;
     flex-direction: column;
@@ -539,7 +539,7 @@ h4 {
   max-width: 250px;
 }
 
-@media screen and (min-width:501px) { /* leaves room for text to right */
+@media screen and (min-width:640px) { /* leaves room for text to right */
   .smallPic {
     height: 100%;
     max-width: 150px;
