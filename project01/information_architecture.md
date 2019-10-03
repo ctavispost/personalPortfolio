@@ -8,7 +8,7 @@
 
   <p>Based upon survey responses and personal conversations, I created three personas to help guide future decisions.</p>
 
-  <article class="medBreak personaCard conditional1Dp">
+  <article class="medBreak personaCard conditional1Dp conditionalFlexCol">
     <div class="columnFlex conditionalMarg">
       <header>
         <h3 class="headerWithP">Phil</h3>
@@ -30,7 +30,7 @@
     </aside>
   </article>
 
-  <article class="medBreak personaCard conditional1Dp">
+  <article class="medBreak personaCard conditional1Dp conditionalFlexCol">
     <div class="columnFlex conditionalMarg">
       <header>
         <h3 class="headerWithP">Adrienne</h3>
@@ -52,7 +52,7 @@
     </aside>
   </article>
 
-  <article class="medBreak personaCard conditional1Dp">
+  <article class="medBreak personaCard conditional1Dp conditionalFlexCol">
     <div class="columnFlex conditionalMarg">
       <header>
         <h3 class="headerWithP">Jean</h3>
@@ -97,9 +97,9 @@
     </p>
   </header>
 
-  <div class="personaCard">
+  <div class="conditionalFlexCol">
     <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg smBreak smallPic conditionalRightMarg">
-    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg smBreak">
+    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg smBreak fitContain">
   </div>
 
   <p class="smBreak">Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>
