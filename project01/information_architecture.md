@@ -8,8 +8,8 @@
 
   <p>Based upon survey responses and personal conversations, I created three personas to help guide future decisions.</p>
 
-  <article class="medBreak personaCard">
-    <div class="columnFlex maybeMarg">
+  <article class="medBreak personaCard conditional1Dp">
+    <div class="columnFlex conditionalMarg">
       <header>
         <h3 class="headerWithP">Phil</h3>
         <p>retail manager and photo enthusiast</p>
@@ -30,8 +30,8 @@
     </aside>
   </article>
 
-  <article class="medBreak personaCard">
-    <div class="columnFlex maybeMarg">
+  <article class="medBreak personaCard conditional1Dp">
+    <div class="columnFlex conditionalMarg">
       <header>
         <h3 class="headerWithP">Adrienne</h3>
         <p>UX designer</p>
@@ -52,8 +52,8 @@
     </aside>
   </article>
 
-  <article class="medBreak personaCard">
-    <div class="columnFlex maybeMarg">
+  <article class="medBreak personaCard conditional1Dp">
+    <div class="columnFlex conditionalMarg">
       <header>
         <h3 class="headerWithP">Jean</h3>
         <p>illustrator and graphic designer</p>
@@ -97,8 +97,8 @@
     </p>
   </header>
 
-  <div class="centerGrid">
-    <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg smBreak smallPic">
+  <div class="personaCard">
+    <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg smBreak smallPic conditionalRightMarg">
     <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg smBreak">
   </div>
 
