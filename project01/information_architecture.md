@@ -8,8 +8,8 @@
 
   <p>Based upon survey responses and personal conversations, I created three personas to help guide future decisions.</p>
 
-  <article class="medBreak personaCard conditional1Dp conditionalFlexCol">
-    <div class="columnFlex conditionalMarg">
+  <article class="medBreak personaCard conditional1Dp conditionalFlexRow">
+    <div class="conditionalFlexCol conditionalMarg">
       <header>
         <h3 class="headerWithP">Phil</h3>
         <p>retail manager and photo enthusiast</p>
@@ -30,8 +30,8 @@
     </aside>
   </article>
 
-  <article class="medBreak personaCard conditional1Dp conditionalFlexCol">
-    <div class="columnFlex conditionalMarg">
+  <article class="medBreak personaCard conditional1Dp conditionalFlexRow">
+    <div class="conditionalFlexCol conditionalMarg">
       <header>
         <h3 class="headerWithP">Adrienne</h3>
         <p>UX designer</p>
@@ -52,8 +52,8 @@
     </aside>
   </article>
 
-  <article class="medBreak personaCard conditional1Dp conditionalFlexCol">
-    <div class="columnFlex conditionalMarg">
+  <article class="medBreak personaCard conditional1Dp conditionalFlexRow">
+    <div class="conditionalFlexCol conditionalMarg">
       <header>
         <h3 class="headerWithP">Jean</h3>
         <p>illustrator and graphic designer</p>
@@ -97,9 +97,9 @@
     </p>
   </header>
 
-  <div class="conditionalFlexCol">
+  <div class="conditionalFlexRow">
     <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg smBreak smallPic conditionalRightMarg">
-    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg smBreak fitContain">
+    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg smBreak">
   </div>
 
   <p class="smBreak">Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>

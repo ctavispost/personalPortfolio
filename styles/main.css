@@ -380,7 +380,6 @@ a.darkLink {
   height: auto;
   object-fit: scale-down;
   margin-bottom: .3rem;
-  /* box-shadow: -1px 0px 0px rgba(0,0,0,0.06); */
 }
 
 .caption {
@@ -512,7 +511,7 @@ h4 {
     transition: all 0.3s cubic-bezier(.25,.8,.25,1);
   }
 
-  .conditionalFlexRow {
+  .conditionalFlexRow { /* places contained items in a row */
     display: flex;
     flex-direction: row;
   }
@@ -521,7 +520,7 @@ h4 {
     background-color: var(--oneDpBg);
   }
 
-  .conditionalFlexCol { /* sets up a column next to smallPic containing text of persona */
+  .conditionalFlexCol { /* sets up a column next to smallPic */
     display: flex;
     flex-direction: column;
   }
@@ -540,7 +539,7 @@ h4 {
 }
 
 @media screen and (min-width:640px) { /* resize smallPic and set margin to its right for larger screens */
-  .smallPic { /* leaves room for text to right */
+  .smallPic { /* leaves room for item to right */
     height: 100%;
     max-width: 150px;
     object-fit: cover;
