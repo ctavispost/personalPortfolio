@@ -95,16 +95,16 @@ layout: default
       <p class="caption">digital illustration, 2019</p>
     </article>
 
+    <article class="illustCard illustCardLong">
+      <img src="images/illustrations/kingstonCove.jpg" alt="Appletree Cove in Kingston, WA" class="illustImg">
+      <p class="caption">'Appletree Cove'</p>
+      <p class="caption">digital illustration, 2017</p>
+    </article>
+
     <article class="illustCard">
         <img src="images/illustrations/catbus.jpg" alt="the Catbus from My Neighbor Totoro" class="illustImg">
         <p class="caption">'Catbus' (Catbus &copy; Studio Ghibli)</p>
         <p class="caption">acrylic and paint-pen on board, 2016</p>
-    </article>
-
-    <article class="illustCard">
-      <img src="images/illustrations/kingstonCove.jpg" alt="Appletree Cove in Kingston, WA" class="illustImg">
-      <p class="caption">'Appletree Cove'</p>
-      <p class="caption">digital illustration, 2017</p>
     </article>
 
     <article class="illustCard">
