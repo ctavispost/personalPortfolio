@@ -435,6 +435,10 @@ a.darkLink {
   transition: 0.4s;
 }
 
+.accordBottomBorder {
+  border-bottom: 2px solid hsla(0, 0%, 0%, .2);
+}
+
 .panel {
   padding: 0 1rem;
   background-color: var(--mainBg);
