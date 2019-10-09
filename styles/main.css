@@ -262,7 +262,6 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 }
 
 .projPic {
-  order: -1;
   max-width: 100%;
   object-fit: contain;
 }
