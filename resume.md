@@ -2,7 +2,8 @@
 title: C Tavis Post UX resume
 layout: default
 ---
-
+{::options parse_block_html="true" /}
+<article class="card">
 # C. Tavis Post
 [tavispost@gmail.com](mailto:tavispost@gmail.com)
 206-992-1518
@@ -19,19 +20,19 @@ April 2018 - present
 
 **Fourth Manager, QFC**
 October 2008 - March 2018
-- Grew and mentored staff.
-- Turned customer feedback and data into strategies to increase profit and customer satisfaction.
-- Facilitated communication across departments and shifts.
+- Grew and mentored staff diverse staff of 64 people..
+- Consulted customers and employees directly, supplementing surveys and data to form strategies to increase profit, productivity, and customer satisfaction.
+- Facilitated cross-functional communication between departments and shifts, and the public, associates, and management.
 - Drove store planning using key metrics, increasing high satisfaction by 20%.
-- Ensured smooth experience for all.
+- Ensured smooth experience for all, accounting for customer experience and employee needs.
 
 **Writing Consultant, ELP Social Work**
 2012 - June 2018
-- Crafted narratives and plans for treatment and family reunification in complex cases.
+- Crafted narratives and plans for treatment and family reunification in complex cases with tight deadlines.
 
 **Volunteer, King County Superior Court CASA Office**
 March 1995 - August 2010
-- Wrote and edited abstracts, reports, letters.
+- Wrote and edited abstracts, reports, letters adjusting style to suit audience and purpose.
 - Developed, maintained tailored case database and trained social workers in its use.
 
 
@@ -45,7 +46,7 @@ UX, UI, and frontend design.
 Philosophy, Japanese.
 
 ## Skills
-prototyping, wireframes, flows, user tests, surveys, interviews, personas, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, user centered design, writing, UI
+prototyping, wireframes, flows, user tests, surveys, interviews, personas, user stories, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, accessible design, user centered design, writing, UI
 
 ## Tools
 Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Trello, Atom, pencil & paper
@@ -59,3 +60,5 @@ mass transit mobile app concept
 
 ## Interests
 hiking, drawing, graphic novels
+</article>
+{::options parse_block_html="false" /}
