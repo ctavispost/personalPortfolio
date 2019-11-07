@@ -3,8 +3,8 @@ title: C Tavis Post UX resume
 layout: default
 ---
 
-<article class="aboutContainer">
-<header class="textGrid">
+<article class="projText" markdown="1">
+<header class="textGrid" markdown="1">
 <div markdown="1">
 # C. Tavis Post
 </div>
@@ -16,15 +16,12 @@ layout: default
 </div>
 </header>
 
-<div class="textGrid">
-<div>
-<section markdown="1">
+<div class="textGrid" markdown="1">
+<div markdown="1">
 ## Profile
 {:.underlineBlock}
 From my lifelong passion for illustration, to customer service, to my work writing for child advocacy, I have seen that the right synthesis of form and function helps us solve problems, help people, and make the world a more interesting place. To that end, I am in the midst of a career shift from grocery management to UX. I blend my unique background with technical skills to design things that help people.
-</section>
 
-<section markdown="1">
 ## Experience
 {:.underlineBlock}
 **Sabbatical**
@@ -48,11 +45,9 @@ October 2008 - March 2018
 March 1995 - August 2010
 - Wrote and edited abstracts, reports, letters adjusting style to suit audience and purpose.
 - Developed, maintained tailored case database and trained social workers in its use.
-</section>
 </div>
 
-<div>  
-<section markdown="1">
+<div markdown="1">
 ## Education
 {:.underlineBlock}
 **Bloc.io Design Program**
@@ -62,21 +57,15 @@ UX, UI, and frontend design.
 **University of Washington**
 1999–2006
 Philosophy, Japanese.
-</section>
 
-<section markdown="1">
 ## Skills
 {:.underlineBlock}
 prototyping, wireframes, flows, user tests, surveys, interviews, personas, user stories, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, accessible design, user centered design, writing, UI
-</section>
 
-<section markdown="1">
 ## Tools
 {:.underlineBlock}
 Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Trello, Atom, pencil & paper
-</section>
 
-<section markdown="1">
 ## Projects
 {:.underlineBlock}
 [jot &](https://ctavispost.com/project01.html)
@@ -84,13 +73,10 @@ storage, notebook, PWA prototype
 
 [bus hop](https://docs.google.com/presentation/d/1k-YYYjvpRXqHV7TVsjBOHiaG0Ug9v9CoFzt_kIuZ8Vg/edit?usp=sharing)
 mass transit mobile app concept
-</section>
 
-<section markdown="1">
 ## Interests
 {:.underlineBlock}
 hiking, drawing, graphic novels
-</section>
 </div>
 </div>
 </article>
