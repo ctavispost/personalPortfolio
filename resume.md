@@ -22,7 +22,7 @@ layout: default
 From my lifelong passion for illustration, to customer service, to my work writing for child advocacy, I have seen that the right synthesis of form and function helps us solve problems, help people, and make the world a more interesting place. To that end, I am in the midst of a career shift from grocery management to UX. I blend my unique background with technical skills to design things that help people.
       </section>
 
-    <section markdown="1">
+      <section markdown="1">
 ## Experience
 **Sabbatical**
 April 2018 - present
