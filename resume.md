@@ -2,7 +2,7 @@
 title: C Tavis Post UX resume
 layout: default
 ---
-{::options parse_block_html="true" /}
+
 <article class="aboutContainer">
   <header class="textGrid">
     <div markdown="1">
@@ -19,11 +19,13 @@ layout: default
     <div>
       <section markdown="1">
 ## Profile
+{:.underlineBlock}
 From my lifelong passion for illustration, to customer service, to my work writing for child advocacy, I have seen that the right synthesis of form and function helps us solve problems, help people, and make the world a more interesting place. To that end, I am in the midst of a career shift from grocery management to UX. I blend my unique background with technical skills to design things that help people.
       </section>
 
       <section markdown="1">
 ## Experience
+{:.underlineBlock}
 **Sabbatical**
 April 2018 - present
 - Design UX, UI, and frontend development projects with Bloc.io, in meetups, and self-study.
@@ -51,6 +53,7 @@ March 1995 - August 2010
     <div>  
       <section markdown="1">
 ## Education
+{:.underlineBlock}
 **Bloc.io Design Program**
 2018–2019
 UX, UI, and frontend design.
@@ -62,16 +65,19 @@ Philosophy, Japanese.
 
       <section markdown="1">
 ## Skills
+{:.underlineBlock}
 prototyping, wireframes, flows, user tests, surveys, interviews, personas, user stories, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, accessible design, user centered design, writing, UI
       </section>
 
       <section markdown="1">
 ## Tools
+{:.underlineBlock}
 Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Trello, Atom, pencil & paper
       </section>
 
       <section markdown="1">
 ## Projects
+{:.underlineBlock}
 [jot &](https://ctavispost.com/project01.html)
 storage, notebook, PWA prototype
 
@@ -81,9 +87,9 @@ mass transit mobile app concept
 
       <section markdown="1">
 ## Interests
+{:.underlineBlock}
 hiking, drawing, graphic novels
       </section>
     </div>
   </div>
 </article>
-{::options parse_block_html="false" /}
