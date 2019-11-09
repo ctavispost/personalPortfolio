@@ -185,11 +185,11 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   margin-bottom: 0rem;
 }
 
-.showcase {
-  /* display: flex;
+/* .showcase {
+  display: flex;
   flex-direction: column;
-  justify-content: center; */
-}
+  justify-content: center;
+} */
 
 .studies {
   display: grid;
@@ -616,13 +616,22 @@ figcaption {
 }
 
 /* for resume */
-.textGrid {
-  display: grid;
+.flexCol {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexJustCenter {
   justify-content: center;
 }
 
+.textGrid {
+  display: grid;
+  justify-content: start;
+}
+
 @media screen and (max-width: 79.9ch) {
-  .text-grid {
+  .conditionalMaxWidth {
     max-width: 66ch;
   }
 }
@@ -630,12 +639,22 @@ figcaption {
 @media screen and (min-width: 80ch) {
   .textGrid {
     grid-template-columns: minmax(40ch, 66ch) minmax(30ch, 66ch);
-    grid-column-gap: var(--outermargin);
+    grid-column-gap: var(--outerMargin);
+  }
+
+  .conditionalHeaderSplit {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
   }
 
   .conditionalJustEnd {
-    justify-self: end;
+    justify-content: end;
   }
+}
+
+.margBottZero {
+  margin-bottom: 0;
 }
 
 .underlineBlock { /* underlines text across full width of block */
