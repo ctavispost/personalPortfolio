@@ -18,6 +18,7 @@ html {
   --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
   --eightDpBg: #373C3E; /* background-color at 8dp (w. 12% white overlay) */
   --maxText: 66ch; /* max text line width */
+  --smBreak: calc(var(--mainGap) / 3) /* a small break */
 }
 
 *, *:before, *:after {
@@ -447,7 +448,7 @@ a.darkLink {
 }
 
 .smBreak {
-  margin-top: calc(var(--mainGap) / 3);
+  margin-top: var(--smBreak);
 }
 
 .smallerBreak {
@@ -638,6 +639,10 @@ figcaption {
 .listStyleNone {
   list-style: none;
   padding: 0;
+}
+
+.margBottMed {
+  margin-bottom: var(--smBreak);
 }
 
 /* for resume */

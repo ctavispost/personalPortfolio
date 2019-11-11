@@ -17,10 +17,10 @@ format: default
       <p class="aboutText"><a href="mailto:tavispost@gmail.com">So let's chat.</a></p>
     </section>
 
-    <section class="smallerBreak flexBaseline flexRow flexWrap">
-      <h2>Resume</h2>
+    <section class="smallerBreak flexBaseline flexRow flexWrap margBottMed">
+      <h2 class="smallLeading">Resume</h2>
 
-      <ul class="flexRow flexWrap flexAlignEnd listStyleNone">
+      <ul class="flexRow flexWrap listStyleNone">
         <li class="spaceToLeft">
           <a href="c_tavis_post_ux_resume.pdf">shorter pdf</a>
         </li>
