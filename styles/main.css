@@ -631,8 +631,13 @@ figcaption {
   flex-wrap: wrap;
 }
 
+.flexAlignEnd {
+  align-self: flex-end;
+}
+
 .listStyleNone {
   list-style: none;
+  padding: 0;
 }
 
 /* for resume */
