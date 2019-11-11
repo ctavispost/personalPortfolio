@@ -615,6 +615,23 @@ figcaption {
   place-self: start end;
 }
 
+.flexBaseline {
+  align-items: baseline;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexWrap {
+  flex-wrap: wrap;
+}
+
+.listStyleNone {
+  list-style: none;
+}
+
 /* for resume */
 .flexCol {
   display: flex;

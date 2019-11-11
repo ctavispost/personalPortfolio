@@ -18,3 +18,15 @@ format: default
 
   <img src="images/selfPortrait.png" alt="stylized self portrait of Tavis smiling in a hat" class="selfPortrait">
 </article>
+
+<article class="smallerBreak flexBaseline flexRow flexWrap">
+  <h2>Resume</h2>
+  <ul class="flexRow flexWrap listStyleNone spaceToLeft">
+    <li>
+      <a href="c_tavis_post_ux_resume.pdf">shorter pdf</a>
+    </li>
+    <li class="spaceToLeft">
+      <a href="c_tavis_post_single_column_resume.docx">longer docx</a>
+    </li>
+  </ul>
+</article>
