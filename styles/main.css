@@ -590,11 +590,14 @@ figcaption {
   margin-right: var(--outerMargin);
 }
 
+.gridCenter {
+  display: grid;
+  justify-content: center;
+}
+
 @media screen and (min-width: 80ch) {
-  .aboutContainer {
-    display: grid;
+  .gridTextPicCol {
     grid-template-columns: minmax(44ch, 66ch) minmax(10px, 600px);
-    justify-content: center;
     grid-column-gap: var(--outerMargin);
   }
 }
