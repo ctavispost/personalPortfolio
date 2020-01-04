@@ -4,7 +4,8 @@
 
 html {
   box-sizing: border-box;
-  font-size: 100%; /* user agent selects base font-size */
+  font-size: 18px; /* fallback font size: should be large enough for mobile screens */
+  font-size: min(max(16px, 4vw), 24px); /* responsive font size */
   scroll-behavior: smooth;
 
   --outerMargin: 20px;
@@ -109,15 +110,19 @@ a:visited {
   .navUl {
     flex-direction: column;
     justify-content: flex-start;
-    align-items: flex-end;
   }
 
   .navUl:nth-child(n+2) {
     line-height: calc(1.3 * var(--lineHeight));
   }
+
+  .navUlHead {
+    align-items: flex-end;
+  }
+
 }
 
-.navUl {
+.navUlHead {
   align-content: center;
 }
 
@@ -338,7 +343,7 @@ a.darkLink {
   .footUl {
     flex-direction: column;
     justify-content: flex-start;
-    align-items:flex-start;
+    align-items: flex-start;
   }
 }
 
