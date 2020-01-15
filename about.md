@@ -22,7 +22,7 @@ format: default
 
       <ul class="flexRow flexWrap listStyleNone">
         <li class="spaceToLeft">
-          <a href="c_tavis_post_ux_resume.pdf">shorter pdf</a>
+          <a href="c_tavis_post_ux_2020_resume.pdf">shorter pdf</a>
         </li>
 
         <li class="spaceToLeft">
