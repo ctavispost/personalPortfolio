@@ -26,7 +26,7 @@ format: default
         </li>
 
         <li class="spaceToLeft">
-          <a href="c_tavis_post_single_column_resume.docx">longer docx</a>
+          <a href="c_tavis_post_ux_2020_resume.docx">longer docx</a>
         </li>
       </ul>
     </section>
