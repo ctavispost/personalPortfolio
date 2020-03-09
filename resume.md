@@ -3,34 +3,27 @@ title: C Tavis Post UX resume
 layout: default
 ---
 
-<article class="conditionalMaxWidth flexCol flexJustCenter projText" markdown="1">
+<article class="projText" markdown="1">
 <header markdown="1">
-<div class="conditionalHeaderSplit" markdown="1">
 # C. Tavis Post
 
 [tavispost@gmail.com](mailto:tavispost@gmail.com)
-</div>
-
-<div class="flexCol conditionalJustEnd" markdown="1">
 206-992-1518
-
 [ctavispost.com](https://ctavispost.com)
-</div>
 </header>
 
-<div class="smBreak textGrid" markdown="1">
-<div markdown="1">
-<section markdown="1">
+<section class="smBreak textGrid" markdown="1">
+<article markdown="1">
 ## Profile
 {:.margBottZero .smallerBreak .underlineBlock}
 
 From my lifelong passion for illustration, to customer service, to my work writing for child advocacy, I have seen that the right synthesis of form and function helps us solve problems, help people, and make the world a more interesting place. To that end, I am in the midst of a career shift from grocery management to UX. I blend my unique background with technical skills to design things that help people.
-</section>
+</article>
 
-<section markdown="1">
+<article markdown="1">
 ## Experience
 {:.margBottZero .smallerBreak .underlineBlock}
-**Sabbatical**
+**UX Designer, CTPost Design**
 
 April 2018 - present
 - Design UX, UI, and frontend development projects with Bloc.io, in meetups, and self-study.
@@ -55,11 +48,10 @@ October 2008 - March 2018
 March 1995 - August 2010
 - Wrote and edited abstracts, reports, letters adjusting style to suit audience and purpose.
 - Developed, maintained tailored case database and trained social workers in its use.
-</section>
-</div>
+</article>
 
-<div markdown="1">
-<section markdown="1">
+
+<article markdown="1">
 ## Education
 {:.margBottZero .smallerBreak .underlineBlock}
 **Bloc.io Design Program**
@@ -73,23 +65,23 @@ UX, UI, and frontend design.
 1999–2006
 
 Philosophy, Japanese.
-</section>
+</article>
 
-<section markdown="1">
+<article markdown="1">
 ## Skills
 {:.margBottZero .smallerBreak .underlineBlock}
 
 prototyping, wireframes, flows, user tests, surveys, interviews, personas, user stories, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, accessible design, user centered design, writing, UI
-</section>
+</article>
 
-<section markdown="1">
+<article markdown="1">
 ## Tools
 {:.margBottZero .smallerBreak .underlineBlock}
 
 Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Trello, Atom, pencil & paper
-</section>
+</article>
 
-<section markdown="1">
+<article markdown="1">
 ## Projects
 {:.margBottZero .smallerBreak .underlineBlock}
 
@@ -100,13 +92,12 @@ storage, notebook, PWA prototype
 [bus hop](https://docs.google.com/presentation/d/1k-YYYjvpRXqHV7TVsjBOHiaG0Ug9v9CoFzt_kIuZ8Vg/edit?usp=sharing)
 
 mass transit mobile app concept
-</section>
+</article>
 
-<section markdown="1">
+<article markdown="1">
 ## Interests
 {:.margBottZero .smallerBreak .underlineBlock}
 hiking, drawing, graphic novels
+</article>
 </section>
-</div>
-</div>
 </article>
