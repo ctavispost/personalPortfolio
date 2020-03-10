@@ -7,7 +7,7 @@ layout: default
 <header markdown="1">
 # C. Tavis Post
 
-[tavispost@gmail.com](mailto:tavispost@gmail.com)
+[ctavispost@gmail.com](mailto:ctavispost@gmail.com)
 206-992-1518
 [ctavispost.com](https://ctavispost.com)
 </header>

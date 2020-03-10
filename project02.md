@@ -2,7 +2,7 @@
 <section markdown="1">
 #BusyBus
 
-A mobile transit app focused on upcoming bus arrivals.
+A simple mobile transit app focused on upcoming bus arrivals.
 
 <section markdown="1">
 With the Bloc.io team, I created researched the field and users, sketched out and tested a solution, and coded a responsive screen solving the main problem. I went on to create a clickable prototype with a suggested rebranding.
@@ -14,12 +14,26 @@ With the Bloc.io team, I created researched the field and users, sketched out an
 <section>
 
 <section class="smallestBreak" markdown="1">
-Tools
- <!-- to include brand logos? -->
-Google Docs suite, Figma, pencil and paper, paper prototype, HTML5, CSS, Atom, GitHub
-
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
+<summary>Role: UX research and design</summary>
+<div>
+Working with the Bloc.io design team, I researched user needs and competition to create a simple and direct solution that helped people find out when their bus was coming.
+</div>
 </details>
-</section>
+
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
+<summary>Deliverables</summary>
+<div>
+
+</div>
+</details>
+
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
+<summary>Tools</summary>
+<div> <!-- to include brand logos? -->
+Google Docs suite, Figma, pencil and paper, paper prototype, HTML5, CSS, Atom, GitHub
+</div>
+</details>
 
 <section markdown="1"> <!-- screens -->
 </section>

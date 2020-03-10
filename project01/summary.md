@@ -9,7 +9,7 @@
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
   <summary>Role: UX research and design</summary>
   <div>
-    With guidance from the Bloc.io team, I researched the field and user needs, and created a distinctly branded concept from sketches to a hifi mockup and clickable prototype.
+    Working with the Bloc.io design team, I researched the field and user needs to create a distinctly branded concept, from sketches to a hifi mockup and clickable prototype.
   </div>
 </details>
 
