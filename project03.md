@@ -3,6 +3,7 @@ title: Dauntlez
 layout: default
 ---
 
+<article class="projContainer projLimitWidth" markdown="1">
 #[Dauntlez.org](https://dauntlez.org)
 
 Dauntlez is a nonprofit organization dedicated to ending domestic violence and abuse by educating and empowering women, teens, and parents. I launched Dautnlez.org with a team of 10 other people at a 6 hour hackathon.
@@ -31,3 +32,4 @@ content strategy, content, user types, user stories, user flows, wireframes, sit
 WordPress, CSS, Google Docs, Excel, Trello, pencil, paper, whiteboard
 </div>
 </details>
+</article>

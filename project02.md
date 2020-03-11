@@ -13,6 +13,7 @@ I created the prototype from the ground up with the Bloc.io team following Mater
 - Two sets of mockups [version 1](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3147%3A29724), [version 2](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3072%3A253)
 - A responsive page highlighting the [main screen](https://ctavispost.github.io/busHop/) of version 1
 - A [clickable prototype](https://www.figma.com/proto/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3085%3A170&scaling=min-zoom) of version 2
+</section>
 
 <section class="smallestBreak" markdown="1">
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
@@ -35,6 +36,7 @@ competitive analysis, survey, user stories, sketches, wireframes, paper prototyp
 Google Docs suite, Figma, pencil and paper, paper prototype, HTML5, CSS, Atom, GitHub
 </div>
 </details>
+</section>
 
 <section markdown="1">
 ##Problem
