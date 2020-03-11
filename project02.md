@@ -1,11 +1,21 @@
+---
+title: Bus_hop
+layout: default
+---
+
 <article markdown="1">
 <section markdown="1">
-#BusyBus
+#Bus_hop
 
-A simple mobile transit app focused on upcoming bus arrivals.
+An easy to use, quick to consume mobile transit app focused on upcoming bus arrivals. Bus_hop is made for commuters on the go.
+
+I created the prototype from the ground up with the Bloc.io team following Material Design guidelines. Based on surveys, discussions, competitive analysis, and my knowledge from a decade of assisting transit riders, I crafted:
+- Two sets of mockups [version 1](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3147%3A29724), [version 2](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3072%3A253)
+- A responsive page highlighting the [main screen](https://ctavispost.github.io/busHop/) of version 1
+- A [clickable prototype](https://www.figma.com/proto/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3085%3A170&scaling=min-zoom) of version 2
 
 <section markdown="1">
-With the Bloc.io team, I created researched the field and users, sketched out and tested a solution, and coded a responsive screen solving the main problem. I went on to create a clickable prototype with a suggested rebranding.
+
 </section>
 
 <section markdown="1"> <!-- links for various sections -->
@@ -17,14 +27,14 @@ With the Bloc.io team, I created researched the field and users, sketched out an
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
 <summary>Role: UX research and design</summary>
 <div>
-Working with the Bloc.io design team, I researched user needs and competition to create a simple and direct solution that helped people find out when their bus was coming.
+Working with the Bloc.io design team, I researched user needs and competition to create a simple and direct solution that helped people find out when their bus was coming. I went on to create a clickable prototype in a different style with suggested branding.
 </div>
 </details>
 
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
 <summary>Deliverables</summary>
 <div>
-
+competitive analysis, survey, user stories, sketches, wireframes, paper prototype, usability tests, mockups, responsive screen demo, clickable prototype, slide deck
 </div>
 </details>
 
@@ -46,21 +56,20 @@ There are more buses serving the same stops causing confusion.
 
 ###Users
 To avoid waiting or rushing pointlessly, people need to know:
-- which bus is next
-- when their bus is coming
+- Which bus is next
+- When their bus is coming
 
 ###Client
-The city has data to share with riders, but needs information structure and an app design:
-- Focus on arrivals for one stop, Washington & State
+The city has data to share with riders, but needs information architecture and an app design focused on arrivals for one stop, Washington & State.
 </section>
 
 <section markdown="1">
 ##Solution
 
-A three screen app with:
-- a list of incoming buses showing destinations, arrival times, and alerts.
-- a map with stops.
-- a search feature, including basic trip planning.
+A three screen app with a:
+- List of incoming buses showing destinations, arrival times, and alerts
+- Map with stops
+- Search feature, including basic trip planning
 </section>
 
 <section markdown="1">
@@ -72,8 +81,7 @@ I began with the assumption that a list of bus ETAs and basic route details woul
 
 <!-- insert some charts and graphs with CSS, time permitting -->
 ###17 respondents
-Top priority in travel:
-- quickness of trip (64.7%)
+Top priority in travel: quickness of trip (64.7%)
 
 Regular transit app users most want to:
 - Check when their bus arrives (57%)

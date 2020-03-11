@@ -1,3 +1,8 @@
+---
+title: Dauntlez
+layout: default
+---
+
 #[Dauntlez.org](https://dauntlez.org)
 
 Dauntlez is a nonprofit organization dedicated to ending domestic violence and abuse by educating and empowering women, teens, and parents. I launched Dautnlez.org with a team of 10 other people at a 6 hour hackathon.
@@ -9,7 +14,7 @@ At the end of the day, we had a site which let people sign up for classes, learn
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
 <summary>Role: Content strategy & design</summary>
 <div>
-Working with the product owner and 9 other volunteers, I designed and deployed Dauntlez.org. I crafted the information architecture, layout, and content based on essential user needs and the organization's goals.
+Working with the product owner and 9 other volunteers, I designed and deployed Dauntlez.org. I created its information architecture and content based on essential user needs and the organization's goals.
 </div>
 </details>
 

@@ -1,5 +1,5 @@
 ---
-title: C Tavis Post UX resume
+title: C Tavis Post resume
 layout: default
 ---
 
@@ -17,7 +17,7 @@ layout: default
 ## Profile
 {:.margBottZero .smallerBreak .underlineBlock}
 
-From my lifelong passion for illustration, to customer service, to my work writing for child advocacy, I have seen that the right synthesis of form and function helps us solve problems, help people, and make the world a more interesting place. To that end, I am in the midst of a career shift from grocery management to UX. I blend my unique background with technical skills to design things that help people.
+From my lifelong passion for illustration, to customer service, to writing for child advocacy, I have seen that the right synthesis of form and function helps us solve problems, help people, and make the world a more interesting place. I create open, accessible design based on research and dialogue. With broad, practical empathy and a deep curiosity, I work across disciplines to design experiences that improve services and help people.
 </article>
 
 <article markdown="1">
@@ -26,28 +26,31 @@ From my lifelong passion for illustration, to customer service, to my work writi
 **UX Designer, CTPost Design**
 
 April 2018 - present
-- Design UX, UI, and frontend development projects with Bloc.io, in meetups, and self-study.
-- Make sites, and mockup and prototype PWA and mobile apps using design thinking.
+- Design and develop progressive web apps and responsive sites from definition to deployment.
+- Craft artifacts to communicate, iterate, and improve processes.
+- Research and test people's needs and actions to define and refine experiences.
+- Create and edit content to inform, guide, and delight.
+
+**Writing Consultant, ELP Social Work**
+
+January 2012 - May 2018
+- Produced written plans for treatment and family reunification in complex cases with tight deadlines.
+- Crafted narratives from primary documents to support findings and recommendations.
+- Designed content and information architecture of court reports for maximum clarity and impact.
 
 **Fourth Manager, QFC**
 
 October 2008 - March 2018
-- Grew and mentored staff diverse staff of 64 people..
-- Consulted customers and employees directly, supplementing surveys and data to form strategies to increase profit, productivity, and customer satisfaction.
-- Facilitated cross-functional communication between departments and shifts, and the public, associates, and management.
-- Drove in-store planning using key metrics, increasing high satisfaction by 20%.
-- Ensured smooth experience for all, accounting for customer experience and employee needs.
+- Grew and mentored staff diverse staff of 64 people, raising buy-in, team cohesiveness, and retention.
+- Consulted customers and employees directly, data, and surveys to form strategies that increased profit, productivity, and customer satisfaction.
+- Facilitated cross-functional communication of management, teams, and the public.
+- Drove customer experience and in-store planning using key metrics, increasing high satisfaction by 20%.
 
-**Writing Consultant, ELP Social Work**
-
-2012 - June 2018
-- Crafted narratives and plans for treatment and family reunification in complex cases with tight deadlines.
-
-**Volunteer, King County Superior Court CASA Office**
+**Writing Specialist Volunteer, King County Superior Court CASA Office**
 
 March 1995 - August 2010
 - Wrote and edited abstracts, reports, letters adjusting style to suit audience and purpose.
-- Developed, maintained tailored case database and trained social workers in its use.
+- Developed and maintained tailored case database and trained social workers in its use.
 </article>
 
 
@@ -56,13 +59,13 @@ March 1995 - August 2010
 {:.margBottZero .smallerBreak .underlineBlock}
 **Bloc.io Design Program**
 
-2018–2019
+March 2018 – March 2019
 
 UX, UI, and frontend design.
 
 **University of Washington**
 
-1999–2006
+September 1999 – March 2006
 
 Philosophy, Japanese.
 </article>

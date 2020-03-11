@@ -1,3 +1,8 @@
+---
+title: content
+layout: default
+---
+
 Passionate about helping people
 Devoted to strong content and communication
 Curious and excited about all aspects of creating great user experiences
