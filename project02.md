@@ -3,7 +3,7 @@ title: Bus_hop
 layout: default
 ---
 
-<article markdown="1">
+<article class="projContainer" markdown="1">
 <section markdown="1">
 #Bus_hop
 
@@ -13,15 +13,6 @@ I created the prototype from the ground up with the Bloc.io team following Mater
 - Two sets of mockups [version 1](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3147%3A29724), [version 2](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3072%3A253)
 - A responsive page highlighting the [main screen](https://ctavispost.github.io/busHop/) of version 1
 - A [clickable prototype](https://www.figma.com/proto/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3085%3A170&scaling=min-zoom) of version 2
-
-<section markdown="1">
-
-</section>
-
-<section markdown="1"> <!-- links for various sections -->
-
-
-<section>
 
 <section class="smallestBreak" markdown="1">
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
@@ -44,9 +35,6 @@ competitive analysis, survey, user stories, sketches, wireframes, paper prototyp
 Google Docs suite, Figma, pencil and paper, paper prototype, HTML5, CSS, Atom, GitHub
 </div>
 </details>
-
-<section markdown="1"> <!-- screens -->
-</section>
 
 <section markdown="1">
 ##Problem
@@ -129,24 +117,6 @@ Based on our assumptions, survey, SWOT, and user stories, a transit app should:
 </section>
 
 <section markdown="1">
-</section>
-
-<section markdown="1">
-</section>
-
-<section markdown="1">
-</section>
-
-<section markdown="1">
-</section>
-
-<section markdown="1">
-</section>
-
-<section markdown="1">
-</section>
-
-<section markdown="1">
 ##Another direction
 [prototype](https://www.figma.com/proto/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3085%3A170&scaling=min-zoom)
 [mockup](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3072%3A253)
@@ -158,8 +128,4 @@ If I were to do this now, I would push for:
 - simplify UI to be more direct and readable
 - test, reiterate, and recode
 </section>
-
-<section markdown="1">
-</section>
-
 </article>
