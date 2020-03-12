@@ -9,32 +9,48 @@ html {
   scroll-behavior: smooth;
 
   --outerMargin: 20px;
+  --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
+  --smBreak: calc(var(--mainGap) / 3); /* a small break */
   --headFootText: 1.2rem; /* text size for head and footer elements */
   --lineHeight: 1.5;
-  --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
+  --maxText: 66ch; /* max text line width */
   --textScale: 1.414; /* scale text at powers of 1.414 */
+
+  /* colours are in dark theme */
   --textHighEmph: hsla(0, 0%, 100%, .87); /* Material dark theme high emphasis text */
   --textMedEmph: hsla(0, 0%, 100%, .6); /* Material dark theme medium emphasis text */
   --mainBg: #1C2124; /* main background-color (#121212 w. 8% primary color #90CAF9 overlay) */
   --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
   --eightDpBg: #373C3E; /* background-color at 8dp (w. 12% white overlay) */
-  --maxText: 66ch; /* max text line width */
-  --smBreak: calc(var(--mainGap) / 3) /* a small break */
+  --altBg: #272C30; /* background for footer and some other elements */
+  --anchorNorm: #90caf9; /* primary color dark */
+  --anchorFocus: #b39ddb;
+  --anchorHover: #d1c4e9;
+  --anchorVisited: #ce93d8;
+}
+
+@media (prefers-color-scheme: light) { /* set color variables for light theme */
+  html {
+    --textHighEmph: hsla(0, 0%, 0%, .87);
+    --textMedEmph: hsla(0, 0%, 0%, .6);
+    --mainBG: #fff;
+    --oneDpBg: #fff;
+    --eightDpBg: #fff;
+    --anchorNorm: #2196F3; /* primary color light */
+  }
+}
+
+@media screen and (min-width: 501px) { /* increase outerMargin for screens over 500px width */
+  html {
+    --outerMargin: 40px;
+  }
 }
 
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
-/* increase outerMargin for screens over 500px width */
-@media screen and (min-width: 501px) {
-  html {
-    --outerMargin: 40px;
-  }
-}
-
-/* remove all animations and transitions for people who prefer not to see them */
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: reduce) { /* remove all animations and transitions for people who prefer not to see them */
   * {
     animation-play-state: paused;
     transition: none;
@@ -64,21 +80,23 @@ body {
   margin: var(--outerMargin);
 }
 
-a {
-  color: #90caf9;
+a { /* set links to primary color for light or dark mode  */
+  color: var(--anchorNorm);
   text-decoration: none;
 }
 
-a:hover {
-  color: #d1c4e9;
-}
+@media not (prefers-color-scheme: light) { /* set link pseudo-class colors in dark mode; otherwise colors are set by user agent */
+  a:hover, a:active {
+    color: var(--anchorHover);
+  }
 
-a:active{
-  color: #b39ddb;
-}
+  a:focus {
+    color: var(--anchorFocus);
+  }
 
-a:visited {
-  color: #ce93d8;
+  a:visited {
+    color: var(--anchorVisited);
+  }
 }
 
 .brand {
@@ -87,6 +105,20 @@ a:visited {
 
 .logo {
   height: calc(var(--outerMargin) * 2 / 10 + 2rem);
+}
+
+.logoLight {
+  display: none;
+}
+
+@media (prefers-color-scheme: light) {
+  .logoLight {
+    display: grid;
+  }
+
+  .logoDark {
+    display: none;
+  }
 }
 
 .horizontalUl {
@@ -322,7 +354,7 @@ a.darkLink {
 
 /* for footer */
 .foot {
-  background-color: #272C30;
+  background-color: var(--altBg);
   margin: var(--mainGap) 0 0 0;
   width: 100%;
   padding-top: var(--outerMargin);
@@ -501,10 +533,7 @@ button {
     -moz-appearance: none;
 }
 
-button:hover,
-button:focus,
-button:active,
-.active {
+button:hover, button:focus, button:active, .active {
     background: #ffcc33;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
@@ -665,17 +694,18 @@ figcaption {
   justify-content: start;
 }
 
+@media screen and (min-width: 80ch) {
+  .textGrid {
+    grid-template-columns: auto;
+    grid-gap: var(--outerMargin);
+    justify-content: center;
+}
+
 @media screen and (max-width: 79.9ch) {
   .conditionalMaxWidth {
     max-width: 66ch;
   }
 }
-
-@media screen and (min-width: 80ch) {
-  .textGrid {
-    grid-template-columns: minmax(40ch, 66ch) minmax(30ch, 66ch);
-    grid-column-gap: var(--outerMargin);
-  }
 
   .conditionalHeaderSplit {
     display: flex;
