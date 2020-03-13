@@ -3,7 +3,8 @@ title: C Tavis Post resume
 layout: default
 ---
 
-<article class="projText" markdown="1">
+<article class="class="projContainer projLimitWidth projText"" markdown="1">
+<div class="gridSelfJustCenter">
 <header markdown="1">
 # C. Tavis Post
 
@@ -15,7 +16,7 @@ layout: default
 {:.margBottZero}
 </header>
 
-<section class="smBreak textGrid" markdown="1">
+<section class="smBreak" markdown="1">
 <article markdown="1">
 ## Profile
 {:.margBottZero .smallerBreak .underlineBlock}
@@ -30,6 +31,7 @@ From my lifelong passion for illustration, to customer service, to writing for c
 {:.margBottZero .smallestBreak}
 April 2018 - present
 {:.figcaption}
+
 - Design and develop progressive web apps and responsive sites from definition to deployment.
 - Craft artifacts to communicate, iterate, and improve processes.
 - Research and test people's needs and actions to define and refine experiences.
@@ -39,6 +41,7 @@ April 2018 - present
 {:.margBottZero .smallestBreak}
 January 2012 - May 2018
 {:.figcaption}
+
 - Produced written plans for treatment and family reunification in complex cases with tight deadlines.
 - Crafted narratives from primary documents to support findings and recommendations.
 - Designed content and information architecture of court reports for maximum clarity and impact.
@@ -47,6 +50,7 @@ January 2012 - May 2018
 {:.margBottZero .smallestBreak}
 October 2008 - March 2018
 {:.figcaption}
+
 - Grew and mentored staff diverse staff of 64 people, raising buy-in, team cohesiveness, and retention.
 - Consulted customers and employees directly, data, and surveys to form strategies that increased profit, productivity, and customer satisfaction.
 - Facilitated cross-functional communication of management, teams, and the public.
@@ -56,6 +60,7 @@ October 2008 - March 2018
 {:.margBottZero .smallestBreak}
 March 1995 - August 2010
 {:.figcaption}
+
 - Wrote and edited abstracts, reports, letters adjusting style to suit audience and purpose.
 - Developed and maintained tailored case database and trained social workers in its use.
 </article>
@@ -64,6 +69,7 @@ March 1995 - August 2010
 <article markdown="1">
 ## Education
 {:.margBottZero .smallerBreak .underlineBlock}
+
 **Bloc.io Design Program**
 {:.margBottZero .smallestBreak}
 March 2018 – March 2019
@@ -75,6 +81,7 @@ UX, UI, and frontend design.
 {:.margBottZero .smallestBreak}
 September 1999 – March 2006
 {:.figcaption}
+
 Philosophy, Japanese.
 </article>
 
@@ -104,7 +111,7 @@ self defense and education non-profit WordPress site
 {:.margBottZero}
 storage, notebook, PWA prototype
 
-[bus hop](https://docs.google.com/presentation/d/1k-YYYjvpRXqHV7TVsjBOHiaG0Ug9v9CoFzt_kIuZ8Vg/edit?usp=sharing)
+[bus_hop](https://docs.google.com/presentation/d/1k-YYYjvpRXqHV7TVsjBOHiaG0Ug9v9CoFzt_kIuZ8Vg/edit?usp=sharing)
 {:.margBottZero}
 mass transit mobile app concept
 </article>
@@ -112,7 +119,8 @@ mass transit mobile app concept
 <article markdown="1">
 ## Interests
 {:.margBottZero .smallerBreak .underlineBlock}
-hiking, drawing, graphic novels
+hiking, drawing, reading
 </article>
 </section>
+</div>
 </article>

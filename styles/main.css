@@ -680,42 +680,9 @@ figcaption {
 }
 
 /* for resume */
-.flexCol {
-  display: flex;
-  flex-direction: column;
-}
 
-.flexJustCenter {
-  justify-content: center;
-}
-
-.textGrid {
-  display: grid;
-  justify-content: start;
-}
-
-@media screen and (min-width: 80ch) {
-  .textGrid {
-    grid-template-columns: auto;
-    grid-gap: var(--outerMargin);
-    justify-content: center;
-}
-
-@media screen and (max-width: 79.9ch) {
-  .conditionalMaxWidth {
-    max-width: 66ch;
-  }
-}
-
-  .conditionalHeaderSplit {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-  }
-
-  .conditionalJustEnd {
-    justify-content: end;
-  }
+.gridSelfJustCenter {
+  justify-self: center;
 }
 
 .margBottZero {
