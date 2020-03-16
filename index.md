@@ -6,7 +6,7 @@ layout: default
 <header class="intro"> <!-- introduction -->
   <div class="introContainer">
     <h1 class="introHead display">Hi!</h1>
-    <p class="introText">I'm Tavis (without an 'r'), a fresh UX designer, illustrator, and writing consultant in Seattle.</p>
+    <p class="introText">I'm Tavis (without an 'r'), a thoughtful UX designer, illustrator, and content strategist from Seattle.</p>
   </div>
 </header>
 

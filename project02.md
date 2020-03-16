@@ -16,26 +16,41 @@ I created the prototype from the ground up with the Bloc.io team following Mater
 </section>
 
 <section class="smallestBreak" markdown="1">
-<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
 <summary>Role: UX research and design</summary>
 <div>
 Working with the Bloc.io design team, I researched user needs and competition to create a simple and direct solution that helped people find out when their bus was coming. I went on to create a clickable prototype in a different style with suggested branding.
 </div>
 </details>
 
-<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
+<h3 class="speechOrPrintOnly">Role: UX research and design</h3> <!-- accessible version of above -->
+
+Working with the Bloc.io design team, I researched user needs and competition to create a simple and direct solution that helped people find out when their bus was coming. I went on to create a clickable prototype in a different style with suggested branding.
+{:.speechOrPrintOnly}
+
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
 <summary>Deliverables</summary>
 <div>
 competitive analysis, survey, user stories, sketches, wireframes, paper prototype, usability tests, mockups, responsive screen demo, clickable prototype, slide deck
 </div>
 </details>
 
-<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak">
+<h3 class="speechOrPrintOnly">Deliverables</h3> <!-- accessible version of above -->
+
+competitive analysis, survey, user stories, sketches, wireframes, paper prototype, usability tests, mockups, responsive screen demo, clickable prototype, slide deck
+{:.speechOrPrintOnly}
+
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
 <summary>Tools</summary>
 <div> <!-- to include brand logos? -->
 Google Docs suite, Figma, pencil and paper, paper prototype, HTML5, CSS, Atom, GitHub
 </div>
 </details>
+
+<h3 class="speechOrPrintOnly">Tools</h3> <!-- accessible version of above -->
+
+Google Docs suite, Figma, pencil and paper, paper prototype, HTML5, CSS, Atom, GitHub
+{:.speechOrPrintOnly}
 </section>
 
 <section markdown="1">

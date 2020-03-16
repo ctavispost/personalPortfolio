@@ -464,6 +464,20 @@ a.darkLink {
   margin-top: calc(var(--mainGap) / 1.5);
 }
 
+.speechOrPrintOnly {
+  display: none;
+}
+
+@media print, speech { /* displays speechOrPrintOnly items, hides screenOnly items */
+  .speechOrPrintOnly { /* for alternate text of items wrapped in inaccessibe elements  */
+    display: block;
+  }
+
+  .screenOnly { /* for elements which are not accessible in print or speech, like `<details>` */
+    display: none;
+  }
+}
+
 .accordion {
   padding: 1rem;
   width: 100%;

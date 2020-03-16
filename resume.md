@@ -29,7 +29,7 @@ From my lifelong passion for illustration, to customer service, to writing for c
 **UX Designer, CTPost Design**
 {:.margBottZero .smallestBreak}
 April 2018 - present
-{:.figcaption}
+{:.medEmphTxt .smallLeading}
 
 - Design and develop progressive web apps and responsive sites from definition to deployment.
 - Craft artifacts to communicate, iterate, and improve processes.
@@ -39,7 +39,7 @@ April 2018 - present
 **Writing Consultant, ELP Social Work**
 {:.margBottZero .smallestBreak}
 January 2012 - May 2018
-{:.figcaption}
+{:.medEmphTxt .smallLeading}
 
 - Produced written plans for treatment and family reunification in complex cases with tight deadlines.
 - Crafted narratives from primary documents to support findings and recommendations.
@@ -48,7 +48,7 @@ January 2012 - May 2018
 **Fourth Manager, QFC**
 {:.margBottZero .smallestBreak}
 October 2008 - March 2018
-{:.figcaption}
+{:.medEmphTxt .smallLeading}
 
 - Grew and mentored staff diverse staff of 64 people, raising buy-in, team cohesiveness, and retention.
 - Consulted customers and employees directly, data, and surveys to form strategies that increased profit, productivity, and customer satisfaction.
@@ -58,7 +58,7 @@ October 2008 - March 2018
 **Writing Specialist Volunteer, King County Superior Court CASA Office**
 {:.margBottZero .smallestBreak}
 March 1995 - August 2010
-{:.figcaption}
+{:.medEmphTxt .smallLeading}
 
 - Wrote and edited abstracts, reports, letters adjusting style to suit audience and purpose.
 - Developed and maintained tailored case database and trained social workers in its use.
@@ -72,14 +72,14 @@ March 1995 - August 2010
 **Bloc.io Design Program**
 {:.margBottZero .smallestBreak}
 March 2018 – March 2019
-{:.figcaption}
+{:.medEmphTxt .smallLeading}
 
 UX, UI, and frontend design.
 
 **University of Washington**
 {:.margBottZero .smallestBreak}
 September 1999 – March 2006
-{:.figcaption}
+{:.medEmphTxt .smallLeading}
 
 Philosophy, Japanese.
 </article>
