@@ -3,8 +3,8 @@ title: C Tavis Post resume
 layout: default
 ---
 
-<article class="class="projContainer projLimitWidth projText"" markdown="1">
-<div class="gridSelfJustCenter">
+<article class="projContainer projLimitWidth" markdown="1">
+<div class="gridSelfJustCenter" markdown="1">
 <header markdown="1">
 # C. Tavis Post
 
@@ -16,8 +16,7 @@ layout: default
 {:.margBottZero}
 </header>
 
-<section class="smBreak" markdown="1">
-<article markdown="1">
+<article class="smBreak" markdown="1">
 ## Profile
 {:.margBottZero .smallerBreak .underlineBlock}
 
@@ -121,6 +120,5 @@ mass transit mobile app concept
 {:.margBottZero .smallerBreak .underlineBlock}
 hiking, drawing, reading
 </article>
-</section>
 </div>
 </article>

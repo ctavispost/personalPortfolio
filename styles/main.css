@@ -610,7 +610,7 @@ h4 {
   line-height: .75;
 }
 
-figcaption {
+figcaption, .medEmphTxt {
   font-size: .8rem;
   color: var(--textMedEmph);
 }
