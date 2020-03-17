@@ -56,7 +56,7 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 
 The site needs a working volunteer page, a calendar, and more information for fundraising. All images showing information should have text or graphs added separately to make them accessible. Once essential elements are seen to, Dauntlez could use some research to better serve its community and improve its UI, especially navigation.
 
-Possible future additions might include videos, online courses, more details about what is taught in each workshop, and stronger fundraising copy.
+Possible future additions might include videos, online courses, greater detail about what is taught in each workshop, and stronger fundraising copy.
 </section>
 
 <!--

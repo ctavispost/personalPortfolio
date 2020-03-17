@@ -5,7 +5,7 @@ layout: default
 
 <article class="projContainer" markdown="1">
 <section markdown="1">
-#bus_hop
+# bus_hop
 
 An easy to use, quick to consume mobile transit app focused on upcoming bus arrivals. Bus_hop is made for commuters on the go.
 
@@ -54,26 +54,26 @@ Google Docs suite, Figma, pencil and paper, paper prototype, HTML5, CSS, Atom, G
 </section>
 
 <section markdown="1">
-##Problem
+## Problem
 {:.margBottZero}
 
 (brief)[https://docs.google.com/document/d/12o20-S8OPshgl6bsCzl_cKxz7MoSiYrGIc1LjMBx194/edit?usp=sharing]
 
 There are more buses serving the same stops causing confusion.
 
-###Users
+### Users
 
 To avoid waiting or rushing pointlessly, people need to know:
 - Which bus is next
 - When their bus is coming
 
-###Client
+### Client
 
 The city has data to share with riders, but needs information architecture and an app design focused on arrivals for one stop, Washington & State.
 </section>
 
 <section markdown="1">
-##Solution
+## Solution
 
 A three screen app with a:
 - List of incoming buses showing destinations, arrival times, and alerts
@@ -82,7 +82,7 @@ A three screen app with a:
 </section>
 
 <section markdown="1">
-##Questions for potential users
+## Questions for potential users
 {:.margBottZero}
 [survey](https://docs.google.com/forms/d/e/1FAIpQLScta3oU7pXSdqC31nyIDzshC71xTrdRr5biklxgS3jgwlzJYA/viewform?usp=sf_link)
 [analysis](https://docs.google.com/document/d/1nlu3RdxrZhwP33wylIKgzW3MeOnFl1qYjl-vQGMwnXk/edit?usp=sharing)
@@ -90,7 +90,7 @@ A three screen app with a:
 I began with the assumption that a list of bus ETAs and basic route details would be integral to the solution. To begin to test this, I ran a survey:
 
 <!-- insert some charts and graphs with CSS, time permitting -->
-###17 respondents
+### 17 respondents
 
 Top priority in travel: quickness of trip (64.7%)
 
@@ -104,19 +104,19 @@ Regular riders were evenly split between two online priorities: checking arrival
 </section>
 
 <section markdown="1">
-##Competitive Analysis
+## Competitive Analysis
 {:.margBottZero}
 [SWOT doc](https://docs.google.com/document/d/1K5i6k84EbnenNiANtIi5NzmKHkEEtuYV_zIts4BwRDg/edit?usp=sharing)
 
 After referencing 8 apps across platforms, I ran a Strengths, Weaknesses, Opportunites, and Threats analysis (SWOT) on Transit Stop and Moovit. Both apps focus on one thing they do well, but underperform in other, arguably necessary areas. My observations helped me home in on an MVP.
 
-###TransitStop
+### TransitStop
 
 TransitStop is made for repeat users. It has a comfortable map and runs everything from a single screen, but comes with a steep learning curve.
 
 The app lacks a trip planner, can be difficult to navigate, and features sometimes overwhelming lists. My main takeaway was to keep in mind everyone starts as a first-time user.
 
-###Moovit
+### Moovit
 
 Moovit begins at a helpful trip planner screen. This is its main emphasis and best point. Each step is clear, even when boxy design gets in the way, and it finishes with voiced trip guidance.
 
@@ -124,7 +124,7 @@ However, its lists of lines and maps are somewhat cluttered. These screens can f
 </section>
 
 <section markdown="1">
-##MVP
+## MVP
 [user stories](https://docs.google.com/document/d/1ftVLoCqZ4QMU2RTPFkDTu74TQaqhDNa0m3xgfCiY_5k/edit?usp=sharing)
 
 To gain a fuller picture of an MVP, I made user stories for new and returning users.
@@ -143,7 +143,7 @@ Based on our assumptions, survey, SWOT, and user stories, a transit app should:
 </section>
 
 <section markdown="1">
-##Another direction
+## Another direction
 
 [prototype](https://www.figma.com/proto/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3085%3A170&scaling=min-zoom)
 {:.margBottZero}

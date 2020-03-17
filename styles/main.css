@@ -104,20 +104,20 @@ a { /* set links to primary color for light or dark mode  */
 }
 
 .logo {
-  height: calc(var(--outerMargin) * 2 / 10 + 2rem);
+  height: calc((var(--outerMargin) * 2) + 1.5vw);
 }
 
-.logoLight {
-  display: none;
+.preferLight { /* light theme is off by default */
+  diplay: none;
 }
 
-@media (prefers-color-scheme: light) {
-  .logoLight {
-    display: grid;
+@media (prefers-color-scheme: light) { /* toggles between items intended for light and dark themes */
+  .preferDark {
+    display: none;
   }
 
-  .logoDark {
-    display: none;
+  .preferLight {
+    display: block;
   }
 }
 
@@ -234,9 +234,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   grid-template-rows: auto;
   overflow: hidden;
   grid-template-areas:
-    "proj01"
+    "proj03"
     /* "proj02" */
-    /* "proj03" */
+    "proj01"
     /* "writ" */
     "illust";
 }
@@ -250,8 +250,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      grid-template-columns: repeat(2, 1fr);
      grid-template-rows: repeat(2, auto);
      grid-template-areas:
-      "proj01 ."
-      ". illust";
+      "proj03 ."
+      ". proj01"
+      "illust .";
 
 
      /* full display of illustration, writing, and 3 project cards */
@@ -300,7 +301,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   object-fit: contain;
 }
 
-/* .project02 {
+.project02 {
   grid-area: proj02;
 }
 
@@ -308,10 +309,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   display: none;
 }
 
-  .project03 {
-    grid-area: proj03;
-} */
-
+.project03 {
+  grid-area: proj03;
+}
 
 .illustration { /* should be larger than project 02 and 03, but smaller than 01 */
   background-image: url(/images/florenceOregonCrop.jpg); /* if replacing, choose a light image or adjust a.darklink below */
@@ -709,4 +709,8 @@ figcaption, .medEmphTxt {
   line-height: 0.85;
   width: 100%;
   overflow: hidden;
+}
+
+.marginTopZero {
+  margin-top: 0;
 }
