@@ -108,7 +108,7 @@ a { /* set links to primary color for light or dark mode  */
 }
 
 .preferLight { /* light theme is off by default */
-  diplay: none;
+  display: none;
 }
 
 @media (prefers-color-scheme: light) { /* toggles between items intended for light and dark themes */
