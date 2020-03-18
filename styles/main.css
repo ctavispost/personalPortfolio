@@ -123,14 +123,14 @@ a { /* set links to primary color for light or dark mode  */
 
 .horizontalUl {
   display: flex;
-  flex-wrap: wrap; /* fallback in case there's a problem with the media query bewlow */
+  flex-wrap: wrap; /* fallback in case there's a problem putting the links in a column in the media query below */
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 750px) { /* places nav links in a right justified column so they fit on screen */
   .navbar {
     align-items: flex-start;
   }
