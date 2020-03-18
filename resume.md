@@ -7,13 +7,13 @@ layout: default
 <div class="gridSelfJustCenter" markdown="1">
 <header markdown="1">
 # C. Tavis Post
-
+{:.smallLeading}
 [ctavispost@gmail.com](mailto:ctavispost@gmail.com)
-{:.margBottZero}
+{:.smallLeading}
 206-992-1518
-{:.margBottZero}
+{:.smallLeading}
 [ctavispost.com](https://ctavispost.com)
-{:.margBottZero}
+{:.smallLeading}
 </header>
 
 <article class="medBreak" markdown="1">
@@ -75,6 +75,7 @@ March 2018 – March 2019
 {:.medEmphTxt .marginTopZero}
 
 UX, UI, and frontend design.
+{:.smallLeading}
 
 **University of Washington**
 {:.margBottZero .smallerBreak}
@@ -82,6 +83,7 @@ September 1999 – March 2006
 {:.medEmphTxt .marginTopZero}
 
 Philosophy, Japanese.
+{:.smallLeading}
 </article>
 
 <article markdown="1">
@@ -104,17 +106,17 @@ Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Tre
 [Dauntlez.org](https://dauntlez.org)
 {:.smallestBreak .margBottZero}
 self defense and education non-profit WordPress site
-{:.smallestBreak}
+{:.smallLeading}
 
 [jot &](https://ctavispost.com/project01.html)
 {:.smallerBreak .margBottZero}
 storage, notebook, PWA prototype
-{:.smallestBreak}
+{:.smallLeading}
 
 [bus_hop](https://docs.google.com/presentation/d/1k-YYYjvpRXqHV7TVsjBOHiaG0Ug9v9CoFzt_kIuZ8Vg/edit?usp=sharing)
 {:.smallerBreak .margBottZero}
 mass transit mobile app concept
-{:.smallestBreak}
+{:.smallLeading}
 </article>
 
 <article markdown="1">
