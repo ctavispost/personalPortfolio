@@ -4,6 +4,7 @@ layout: default
 ---
 
 <article class="projContainer" markdown="1">
+<div class="projLimitWidth" markdown="1">
 <section markdown="1">
 # bus_hop
 
@@ -155,4 +156,5 @@ If I were to do this now, I would push for:
 - redesigned to let users quickly find information about their route's arrival
 - simplified to be more direct and readable
 </section>
+</div>
 </article>

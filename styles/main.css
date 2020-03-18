@@ -33,9 +33,9 @@ html {
   html {
     --textHighEmph: hsla(0, 0%, 0%, .87);
     --textMedEmph: hsla(0, 0%, 0%, .6);
-    --mainBG: #fff;
-    --oneDpBg: #fff;
-    --eightDpBg: #fff;
+    --mainBG: #ffffff;
+    --oneDpBg: #ffffff;
+    --eightDpBg: #ffffff;
     --anchorNorm: #2196F3; /* primary color light */
   }
 }

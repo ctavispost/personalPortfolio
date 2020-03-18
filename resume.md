@@ -3,8 +3,8 @@ title: C Tavis Post resume
 layout: default
 ---
 
-<article class="projContainer projLimitWidth" markdown="1">
-<div class="gridSelfJustCenter" markdown="1">
+<article class="projContainer" markdown="1">
+<div class="projLimitWidth" markdown="1">
 <header markdown="1">
 # C. Tavis Post
 {:.smallLeading}

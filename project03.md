@@ -3,7 +3,8 @@ title: Dauntlez
 layout: default
 ---
 
-<article class="projContainer projLimitWidth" markdown="1">
+<article class="projContainer" markdown="1">
+<div class="projLimitWidth" markdown="1">
 <h1 class="centerGrid" markdown="1">[Dauntlez.org](https://dauntlez.org)</h1>
 
 Dauntlez is a nonprofit organization dedicated to ending domestic violence and abuse by educating and empowering women, teens, and parents. They run workshops teaching physical defense, awareness, and de-escalation to women, teens, and parents. I launched Dautnlez.org with a team of 10 other people at a 6 hour hackathon.
@@ -66,4 +67,5 @@ Possible future additions might include videos, online courses, greater detail a
 
 </section>
 -->
+</div>
 </article>
