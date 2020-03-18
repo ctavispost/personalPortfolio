@@ -176,7 +176,7 @@ a { /* set links to primary color for light or dark mode  */
 
 .intro {
   margin: var(--mainGap) 0 var(--mainGap) 0;
-  height: calc(50px + 35vh);
+  padding-bottom: var(--mainGap);
 
   /* background image */
   background-color: transparent;
@@ -194,7 +194,7 @@ a { /* set links to primary color for light or dark mode  */
 }
 
 .introHead {
-  margin: 0 var(--outerMargin) 0 var(--outerMargin);
+  margin: 0 var(--outerMargin) 0.5rem var(--outerMargin);
 }
 
 .display {
@@ -244,30 +244,18 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 @media screen and (min-width: 800px) {
    .studies {
      background-image: url(/images/pattern.svg);
-     background-position: center center;
+     background-position: center top;
      background-size: contain;
-     background-repeat: no-repeat;
-     grid-template-columns: repeat(2, 1fr);
+     background-repeat: repeat-y;
+     padding-bottom: calc(var(--mainGap) * 2);
+     margin-bottom: calc(0px - var(--mainGap));
+     grid-template-columns: repeat(3, 1fr);
      grid-template-rows: repeat(2, auto);
      grid-template-areas:
-      "proj03 ."
-      ". proj01"
-      "illust .";
-
-
-     /* full display of illustration, writing, and 3 project cards */
-     /* grid-template-columns: repeat(4, 1fr);
-     grid-template-rows: repeat(9, auto);
-     grid-template-areas:
-      "proj01 proj01 . ."
-      "proj01 proj01 . ."
-      ". . proj02 ."
-      ". . proj02 ."
-      ". . . proj03"
-      ". . . proj03"
-      ". . writ ."
-      "illust illust . ."
-      "illust illust . .";*/
+      "proj03 . ."
+      ". . proj01"
+      ". illust ."
+      ". illust .";
    }
 }
 

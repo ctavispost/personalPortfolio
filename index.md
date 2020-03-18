@@ -13,8 +13,8 @@ layout: default
 <section class="studies sideMargin" id="projects"> <!-- wrapper for cards -->
   <article class="card project03">
     <a href="project03.html" class="cardLink">
-      <h1 class="projText">Dauntlez.org</h1>
-      <p class="projText">non-profit teaching self defense and awareness</p>
+      <h1 class="projText">Dauntlez</h1>
+      <p class="projText">non-profit self defense site</p>
       <img src="images/dauntDark.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferDark">
       <img src="images/dauntLight.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferLight">
     </a>
@@ -23,7 +23,7 @@ layout: default
   <article class="card project01">
     <a href="project01.html" class="cardLink">
       <h1 class="projText">jot &</h1>
-      <p class="projText">storage and notebook prototype for people who work with photos</p>
+      <p class="projText">storage & notebook web app</p>
       <img src="images/netWalk.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferDark">
       <img src="images/netwalkLight.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferLight">
     </a>
@@ -33,8 +33,9 @@ layout: default
   <article class="card project02">
     <a href="project02.html" class="cardLink">
       <h1 class="projText">bus_hop</h1>
-      <p class="projText">quick and easy transit app prototype</p>
-      <img src="" alt="" class="projPic">
+      <p class="projText">mobile transit app</p>
+      <img src="" alt="" class="projPic preferDark">
+      <img src="" alt="" class="projPic preferLight">
     </a>
   </article>
   -->
