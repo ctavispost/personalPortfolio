@@ -7,7 +7,6 @@ html {
   font-size: 18px; /* fallback font size: should be large enough for mobile screens */
   font-size: min(max(16px, 4vw), 24px); /* responsive font size */
   scroll-behavior: smooth;
-  background-color: --mainBG; /* fallback background, allows media queries below to change BG based on UA pref */
 
   --outerMargin: 20px;
   --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
@@ -16,28 +15,25 @@ html {
   --lineHeight: 1.5;
   --maxText: 66ch; /* max text line width */
   --textScale: 1.414; /* scale text at powers of 1.414 */
-}
 
- @media (prefers-color-scheme: dark), (prefers-color-scheme: no-preference) { /* set color variables for dark theme */
-  html {
-    --textHighEmph: hsla(0, 0%, 100%, .87); /* Material dark theme high emphasis text */
-    --textMedEmph: hsla(0, 0%, 100%, .6); /* Material dark theme medium emphasis text */
-    --mainBg: #1C2124; /* main background-color (#121212 w. 8% primary color #90CAF9 overlay) */
-    --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
-    --eightDpBg: #373C3E; /* background-color at 8dp (w. 12% white overlay) */
-    --altBg: #272C30; /* background for footer and some other elements */
-    --anchorNorm: #90caf9; /* primary color dark */
-    --anchorFocus: #b39ddb;
-    --anchorHover: #d1c4e9;
-    --anchorVisited: #ce93d8;
-  }
+  /* set default color variables for dark theme */
+  --textHighEmph: hsla(0, 0%, 100%, .87); /* Material dark theme high emphasis text */
+  --textMedEmph: hsla(0, 0%, 100%, .6); /* Material dark theme medium emphasis text */
+  --mainBg: #1C2124; /* main background-color (#121212 w. 8% primary color #90CAF9 overlay) */
+  --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
+  --eightDpBg: #373C3E; /* background-color at 8dp (w. 12% white overlay) */
+  --altBg: #272C30; /* background for footer and some other elements */
+  --anchorNorm: #90caf9; /* primary color dark */
+  --anchorFocus: #b39ddb;
+  --anchorHover: #d1c4e9;
+  --anchorVisited: #ce93d8;
 }
 
 @media (prefers-color-scheme: light) { /* set color variables for light theme */
   html {
     --textHighEmph: hsla(0, 0%, 0%, .87);
     --textMedEmph: hsla(0, 0%, 0%, .6);
-    --mainBG: #F0F2F0;
+    --mainBg: #F0F2F0;
     --oneDpBg: #F5F5F6;
     --eightDpBg: #fbfbfb;
     --anchorNorm: #2196F3; /* primary color light */
@@ -236,7 +232,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   align-items: start;
   grid-template-columns: auto;
   grid-template-rows: auto;
-  overflow: hidden;
+  overflow: visible;
   grid-template-areas:
     "proj03"
     /* "proj02" */
