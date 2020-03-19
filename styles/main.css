@@ -21,6 +21,7 @@ html {
   --textMedEmph: hsla(0, 0%, 100%, .6); /* Material dark theme medium emphasis text */
   --mainBg: #1C2124; /* main background-color (#121212 w. 8% primary color #90CAF9 overlay) */
   --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
+  --fourDpBg: #303538; /* background-color at 4dp (w. 9% white overlay) */
   --eightDpBg: #373C3E; /* background-color at 8dp (w. 12% white overlay) */
   --altBg: #272C30; /* background for footer and some other elements */
   --anchorNorm: #90caf9; /* primary color dark */
@@ -34,7 +35,8 @@ html {
     --textHighEmph: hsla(0, 0%, 0%, .87);
     --textMedEmph: hsla(0, 0%, 0%, .6);
     --mainBg: #F0F2F0;
-    --oneDpBg: #F5F5F6;
+    --oneDpBg: #F2F4F2; /* mainBg light w. 20% eightDpBg light overlay */
+    --fourDpBg: #F5F6F5; /* mainBg light w. 50% eightDpBg light overlay */
     --eightDpBg: #fbfbfb;
     --anchorNorm: #2196F3; /* primary color light */
   }
@@ -261,14 +263,19 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 .card {
   background-color: var(--oneDpBg);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.20);
   max-width: 100vw;
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 
-.card:hover, .card:active, .card:focus {
+.card:hover, .card:focus {
+  background-color: var(--fourDpBg);
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20);
+}
+
+.card:active {
   background-color: var(--eightDpBg);
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.20);
 }
 
 .cardLink {
@@ -343,6 +350,7 @@ a.darkLink {
 /* for footer */
 .foot {
   background-color: var(--altBg);
+  box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.20); /* 8dp in Material Design */
   margin: var(--mainGap) 0 0 0;
   width: 100%;
   padding-top: var(--outerMargin);
