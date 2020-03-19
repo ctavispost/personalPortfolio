@@ -34,7 +34,7 @@ html {
   html {
     --textHighEmph: hsla(0, 0%, 0%, .87);
     --textMedEmph: hsla(0, 0%, 0%, .6);
-    --mainBg: ##F0F1F2; /* desaturated primary color light */
+    --mainBg: #F0F1F2; /* desaturated primary color light */
     --oneDpBg: #F2F4F2;
     --fourDpBg: #F5F6F5;
     --eightDpBg: #fbfbfb;
