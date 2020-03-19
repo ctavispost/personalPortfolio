@@ -34,9 +34,9 @@ html {
   html {
     --textHighEmph: hsla(0, 0%, 0%, .87);
     --textMedEmph: hsla(0, 0%, 0%, .6);
-    --mainBg: #F0F2F0;
-    --oneDpBg: #F2F4F2; /* mainBg light w. 20% eightDpBg light overlay */
-    --fourDpBg: #F5F6F5; /* mainBg light w. 50% eightDpBg light overlay */
+    --mainBg: ##F0F1F2; /* desaturated primary color light */
+    --oneDpBg: #F2F4F2;
+    --fourDpBg: #F5F6F5;
     --eightDpBg: #fbfbfb;
     --anchorNorm: #2196F3; /* primary color light */
   }
@@ -379,6 +379,12 @@ a.darkLink {
   margin-left: var(--outerMargin);
   margin-right: var(--outerMargin);
   margin-bottom: 0;
+}
+
+@media (prefers-color-scheme: light) { /* sets color to dark theme high emphasis for text always on dark backgrounds, like in the footer */
+  .switchColor {
+    color: hsla(0, 0%, 100%, .87); /* white, high emphasis dark theme text */
+  }
 }
 
 /* for illustration page */
