@@ -31,6 +31,7 @@ From my lifelong passion for illustration, to customer service, to writing for c
 April 2018 - present
 {:.medEmphTxt .marginTopZero}
 
+- Design infromation architecture and CSS for launch of findthemasks.com, gathering and sharing donation information from over 200 hospitals across the US, with more than 20,000 unique visitors per day in first three days.
 - Design and develop progressive web apps and responsive sites from definition to deployment.
 - Craft artifacts to communicate, iterate, and improve processes.
 - Research and test people's needs and actions to define and refine experiences.
@@ -102,6 +103,12 @@ Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Tre
 
 <article markdown="1">
 ## Projects
+{:.margBottZero .medBreak .underlineBlock}
+[findthemaks.com](https://findthemasks.com)
+{:.smallestBreak .margBottZero}
+page gathering and sharing information on where to donate personal protective gear
+{:.smallLeading}
+
 {:.margBottZero .medBreak .underlineBlock}
 [Dauntlez.org](https://dauntlez.org)
 {:.smallestBreak .margBottZero}
