@@ -722,3 +722,7 @@ figcaption, .medEmphTxt {
 .marginTopZero {
   margin-top: 0;
 }
+
+.embold {
+  font-weight: bold;
+}

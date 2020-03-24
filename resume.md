@@ -104,26 +104,25 @@ Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Tre
 <article markdown="1">
 ## Projects
 {:.margBottZero .medBreak .underlineBlock}
-[findthemaks.com](https://findthemasks.com)
+[findthemasks.com](https://findthemasks.com)
 {:.smallestBreak .margBottZero}
-page gathering and sharing information on where to donate personal protective gear
-{:.smallLeading}
+gathering and sharing information on where to donate hospital gear
+{:.marginTopZero}
 
-{:.margBottZero .medBreak .underlineBlock}
 [Dauntlez.org](https://dauntlez.org)
-{:.smallestBreak .margBottZero}
+{:.smallestBreak .margBottZero .embold}
 self defense and education non-profit WordPress site
-{:.smallLeading}
+{:.marginTopZero}
 
 [jot &](https://ctavispost.com/project01.html)
-{:.smallerBreak .margBottZero}
+{:.smallerBreak .margBottZero .embold}
 storage, notebook, PWA prototype
-{:.smallLeading}
+{:.marginTopZero}
 
 [bus_hop](https://docs.google.com/presentation/d/1k-YYYjvpRXqHV7TVsjBOHiaG0Ug9v9CoFzt_kIuZ8Vg/edit?usp=sharing)
-{:.smallerBreak .margBottZero}
+{:.smallerBreak .margBottZero .embold}
 mass transit mobile app concept
-{:.smallLeading}
+{:.marginTopZero}
 </article>
 
 <article markdown="1">
