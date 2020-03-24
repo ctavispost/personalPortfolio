@@ -105,12 +105,12 @@ Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Tre
 ## Projects
 {:.margBottZero .medBreak .underlineBlock}
 [findthemasks.com](https://findthemasks.com)
-{:.smallestBreak .margBottZero}
+{:.smallestBreak .margBottZero .embold}
 gathering and sharing information on where to donate hospital gear
 {:.marginTopZero}
 
 [Dauntlez.org](https://dauntlez.org)
-{:.smallestBreak .margBottZero .embold}
+{:.smallerBreak .margBottZero .embold}
 self defense and education non-profit WordPress site
 {:.marginTopZero}
 
