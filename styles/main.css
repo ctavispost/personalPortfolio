@@ -38,6 +38,7 @@ html {
     --oneDpBg: #F2F4F2;
     --fourDpBg: #F5F6F5;
     --eightDpBg: #fbfbfb;
+    --altBg: #121212; /* Material dark theme primary color for higher contrast with links and text */
     --anchorNorm: #2196F3; /* primary color light */
   }
 }
@@ -65,7 +66,7 @@ html, body {
 }
 
 body {
-  background-color: var(--mainBg); /* necessary to allow for background to change based on UA pref */
+  background-color: var(--mainBg); /* background to changes based on UA pref */
   color: var(--textHighEmph);
   font-family: 'Roboto', sans-serif;
   line-height: var(--lineHeight);
@@ -88,6 +89,10 @@ a { /* set links to primary color for light or dark mode  */
 }
 
 @media not (prefers-color-scheme: light) { /* set link pseudo-class colors in dark theme; otherwise colors are set by user agent */
+  a {
+    font-weight: 700;
+  }
+
   a:hover, a:active {
     color: var(--anchorHover);
   }
@@ -157,6 +162,7 @@ a { /* set links to primary color for light or dark mode  */
 }
 
 .navText {
+  color: #006FC9;
   font-size: var(--headFootText);
 }
 
