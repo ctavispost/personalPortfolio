@@ -31,8 +31,9 @@ From my lifelong passion for illustration, to customer service, to writing for c
 April 2018 - present
 {:.medEmphTxt .marginTopZero}
 
-- Design infromation architecture and CSS for launch of findthemasks.com, gathering and sharing donation information from over 200 hospitals across the US, with more than 20,000 unique visitors per day in first three days.
-- Design and develop progressive web apps and responsive sites from definition to deployment.
+- Designed information architecture and CSS for launch of [findthemasks](https://findthemasks.com), gathering and sharing donation information from over 500 hospitals across the US, with more than 20,000 unique visitors per day in first three days.
+- Lead information architecture, drafted content and UI for [Dauntlez](https://dauntlez.org), deploying the site with team of volunteers in 6 hour hackathon.
+- Define and develop progressive web apps and responsive sites from definition to deployment.
 - Craft artifacts to communicate, iterate, and improve processes.
 - Research and test people's needs and actions to define and refine experiences.
 - Create and edit content to inform, guide, and delight.
@@ -106,12 +107,12 @@ Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Tre
 {:.margBottZero .medBreak .underlineBlock}
 [findthemasks.com](https://findthemasks.com)
 {:.smallestBreak .margBottZero .embold}
-gathering and sharing information on where to donate hospital gear
+site gathering and sharing information on where to donate hospital gear
 {:.marginTopZero}
 
 [Dauntlez.org](https://dauntlez.org)
 {:.smallerBreak .margBottZero .embold}
-self defense and education non-profit WordPress site
+self defense and education non-profit in WordPress
 {:.marginTopZero}
 
 [jot &](https://ctavispost.com/project01.html)
@@ -128,7 +129,7 @@ mass transit mobile app concept
 <article markdown="1">
 ## Interests
 {:.margBottZero .medBreak .underlineBlock}
-hiking, drawing, reading
+I like to hike, draw, and read. Sometimes, I do two of those at once.
 {:.smallestBreak}
 </article>
 </div>
