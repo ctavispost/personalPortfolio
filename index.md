@@ -20,6 +20,17 @@ layout: default
     </a>
   </article>
 
+  <!--
+  <article class="card project04">
+    <a href="project04.html" class="cardLink">
+      <h1 class="projText">findthemasks</h1>
+      <p class="projText">mobile transit app</p>
+      <img src="" alt="" class="projPic preferDark">
+      <img src="" alt="" class="projPic preferLight">
+    </a>
+  </article>
+  -->
+
   <article class="card project01">
     <a href="project01.html" class="cardLink">
       <h1 class="projText">jot &</h1>

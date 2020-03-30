@@ -11,7 +11,7 @@ Dauntlez is a nonprofit organization dedicated to ending domestic violence and a
 
 Working from discussions with the product owner and information from an earlier site, Dauntlez.com, we collaborated on a completely new design. I created and refined content, information architecture, and UI artifacts which I deployed to new pages on WordPress. I also championed accessibility and a focus on users' goals.
 
-At the end of the day, we had a site which let people sign up for classes, donate, and learn the 'what' and 'why' of Dauntlez.
+At the end of the day, we had a site which let people sign up for classes, donate, and learn the 'what' and 'why' of Dauntlez. Here's a quick <a href="https://democracylab.ghost.io/user-experience-design-volunteers-unite-with-dauntlez-to-help-defend-women-and-teens/">article</a> about our project.
 
 
 <section markdown="1">
@@ -53,7 +53,44 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 </section>
 
 <section markdown="1">
+<h2 class="centerGrid" markdown="1">The problem</h2>
+
+<figure markdown="1">
+![a neon pink, jumbled web page](images/dauntlez/comLand.jpg)
+{:.illustImg}
+<figcaptption>old dauntlez.com main page</figcaption>
+</figure>
+
+People want to learn about Dauntlez’s classes and mission, but the old .com site is difficult to use.
+
+<h2 class="centerGrid" markdown="1">The solution</h2>
+
+<figure mardown="1">
+![a modern looking WordPress page](images/dauntlez/orgMainCrop.jpg)
+{:.illustImg}
+<figcaptption>new dauntlez.org landing hero</figcaption>
+</figure>
+
+A new .org site communicates Dauntlez’s mission with a clear hero-section and call to action. The flow of information is simpler and intuitive. Text and images have been made more accessible. Each section has a purpose.
+</section>
+
+<section markdown="1">
+<h2 class="centerGrid" markdown="1">The process</h2>
+
+With the time constraints of a hackathon, we based our assumptions and discovery on conversations with Adina, the product owner, and information on her old website. Our discussion helped me to form three user types:
+- people who might take a class (our primary audience)
+- potential volunteers
+- possible donors
+
+We worked up user stories for these people. Based on assumed user goals, I lead a group in sketching out the the information architecture strategy, including a header, footer, and site map. We converged on our basic design in collaboartion with developers who were working to set up the site structure on WordPress and another group of designers that had begun wireframing iterations of the landing page.
+
+From there, I focused on maintaining consistency and accessibility across content. We worked together to ensure users knew which classes were available, when, and who they were for. At the end of the day, we attained our goal of having functioning main and workshop-selection pages in a structure that could be added to later.
+</section>
+
+
+<section markdown="1">
 <h2 class="centerGrid" markdown="1">What's next for Dauntlez.org?</h2>
+
 
 The site needs a working volunteer page, a calendar, and more information for fundraising. All images showing information should have text or graphs added separately to make them accessible. Once essential elements are seen to, Dauntlez could use some research to better serve its community and improve its UI, especially navigation.
 

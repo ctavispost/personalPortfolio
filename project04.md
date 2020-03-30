@@ -23,25 +23,25 @@ layout: default
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
 <summary>Deliverables</summary>
 <div>
-CSS, wireframes, sketches, icons, site launch
+HTML, CSS, wireframes, sketches
 </div>
 </details>
 
 <h3 class="speechOrPrintOnly">Deliverables</h3> <!-- accessible version of above -->
 
-content strategy, content, user types, user stories, user flows, wireframes, site-map, deployed site
+HTML, CSS, wireframes, sketches
 {:.speechOrPrintOnly}
 
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
 <summary>Tools</summary>
 <div>
-GitHub, CSS, Bootstrap, Google Docs, Slack, Figma, markers, paper, whiteboard
+GitHub, CSS, Bootstrap, Google Docs, Slack, Figma, markers, whiteboard
 </div>
 </details>
 
 <h3 class="speechOrPrintOnly">Tools</h3> <!-- accessible version of above -->
 
-GitHub, CSS, Bootstrap, Google Docs, Slack, Figma, markers, paper, whiteboard
+GitHub, CSS, Bootstrap, Google Docs, Slack, Figma, markers, whiteboard
 {:.speechOrPrintOnly}
 </section>
 
