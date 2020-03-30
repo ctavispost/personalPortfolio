@@ -31,7 +31,7 @@ From my lifelong passion for illustration, to customer service, to writing for c
 April 2018 - present
 {:.medEmphTxt .marginTopZero}
 
-- Designed information architecture and CSS for launch of [findthemasks](https://findthemasks.com), gathering and sharing donation information from over 500 hospitals across the US, with more than 20,000 unique visitors per day in first three days.
+- Designed information architecture and CSS for launch of [findthemasks](https://findthemasks.com), gathering and sharing donation information from over 500 hospitals across the US, with more than 20,000 unique visitors per day in its first three days.
 - Lead information architecture, drafted content and UI for [Dauntlez](https://dauntlez.org), deploying the site with team of volunteers in 6 hour hackathon.
 - Define and develop progressive web apps and responsive sites from definition to deployment.
 - Craft artifacts to communicate, iterate, and improve processes.
@@ -91,14 +91,14 @@ Philosophy, Japanese.
 <article markdown="1">
 ## Skills
 {:.margBottZero .medBreak .underlineBlock}
-prototyping, wireframes, flows, user tests, surveys, interviews, personas, user stories, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, accessible design, user centered design, writing, UI
+prototyping, wireframes, flows, user tests, surveys, interviews, personas, user stories, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, inclusivity and accessibility, user centered design, writing, copy editing, UI
 {:.smallestBreak}
 </article>
 
 <article markdown="1">
 ## Tools
 {:.margBottZero .medBreak .underlineBlock}
-Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Trello, Atom, pencil & paper
+Sketch, Figma, XD, Illustrator, HTML5, CSS, Javascript, jQuery, Jekyll, Git, Trello, Ruby, Rails, pencil & paper
 {:.smallestBreak}
 </article>
 
