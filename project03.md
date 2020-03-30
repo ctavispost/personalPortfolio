@@ -92,7 +92,11 @@ From there, I focused on maintaining consistency and accessibility across conten
 <h2 class="centerGrid" markdown="1">What's next for Dauntlez.org?</h2>
 
 
-The site needs a working volunteer page, a calendar, and more information for fundraising. All images showing information should have text or graphs added separately to make them accessible. Once essential elements are seen to, Dauntlez could use some research to better serve its community and improve its UI, especially navigation.
+The site needs to offer utility to potential volunteers and donors. Right now, it lacks information geared toward them, and there isn't a direct way to offer to volunteer.
+
+Another pass should be made to make the site inclusive. In particular, images showing information should have text or graphs added separately to make them accessible.
+
+Once essential elements are seen to, Dauntlez could use some research to better serve its community. Areas of opportunity likely include UI and social media outreach. It would help to have a story interwoven throughout the site, offering a more compelling and immersive experience.
 
 Possible future additions might include videos, online courses, greater detail about what is taught in each workshop, and stronger fundraising copy.
 </section>
