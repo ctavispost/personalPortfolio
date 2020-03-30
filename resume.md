@@ -31,7 +31,7 @@ From my lifelong passion for illustration, to customer service, to writing for c
 April 2018 - present
 {:.medEmphTxt .marginTopZero}
 
-- Designed information architecture and CSS for launch of [findthemasks](https://findthemasks.com), gathering and sharing donation information from over 500 hospitals across the US, with more than 20,000 unique visitors per day in its first three days.
+- Designed information architecture, HTML, and CSS for launch of [findthemasks](https://findthemasks.com), gathering and sharing donation information from over 500 hospitals across the US, with more than 20,000 unique visitors per day in its first three days.
 - Lead information architecture, drafted content and UI for [Dauntlez](https://dauntlez.org), deploying the site with team of volunteers in 6 hour hackathon.
 - Define and develop progressive web apps and responsive sites from definition to deployment.
 - Craft artifacts to communicate, iterate, and improve processes.
