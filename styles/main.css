@@ -162,7 +162,7 @@ a { /* set links to primary color for light or dark mode  */
 }
 
 .navText {
-  color: #006FC9;
+  color: var(--anchorNorm);
   font-size: var(--headFootText);
 }
 
