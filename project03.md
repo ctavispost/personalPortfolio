@@ -55,7 +55,7 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 <section markdown="1">
 <h2 class="centerGrid" markdown="1">The problem</h2>
 
-<figure markdown="1">
+<figure>
 <img src="images/dauntlez/comLand.jpg" alt="a neon pink, jumbled web page" class="illustImg">
 <figcaptption>old dauntlez.com main page</figcaption>
 </figure>
@@ -64,7 +64,7 @@ People want to learn about Dauntlez’s classes and mission, but the old .com si
 
 <h2 class="centerGrid" markdown="1">The solution</h2>
 
-<figure mardown="1">
+<figure>
 <img src="images/dauntlez/orgMainCrop.jpg" alt="a modern looking WordPress page" class="illustImg">
 <figcaptption>new dauntlez.org landing hero</figcaption>
 </figure>
