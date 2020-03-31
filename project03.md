@@ -56,7 +56,7 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 <h2 class="centerGrid" markdown="1">The problem</h2>
 
 <div class="illustCard">
-<img src="images/dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="illustImg">
+<img src="images/Dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="illustImg">
 <p class="caption">old dauntlez.com main page</p>
 </div>
 
@@ -65,7 +65,7 @@ People want to learn about Dauntlez’s classes and mission, but the old .com si
 <h2 class="centerGrid" markdown="1">The solution</h2>
 
 <div class="illustCard">
-<img src="images/dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="illustImg">
+<img src="images/Dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="illustImg">
 <p class="caption">new dauntlez.org landing hero</p>
 </div>
 
