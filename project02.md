@@ -83,6 +83,20 @@ A three screen app with a:
 </section>
 
 <section markdown="1">
+## Another direction
+
+[prototype](https://www.figma.com/proto/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3085%3A170&scaling=min-zoom)
+{:.margBottZero}
+[mockup](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3072%3A253)
+
+This is the direction I would take the app in now:
+
+- rebranded from a rushed sounding 'BusyBus' to a fun 'bus_hop'
+- redesigned to let users quickly find information about their route's arrival
+- simplified to be more direct and readable
+</section>
+
+<section markdown="1">
 ## Questions for potential users
 {:.margBottZero}
 [survey](https://docs.google.com/forms/d/e/1FAIpQLScta3oU7pXSdqC31nyIDzshC71xTrdRr5biklxgS3jgwlzJYA/viewform?usp=sf_link)
@@ -101,7 +115,7 @@ Regular transit app users most want to:
 
 Almost two thirds of respondents considered quickness of travel important or very important. This was more than any other value tested, and was true across types of travel, including mass transit. Most people value their time. So, BusyBus is intended to save user’s time and not waste it.
 
-Regular riders were evenly split between two online priorities: checking arrivals and planning trips. These are thus among the highest needs of veteran transit app users. To see how these needs are being met (or missed), I studied other transit apps.
+Regular riders were evenly split between two online priorities: checking arrivals and planning trips. These are thus among the highest needs of veteran transit app users. To see how these needs were being met (or missed), I studied other transit apps.
 </section>
 
 <section markdown="1">
@@ -143,18 +157,6 @@ Based on our assumptions, survey, SWOT, and user stories, a transit app should:
 - Keep lists short
 </section>
 
-<section markdown="1">
-## Another direction
 
-[prototype](https://www.figma.com/proto/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3085%3A170&scaling=min-zoom)
-{:.margBottZero}
-[mockup](https://www.figma.com/file/yY9aQhuxDcGeErba71UB5U/BusyBus-prototype?node-id=3072%3A253)
-
-If I were to do this now, I would push for:
-
-- rebranded from a rushed sounding 'BusyBus' to a fun 'bus_hop'
-- redesigned to let users quickly find information about their route's arrival
-- simplified to be more direct and readable
-</section>
 </div>
 </article>

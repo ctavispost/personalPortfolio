@@ -55,19 +55,19 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 <section markdown="1">
 <h2 class="centerGrid" markdown="1">The problem</h2>
 
-<figure>
-<img src="images/dauntlez/comLand.jpg" alt="a neon pink, jumbled web page" class="illustImg">
-<figcaptption>old dauntlez.com main page</figcaption>
-</figure>
+<div class="illustCard">
+<img src="images/dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="illustImg">
+<p class="caption">old dauntlez.com main page</p>
+</div>
 
 People want to learn about Dauntlez’s classes and mission, but the old .com site is difficult to use.
 
 <h2 class="centerGrid" markdown="1">The solution</h2>
 
-<figure>
-<img src="images/dauntlez/orgMainCrop.jpg" alt="a modern looking WordPress page" class="illustImg">
-<figcaptption>new dauntlez.org landing hero</figcaption>
-</figure>
+<div class="illustCard">
+<img src="images/dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="illustImg">
+<p class="caption">new dauntlez.org landing hero</p>
+</div>
 
 A new .org site communicates Dauntlez’s mission with a clear hero-section and call to action. The flow of information is simpler and intuitive. Text and images have been made more accessible. Each section has a purpose.
 </section>
