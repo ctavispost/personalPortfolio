@@ -53,19 +53,19 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 </section>
 
 <section markdown="1">
-<h2 class="centerGrid" markdown="1">The problem</h2>
+<h2 class="centerGrid medBreak" markdown="1">The problem</h2>
 
 <div class="illustCard">
-<img src="images/Dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="illustImg">
+<img src="images/Dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="illustImg medImgHeight">
 <p class="caption">old dauntlez.com main page</p>
 </div>
 
 People want to learn about Dauntlez’s classes and mission, but the old .com site is difficult to use.
 
-<h2 class="centerGrid" markdown="1">The solution</h2>
+<h2 class="centerGrid medBreak" markdown="1">The solution</h2>
 
 <div class="illustCard">
-<img src="images/Dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="illustImg">
+<img src="images/Dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="illustImg medImgHeight">
 <p class="caption">new dauntlez.org landing hero</p>
 </div>
 
@@ -73,7 +73,7 @@ A new .org site communicates Dauntlez’s mission with a clear hero-section and 
 </section>
 
 <section markdown="1">
-<h2 class="centerGrid" markdown="1">The process</h2>
+<h2 class="centerGrid medBreak" markdown="1">The process</h2>
 
 With the time constraints of a hackathon, we based our assumptions and discovery on conversations with Adina, the product owner, and information on her old website. Our discussion helped me to form three user types:
 - people who might take a class (our primary audience)
@@ -87,8 +87,7 @@ From there, I focused on maintaining consistency and accessibility across conten
 
 
 <section markdown="1">
-<h2 class="centerGrid" markdown="1">What's next for Dauntlez.org?</h2>
-
+<h2 class="centerGrid medBreak" markdown="1">What's next for Dauntlez.org?</h2>
 
 The site needs to offer utility to potential volunteers and donors. Right now, it lacks information geared toward them, and there isn't a direct way to offer to volunteer.
 
