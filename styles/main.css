@@ -641,6 +641,13 @@ figcaption, .medEmphTxt {
   margin: 0;
 }
 
+.captionedImg {
+  max-width: 100%;
+  height: auto;
+  object-fit: scale-down;
+  margin-bottom: .3rem;
+}
+
 /* for about */
 .aboutContainer {
   margin-left: var(--outerMargin);
@@ -699,6 +706,10 @@ figcaption, .medEmphTxt {
 
 .margBottMed {
   margin-bottom: var(--smBreak);
+}
+
+.medImgHeight {
+  max-height: 40vh;
 }
 
 /* for resume */

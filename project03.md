@@ -5,7 +5,12 @@ layout: default
 
 <article class="projContainer" markdown="1">
 <div class="projLimitWidth" markdown="1">
+
+<header class="flexRow">
 <h1 class="centerGrid" markdown="1">[Dauntlez.org](https://dauntlez.org)</h1>
+<img src="images/dauntDark.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferDark">
+<img src="images/dauntLight.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferLight">
+</header>
 
 Dauntlez is a nonprofit organization dedicated to ending domestic violence and abuse by educating and empowering women, teens, and parents. They run workshops teaching physical defense, awareness, and de-escalation to women, teens, and parents. I launched Dautnlez.org with a team of 10 other people at a 6 hour hackathon.
 
@@ -56,7 +61,7 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 <h2 class="centerGrid medBreak" markdown="1">The problem</h2>
 
 <div class="illustCard">
-<img src="images/Dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="illustImg medImgHeight">
+<img src="images/Dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="captionedImg medImgHeight">
 <p class="caption">old dauntlez.com main page</p>
 </div>
 
@@ -65,7 +70,7 @@ People want to learn about Dauntlez’s classes and mission, but the old .com si
 <h2 class="centerGrid medBreak" markdown="1">The solution</h2>
 
 <div class="illustCard">
-<img src="images/Dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="illustImg medImgHeight">
+<img src="images/Dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="captionedImg medImgHeight">
 <p class="caption">new dauntlez.org landing hero</p>
 </div>
 
