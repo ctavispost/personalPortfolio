@@ -58,7 +58,7 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 </section>
 
 <section markdown="1">
-<h2 class="centerGrid medBreak" markdown="1">The problem</h2>
+<h2 class="centerGrid medBreak" markdown="1">Problem</h2>
 
 <div class="illustCard">
 <img src="images/Dauntlez/comLand.jpg" alt="a neon-pink jumbled web page with inaccessible text" class="captionedImg medImgHeight">
@@ -67,7 +67,7 @@ WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard
 
 People want to learn about Dauntlez’s classes and mission, but the old .com site is difficult to use.
 
-<h2 class="centerGrid medBreak" markdown="1">The solution</h2>
+<h2 class="centerGrid medBreak" markdown="1">Solution</h2>
 
 <div class="illustCard">
 <img src="images/Dauntlez/orgMainCrop.jpg" alt="landing page with hero image of a Dauntlez workshop and a button to sign up" class="captionedImg medImgHeight">

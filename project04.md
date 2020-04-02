@@ -7,11 +7,13 @@ layout: default
 <div class="projLimitWidth" markdown="1">
 <h1 class="centerGrid" markdown="1">[findthemasks.com](https://findthemasks.com)</h1>
 
+findthemasks.com shares ways to donate protective equipment to hospitals. The spread of COVID-19 has caused shortages of masks, gloves, face-shields, and other gear healthcare workers need. By curating information from thousands of hospitals across the US, Canada, and Europe, findthemasks can help people find what, where, and how to donate in ways that can help protect us all.
+
 <section markdown="1">
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
 <summary>Role: UX, information architecture, CSS</summary>
 <div>
-
+Working with the product owner and devops lead, I designed the HTML and CSS information architecture and styling for the site launch, and assisted with subsequent testing and improvements.
 </div>
 </details>
 
@@ -23,7 +25,7 @@ layout: default
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
 <summary>Deliverables</summary>
 <div>
-HTML, CSS, wireframes, sketches
+HTML, CSS, wireframes, sketches, site prototypes
 </div>
 </details>
 
@@ -45,10 +47,32 @@ GitHub, CSS, Bootstrap, Google Docs, Slack, Figma, markers, whiteboard
 {:.speechOrPrintOnly}
 </section>
 
-<section markdown="1">
-<h2 class="centerGrid" markdown="1">What's next?</h2>
+<section class="medBreak" markdown="1">
+<h2 class="centerGrid" markdown="1">Problem</h2>
 
+People have personal protective equipment (PPE) and are willing to donate it, but they don't know where or what to give. Hospitals are in desperate need of PPE, and know what they need, but are overburdened and don't have a good way of getting that information out.
+</section>
 
+<section class="medBreak" markdown="1">
+<h2 class="centerGrid" markdown="1">Solution</h2>
+
+findthemasks.com has general guidelines and a curated list of donation locations, what they need, and how to give. It is searchable by country and region using Google Maps. Hospitals enter their information in through a linked form, and after moderators approve it, their details are automatically added to the index.
+</section>
+
+<section class="medBreak" markdown="1">
+<h2 class="centerGrid" markdown="1">Approach</h2>
+
+I came in on day two. Within a set layout, I was asked to clean up and style the markup. I removed inline styles, created a new stylesheet, made the markup semantic, and refactored the page structure to be accessible and responsive.
+
+I assisted with branding and design strategy in conversation and with sketches. My proposal for a bottom nav bar, based on research from Apple and Google, eventually influenced the use of a language and country selection bar at the bottom of the screen.
+
+My most lasting contribution to the project was simple, but integral. I placed state, city, and hospital names in descending h-tags (h2, h3, and h4 respectively). This made the HTML more meaningful and was integral to automating list entries. Much has changed about findthemasks since then, but this remains a key piece.
+</section>
+
+<section class="medBreak" markdown="1">
+<h2 class="centerGrid" markdown="1">Impact</h2>
+
+My contributions helped to launch findthemasks.com and set it up to scale. In the first three days, we listed 250 hospitals in the US and saw 20,000 unique visitors per day. Now, the site lists thousands of hospitals across multiple continents.
 </section>
 
 <!--
