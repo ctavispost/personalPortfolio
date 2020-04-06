@@ -12,16 +12,16 @@ layout: default
 
 <section class="studies sideMargin" id="projects"> <!-- wrapper for cards -->
   <article class="card project04">
-    <a href="project04.html" class="cardLink">
+    <a href="project04.html" class="dispBlock paddingSm">
       <h1 class="projText">findthemasks</h1>
       <p class="projText">how, what, and where to donate protective gear for hospital workers</p>
-      <img src="images/ftm-logo-dk.svg" alt="a shining mask above an outstreched hand" class="projPic preferDark">
-      <img src="images/ftm-logo-lt.svg" alt="a shining mask above an outstreched hand" class="projPic preferLight">
+      <img src="images/ftm-logo-dk-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferDark">
+      <img src="images/ftm-logo-lt-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferLight">
     </a>
   </article>
 
   <article class="card project03">
-    <a href="project03.html" class="cardLink">
+    <a href="project03.html" class="dispBlock paddingSm">
       <h1 class="projText">Dauntlez</h1>
       <p class="projText">non-profit self defense site</p>
       <img src="images/dauntDark.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferDark">
@@ -30,7 +30,7 @@ layout: default
   </article>
 
   <article class="card project01">
-    <a href="project01.html" class="cardLink">
+    <a href="project01.html" class="dispBlock paddingSm">
       <h1 class="projText">jot &</h1>
       <p class="projText">storage & notebook web app</p>
       <img src="images/netWalk.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferDark">
@@ -40,7 +40,7 @@ layout: default
 
   <!--
   <article class="card project02">
-    <a href="project02.html" class="cardLink">
+    <a href="project02.html" class="dispBlock paddingSm">
       <h1 class="projText">bus_hop</h1>
       <p class="projText">mobile transit app</p>
       <img src="" alt="" class="projPic preferDark">
