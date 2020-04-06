@@ -6,13 +6,13 @@ layout: default
 <article class="projContainer" markdown="1">
 <div class="projLimitWidth" markdown="1">
 
-<header class="flexRow flexCenter">
-<h1 class="centerGrid" markdown="1">[findthemasks.com](https://findthemasks.com)</h1>
+<header class="flexCenter">
 <img src="images/ftm-logo-dk.svg" alt="a shining mask above an outstreched hand" class="preferDark logoInLock">
 <img src="images/ftm-logo-lt.svg" alt="a shining mask above an outstreched hand" class="preferLight logoInLock">
+<h1 class="lockupBreakVert" markdown="1">[findthemasks](https://findthemasks.com)</h1>
 </header>
 
-findthemasks.com shares ways to donate protective equipment to hospitals. The spread of COVID-19 has caused shortages of masks, gloves, face-shields, and other gear healthcare workers need. By curating information from thousands of hospitals across the US, Canada, and Europe, findthemasks can help people find what, where, and how to donate in ways that can help protect us all.
+[findthemasks.com](https://findthemasks.com) shares ways to donate protective equipment to hospitals. The spread of COVID-19 has caused shortages of masks, gloves, and other items healthcare workers need. By curating information from thousands of hospitals across the US, Canada, and Europe, findthemasks can help people find what, where, and how to donate in ways that can help protect us all.
 
 <section markdown="1">
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly"> <!-- for accessibility, details elements are set to not show if a screen reader or printer is being used -->

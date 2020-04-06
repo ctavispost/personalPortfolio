@@ -32,7 +32,7 @@ Working with the product owner and 9 other volunteers, I designed and deployed D
 Working with the product owner and 9 other volunteers, I designed and deployed Dauntlez.org. I created its information architecture and content based on essential user needs and the organization's goals.
 {:.speechOrPrintOnly}
 
-<details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
 <summary>Deliverables</summary>
 <div>
 content strategy, content, user types, user stories, user flows, wireframes, site-map, deployed site
@@ -44,7 +44,7 @@ content strategy, content, user types, user stories, user flows, wireframes, sit
 content strategy, content, user types, user stories, user flows, wireframes, site-map, deployed site
 {:.speechOrPrintOnly}
 
-<details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
 <summary>Tools</summary>
 <div>
 WordPress, CSS, Google Docs, Excel, Trello, markers, paper, whiteboard

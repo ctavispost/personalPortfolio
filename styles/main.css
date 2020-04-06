@@ -290,8 +290,14 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   display: block;
 }
 
-.paddingSm {
-  padding: 1rem;
+.paddingSmTB {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.paddingSmLR {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .project01 { /* should be larger than other projects */
@@ -663,6 +669,7 @@ figcaption, .medEmphTxt {
 }
 
 .flexCenter {
+  display: flex;
   align-items: center;
   justify-content: center;
 }
@@ -671,6 +678,10 @@ figcaption, .medEmphTxt {
   max-height: 5rem;
   min-width: 60px;
   object-fit; scale-down;
+}
+
+.lockupBreakVert {
+  margin-top: .5rem;
 }
 
 /* for about */
