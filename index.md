@@ -11,6 +11,15 @@ layout: default
 </header>
 
 <section class="studies sideMargin" id="projects"> <!-- wrapper for cards -->
+  <article class="card project04">
+    <a href="project04.html" class="cardLink">
+      <h1 class="projText">findthemasks</h1>
+      <p class="projText">how, what, and where to donate protective gear for hospital workers</p>
+      <img src="ftm-logo-dk.svg" alt="find the masks, a shining mask above a sharing hand" class="projPic preferDark">
+      <img src="ftm-logo-lt.svg" alt="" class="projPic preferLight">
+    </a>
+  </article>
+
   <article class="card project03">
     <a href="project03.html" class="cardLink">
       <h1 class="projText">Dauntlez</h1>
@@ -19,17 +28,6 @@ layout: default
       <img src="images/dauntLight.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferLight">
     </a>
   </article>
-
-  <!--
-  <article class="card project04">
-    <a href="project04.html" class="cardLink">
-      <h1 class="projText">findthemasks</h1>
-      <p class="projText">mobile transit app</p>
-      <img src="" alt="" class="projPic preferDark">
-      <img src="" alt="" class="projPic preferLight">
-    </a>
-  </article>
-  -->
 
   <article class="card project01">
     <a href="project01.html" class="cardLink">

@@ -10,16 +10,16 @@ layout: default
 findthemasks.com shares ways to donate protective equipment to hospitals. The spread of COVID-19 has caused shortages of masks, gloves, face-shields, and other gear healthcare workers need. By curating information from thousands of hospitals across the US, Canada, and Europe, findthemasks can help people find what, where, and how to donate in ways that can help protect us all.
 
 <section markdown="1">
-<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
+<details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly"> <!-- for accessibility, details elements are set to not show if a screen reader or printer is being used -->
 <summary>Role: UX, information architecture, CSS</summary>
 <div>
 Working with the product owner and devops lead, I designed the HTML and CSS information architecture and styling for the site launch, and assisted with subsequent testing and improvements.
 </div>
 </details>
 
-<h3 class="speechOrPrintOnly">Role: UX, information architecture, CSS</h3> <!-- accessible version of above -->
+<h3 class="speechOrPrintOnly">Role: UX, information architecture, CSS</h3> <!-- accessible version of above for screen readers and printing -->
 
-<!-- accessible copy of details of role -->
+Working with the product owner and devops lead, I designed the HTML and CSS information architecture and styling for the site launch, and assisted with subsequent testing and improvements.
 {:.speechOrPrintOnly}
 
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
@@ -75,12 +75,16 @@ My most lasting contribution to the project was simple, but integral. I placed s
 My contributions helped to launch findthemasks.com and set it up to scale. In the first three days, we listed 250 hospitals in the US and saw 20,000 unique visitors per day. Now, the site lists thousands of hospitals across multiple continents.
 </section>
 
-<!--
 <section markdown="1">
 <h2>What I learned</h2>
 
+At launch, we listed only 50 donation sites. As locations were added at a high rate, anticipating issues of scale was important. The HTML structure I chose worked well here. But the styling could have done more.
 
+findthemasks operates on a strong assumption that users arrive already motivated, and so it attempts to be as simple as possible. I had tried to stick to this theme using a single font family. Even with different font sizes and opacity to indicate hierarchy, once the donation site list grew over a thousand, it needed to help users quickly differentiate cities and hospitals when scrolling.
+
+User feedback brought this to our attention a week after launch. If I had considered this opportunity at the beginning, I would have used an easy to read, serif font for cities and states, while the hospitals would have been sans serif like the rest of the page.
+
+In retrospect, it's obvious that more content can make the same-styled page seem more complex and harder to read. This is something I will carry with me when I consider how to make products robust.
 </section>
--->
 </div>
 </article>

@@ -260,10 +260,11 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      grid-template-columns: repeat(3, 1fr);
      grid-template-rows: repeat(2, auto);
      grid-template-areas:
-      "proj03 . ."
-      ". . proj01"
-      ". illust ."
-      ". illust .";
+      "proj04 . ."
+      ". . proj03"
+      ". proj01 ."
+      "illust . ."
+      "illust . .";
    }
 }
 
@@ -312,6 +313,10 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 .project03 {
   grid-area: proj03;
+}
+
+.project04 {
+  grid-area: proj04;
 }
 
 .illustration { /* should be larger than project 02 and 03, but smaller than 01 */
@@ -646,6 +651,10 @@ figcaption, .medEmphTxt {
   height: auto;
   object-fit: scale-down;
   margin-bottom: .3rem;
+}
+
+.minWidth {
+  min-width: 20vw;
 }
 
 /* for about */
