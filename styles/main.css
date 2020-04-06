@@ -242,6 +242,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   grid-template-rows: auto;
   overflow: visible;
   grid-template-areas:
+    "proj04"
     "proj03"
     /* "proj02" */
     "proj01"
