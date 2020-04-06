@@ -5,7 +5,12 @@ layout: default
 
 <article class="projContainer" markdown="1">
 <div class="projLimitWidth" markdown="1">
+
+<header class="flexRow flexCenter">
 <h1 class="centerGrid" markdown="1">[findthemasks.com](https://findthemasks.com)</h1>
+<img alt="a shining mask above an outstreched hand" class="preferDark logoInLock">
+<img alt="a shining mask above an outstreched hand" class="preferLight logoInLock">
+</header>
 
 findthemasks.com shares ways to donate protective equipment to hospitals. The spread of COVID-19 has caused shortages of masks, gloves, face-shields, and other gear healthcare workers need. By curating information from thousands of hospitals across the US, Canada, and Europe, findthemasks can help people find what, where, and how to donate in ways that can help protect us all.
 

@@ -63,7 +63,7 @@ October 2008 - March 2018
 March 1995 - August 2010
 {:.medEmphTxt .marginTopZero}
 
-- Wrote and edited abstracts, reports, letters adjusting style to suit audience and purpose.
+- Wrote and edited abstracts, reports, and letters adjusting style to suit audience and purpose.
 - Developed and maintained tailored case database and trained social workers in its use.
 </article>
 

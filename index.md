@@ -15,8 +15,8 @@ layout: default
     <a href="project04.html" class="cardLink">
       <h1 class="projText">findthemasks</h1>
       <p class="projText">how, what, and where to donate protective gear for hospital workers</p>
-      <img src="ftm-logo-dk.svg" alt="find the masks, a shining mask above a sharing hand" class="projPic preferDark">
-      <img src="ftm-logo-lt.svg" alt="" class="projPic preferLight">
+      <img src="images/ftm-logo-dk.svg" alt="a shining mask above an outstreched hand" class="projPic preferDark">
+      <img src="images/ftm-logo-lt.svg" alt="a shining mask above an outstreched hand" class="projPic preferLight">
     </a>
   </article>
 

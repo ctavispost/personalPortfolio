@@ -653,8 +653,19 @@ figcaption, .medEmphTxt {
   margin-bottom: .3rem;
 }
 
-.minWidth {
+.minWidthVW {
   min-width: 20vw;
+}
+
+.flexCenter {
+  align-items: center;
+  justify-content: center;
+}
+
+.logoInLock {
+  max-height: 5rem;
+  min-width: 60px;
+  object-fit; scale-down;
 }
 
 /* for about */
