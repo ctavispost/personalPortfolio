@@ -6,7 +6,7 @@ layout: default
 <article class="projContainer" markdown="1">
 <div class="projLimitWidth" markdown="1">
 
-<header class="flexCenter">
+<header class="flexCenter flexCol">
 <img src="images/ftm-logo-dk.svg" alt="a shining mask above an outstreched hand" class="preferDark logoInLock">
 <img src="images/ftm-logo-lt.svg" alt="a shining mask above an outstreched hand" class="preferLight logoInLock">
 <h1 class="lockupBreakVert" markdown="1">[findthemasks](https://findthemasks.com)</h1>

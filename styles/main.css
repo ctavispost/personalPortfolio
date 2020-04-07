@@ -674,6 +674,10 @@ figcaption, .medEmphTxt {
   justify-content: center;
 }
 
+.flexCol {
+  flex-direction: column;
+}
+
 .logoInLock {
   max-height: 5rem;
   min-width: 60px;
