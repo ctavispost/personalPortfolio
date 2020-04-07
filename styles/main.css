@@ -15,6 +15,7 @@ html {
   --lineHeight: 1.5;
   --maxText: 66ch; /* max text line width */
   --textScale: 1.414; /* scale text at powers of 1.414 */
+  --paddText: 20px; /* padding for text in cards */
 
   /* set default color variables for dark theme */
   --textHighEmph: hsla(0, 0%, 100%, .87); /* Material dark theme high emphasis text */
@@ -304,9 +305,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
     grid-area: proj01;
 }
 
-.projText {
-  margin-left: var(--outerMargin);
-  margin-right: var(--outerMargin);
+.padText {
+  padding-left: var(--paddText);
+  padding-right: var(--paddText);
 }
 
 .projPic {
