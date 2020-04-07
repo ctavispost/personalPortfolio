@@ -12,10 +12,10 @@ layout: default
 
 <section class="studies sideMargin" id="projects"> <!-- wrapper for cards -->
   <article class="card project04">
-    <a href="project04.html" class="dispBlock paddingSmTB">
+    <a href="project04.html" class="dispBlock paddingSmB">
       <h1 class="padText">findthemasks</h1>
       <p class="padText">the how, what, and where of donating gear to hospitals</p>
-      <div class="projContainer paddingSmLR"> <!-- center images in grid and add padding to sides -->
+      <div class="projContainer padText"> <!-- center images in grid and add padding to sides -->
         <img src="images/ftm-logo-dk-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferDark">
         <img src="images/ftm-logo-lt-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferLight">
       </div>
@@ -23,18 +23,18 @@ layout: default
   </article>
 
   <article class="card project03">
-    <a href="project03.html" class="dispBlock paddingSmTB">
+    <a href="project03.html" class="dispBlock paddingSmB">
       <h1 class="padText">Dauntlez</h1>
-      <p class="padText">non-proift self-defense workshops</p>
+      <p class="padText">self-defense workshop site</p>
       <img src="images/dauntDark.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferDark">
       <img src="images/dauntLight.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferLight">
     </a>
   </article>
 
   <article class="card project01">
-    <a href="project01.html" class="dispBlock paddingSmTB">
+    <a href="project01.html" class="dispBlock paddingSmB">
       <h1 class="padText">jot &</h1>
-      <p class="padText">web storage & notebook app</p>
+      <p class="padText">web storage & notebook</p>
       <img src="images/netWalk.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferDark">
       <img src="images/netwalkLight.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferLight">
     </a>
@@ -42,7 +42,7 @@ layout: default
 
   <!--
   <article class="card project02">
-    <a href="project02.html" class="dispBlock paddingSmTB">
+    <a href="project02.html" class="dispBlock paddingSmB">
       <h1 class="padText">bus_hop</h1>
       <p class="padText">mobile transit app</p>
       <img src="" alt="" class="projPic preferDark">

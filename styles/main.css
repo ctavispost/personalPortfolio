@@ -236,8 +236,6 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 .studies {
   display: grid;
-  grid-row-gap: calc(1rem + 8vh);
-  grid-column-gap: 0;
   align-items: start;
   grid-template-columns: auto;
   grid-template-rows: auto;
@@ -251,6 +249,12 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
     "illust";
 }
 
+@media screen and (max-width: 799px) {
+  .studies {
+    grid-row-gap: 8vh;
+  }
+}
+
 @media screen and (min-width: 800px) {
    .studies {
      background-image: url(/images/pattern.svg);
@@ -259,14 +263,16 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      background-repeat: repeat-y;
      padding-bottom: calc(var(--mainGap) * 2);
      margin-bottom: calc(0px - var(--mainGap));
+     grid-gap: 1rem;
      grid-template-columns: repeat(3, 1fr);
      grid-template-rows: repeat(2, auto);
      grid-template-areas:
       "proj04 . ."
-      ". . proj03"
-      ". proj01 ."
-      "illust . ."
-      "illust . .";
+      "proj04 . illust"
+      ". . illust"
+      ". proj03 ."
+      ". proj03 ."
+      "proj01 . .";
    }
 }
 
@@ -291,14 +297,8 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   display: block;
 }
 
-.paddingSmTB {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-.paddingSmLR {
-  padding-left: 1rem;
-  padding-right: 1rem;
+.paddingSmB {
+  padding-bottom: var(--paddText);
 }
 
 .project01 { /* should be larger than other projects */
