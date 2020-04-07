@@ -61,7 +61,12 @@ People have personal protective equipment (PPE) and are willing to donate it, bu
 <section class="medBreak" markdown="1">
 <h2 class="centerGrid" markdown="1">Solution</h2>
 
-findthemasks.com has general guidelines and a curated list of donation locations, what they need, and how to give. It is searchable by country and region using Google Maps. Hospitals enter their information in through a linked form, and after moderators approve it, their details are automatically added to the index.
+findthemasks shows:
+- donation locations
+- what they need
+- how to give
+
+Hospitals add or remove their information through a linked form. After moderators approve it, the index automatically updates. The resulting list is searchable by map and filters.
 </section>
 
 <section class="medBreak" markdown="1">
@@ -80,8 +85,8 @@ My most lasting contribution to the project was simple, but integral. I placed s
 My contributions helped to launch findthemasks.com and set it up to scale. In the first three days, we listed 250 hospitals in the US and saw 20,000 unique visitors per day. Now, the site lists thousands of hospitals across multiple continents.
 </section>
 
-<section markdown="1">
-<h2>What I learned</h2>
+<section class="medBreak" markdown="1">
+<h2 class="centerGrid">What I learned</h2>
 
 At launch, we listed only 50 donation sites. As locations were added at a high rate, anticipating issues of scale was important. The HTML structure I chose worked well here. But the styling could have done more.
 
