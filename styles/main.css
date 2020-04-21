@@ -67,9 +67,9 @@ html, body {
 }
 
 body {
-  background-color: var(--mainBg); /* background to changes based on UA pref */
+  background-color: var(--mainBg); /* background changes (dark or light) based on UA pref */
   color: var(--textHighEmph);
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', 'Roboto', sans-serif;
   line-height: var(--lineHeight);
   margin: 0;
   padding: 0;
@@ -207,9 +207,8 @@ a { /* set links to primary color for light or dark mode  */
 }
 
 .display {
-  font-family: 'Monoton', 'Roboto', sans-serif;
+  font-family: 'Lora', 'Caslon', 'Libre Caslon Text', serif;
   font-size: calc(1rem * var(--textScale) * var(--textScale) * var(--textScale) * var(--textScale));
-  font-weight: 400; /* Monoton display breaks if set to other font-weight */
   line-height: 1;
 }
 
@@ -561,7 +560,7 @@ button {
     text-decoration: none;
     background: #ffe082;
     color: hsla(0, 100%, 0%, 0.9);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans', 'Roboto', sans-serif;
     font-size: 1rem;
     cursor: pointer;
     text-align: center;
