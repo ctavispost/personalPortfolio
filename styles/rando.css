@@ -5,20 +5,12 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'TNG_Credits';
-     src: url('../fonts/TNG_Credits.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 .trekTitle {
   font-family: 'TNG_Title', 'Audiowide', sans-serif;
-  height: 2em;
 }
 
 .trekSub {
-  font-family: 'TNG_Credits', 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .photoMedResp {
