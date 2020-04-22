@@ -777,3 +777,11 @@ figcaption, .medEmphTxt {
 .embold {
   font-weight: bold;
 }
+
+.txtScale3 {
+  font-size: calc(1rem * var(--textScale) * var(--textScale) * var(--textScale));
+}
+
+.txtScale1 {
+  font-size: calc(1rem * var(--textScale));
+}

@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: 'TNG_Credits';
-     src: url('../fonts/TNG_Title.ttf') format('truetype');
+     src: url('../fonts/TNG_Credits.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -22,7 +22,7 @@
 }
 
 .photoMedResp {
-  max-width: 600px;
+  max-width: 100%;
   height: auto;
   object-fit: contain;
 }
