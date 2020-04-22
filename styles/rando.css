@@ -1,0 +1,27 @@
+@import url('fonts/TNG_Title.ttf');
+@import url('fonts/TNG_Credits.ttf');
+
+.trekTitle {
+  font-family: 'TNG_Title', 'Audiowide', sans-serif;
+  height: calc(2em - 1px);
+}
+
+.trekSub {
+  font-family: 'TNG_Credits', 'Roboto', sans-serif;
+}
+
+.photoMedResp {
+  max-width: 600px;
+  height: auto;
+  object-fit: contain;
+}
+
+.order1 {
+  order: -1;
+}
+
+.photoLGResp {
+  max-width: 1000px;
+  height: auto;
+  object-fit: scale-down;
+}
