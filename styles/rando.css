@@ -1,9 +1,20 @@
-@import url('fonts/TNG_Title.ttf');
-@import url('fonts/TNG_Credits.ttf');
+@font-face {
+  font-family: 'TNG_Title';
+     src: url('../fonts/TNG_Title.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TNG_Credits';
+     src: url('../fonts/TNG_Title.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 .trekTitle {
   font-family: 'TNG_Title', 'Audiowide', sans-serif;
-  height: calc(2em - 1px);
+  height: 2em;
 }
 
 .trekSub {
@@ -21,7 +32,7 @@
 }
 
 .photoLGResp {
-  max-width: 1000px;
+  max-width: 100%;
   height: auto;
   object-fit: scale-down;
 }
