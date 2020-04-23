@@ -11,12 +11,11 @@ random: true
 
 <section class="conditionalFlexRow smBreak" markdown="1">
 <figure class="conditionalRightMarg">
-<img src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero margBottMed photoMedResp" width="600px" height="600px">
-<figcaption>The BSS Bingerprize</figcaption>
+<img src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero photoMedResp" width="600px" height="600px">
 </figure>
 
 Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.
-{:.aboutText .marginTopZero .txtScale1}
+{:.aboutText .marginTopZero .txtScale1 .maxWidth30ch}
 </section>
 
 <article class="medBreak" markdown="1">
@@ -38,7 +37,7 @@ As morale falters, and with only a skeleton crew to run the ship, we have been t
 
 <section class="conditionalFlexRow">
 <div class="flexGrThree"></div> <!-- empty div will take up 3/4 of screen next to figure on wider screens -->
-<figureclass="medBreak flexGrOne">
+<figure class="medBreak flexGrOne">
 <img src="images/random/picard-facepalm.jpg" alt="Captain Picard facepalming" class="photoLGResp" width="600px" height="338px">
 </figure>
 </section>
