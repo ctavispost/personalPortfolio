@@ -5,6 +5,26 @@
   font-style: normal;
 }
 
+@media screen and (min-width: 800px) {
+  .btCont {
+    grid-row-gap: 1rem;
+    grid-column-gap: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, auto);
+    grid-template-areas:
+      "btBinge btTitle ."
+      "btBinge btIntro btIntro"
+      "btIntro btIntro btIntro"
+      "btSub . ."
+      "btStory btDrunk btDrunk"
+      "btStory btDrunk btDrunk"
+      "btStory btStory btStory"
+      "btStory btStory btStory"
+      ". . ."
+      ". . btPalm";
+  }
+}
+
 .trekTitle {
   font-family: 'TNG_Title', 'Audiowide', sans-serif;
 }

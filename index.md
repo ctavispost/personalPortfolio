@@ -32,7 +32,7 @@ layout: default
   </article>
 
   <article class="card project01">
-    <a href="project01.html" class="dispBlock paddingSmB">
+    <a href="project01.html" class="dispBlock">
       <h1 class="padText">jot &</h1>
       <p class="padText">web storage & notebook</p>
       <img src="images/netWalk.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferDark">
