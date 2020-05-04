@@ -5,12 +5,29 @@
   font-style: normal;
 }
 
+.btCont {
+  display: grid;
+  grid-row-gap: 1rem;
+  grid-template-rows: repeat(2, auto);
+  grid-template-areas:
+    "btTitle"
+    "."
+    "btBinge"
+    "."
+    "btIntro"
+    "."
+    "btSub"
+    "btDrunk"
+    "."
+    "btStory"
+    "."
+    "btPalm";
+}
+
 @media screen and (min-width: 800px) {
   .btCont {
-    grid-row-gap: 1rem;
     grid-column-gap: 2rem;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, auto);
     grid-template-areas:
       "btBinge btTitle ."
       "btBinge btIntro btIntro"
@@ -27,6 +44,7 @@
 
 .trekTitle {
   font-family: 'TNG_Title', 'Audiowide', sans-serif;
+  grid-area: btTitle;
 }
 
 .trekSub {
@@ -43,8 +61,32 @@
   order: -1;
 }
 
+.binger {
+  grid-area: btBinge;
+}
+
+.trekIntro {
+  grid-area: btIntro;
+}
+
+.drunkard {
+  grid-area: btDrunk;
+}
+
+.trekSubHd {
+  grid-area: btSub;
+}
+
+.trekStory {
+  grid-area: btStory;
+}
+
 .photoLGResp {
   max-width: 100%;
   height: auto;
   object-fit: scale-down;
+}
+
+.palm {
+  grid-area: btPalm;
 }
