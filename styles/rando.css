@@ -41,7 +41,6 @@ main {
       "btSub btSub btSub"
       ". btDrunk ."
       "btStory btStory ."
-      ". . . "
       ". . btPalm";
   }
 }
@@ -89,4 +88,8 @@ main {
 
 .palm {
   grid-area: btPalm;
+}
+
+.justFlexEnd {
+  justify-content: flex-end;
 }

@@ -28,5 +28,8 @@ random: true
     <p>As morale falters, and with only a skeleton crew to run the ship, we have been tasked with meeting a Klingbong delegation who claim their native strain of ganja can cure the illness. Though I have my doubts, I can only hope they are right.</p>
   </section>
 
-  <img src="images/random/picard-facepalm.jpg" alt="Captain Picard facepalming" class="medBreak palm photoLGResp" width="600px" height="338px">
+  <section class="conditionalFlexCol palm justFlexEnd"> <!-- becomes a flex column w. end justification at screen width of 640px or higher -->
+    <img src="images/random/picard-facepalm.jpg" alt="Captain Picard facepalming" class="medBreak palm photoLGResp" width="600px" height="338px">
+    <p>"Computer, end simulation."</p>
+  </section>
 </article>
