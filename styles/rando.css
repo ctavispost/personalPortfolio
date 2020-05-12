@@ -5,10 +5,15 @@
   font-style: normal;
 }
 
+main {
+  display: flex;
+  justify-content: center;
+}
+
 .btCont {
   display: grid;
   grid-row-gap: 1rem;
-  grid-template-rows: repeat(2, auto);
+  grid-template-rows: auto;
   grid-template-areas:
     "btTitle"
     "."
@@ -26,18 +31,17 @@
 
 @media screen and (min-width: 800px) {
   .btCont {
+    max-width: 80ch;
     grid-column-gap: 2rem;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: minmax(10rem, 1fr) minmax(10rem, 66ch) minmax(8rem, 1fr);
     grid-template-areas:
-      "btBinge btTitle ."
+      "btTitle btTitle btTitle"
       "btBinge btIntro btIntro"
-      "btIntro btIntro btIntro"
-      "btSub . ."
-      "btStory btDrunk btDrunk"
-      "btStory btDrunk btDrunk"
-      "btStory btStory btStory"
-      "btStory btStory btStory"
       ". . ."
+      "btSub btSub btSub"
+      ". btDrunk ."
+      "btStory btStory ."
+      ". . . "
       ". . btPalm";
   }
 }
@@ -55,10 +59,6 @@
   max-width: 100%;
   height: auto;
   object-fit: contain;
-}
-
-.order1 {
-  order: -1;
 }
 
 .binger {
