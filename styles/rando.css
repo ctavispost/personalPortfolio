@@ -35,6 +35,10 @@ main {
   justify-content: center;
 }
 
+.contMaxwidth {
+  max-width: 80ch;
+}
+
 .btCont {
   display: grid;
   grid-row-gap: 1rem;
@@ -56,7 +60,6 @@ main {
 
 @media screen and (min-width: 800px) {
   .btCont {
-    max-width: 80ch;
     grid-column-gap: 2rem;
     grid-template-columns: minmax(10rem, 1fr) minmax(10rem, 66ch) minmax(8rem, 1fr);
     grid-template-areas:

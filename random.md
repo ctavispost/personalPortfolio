@@ -4,7 +4,7 @@ layout: default
 random: true
 ---
 
-<article class="centerGrid aboutContainer btCont">
+<article class="centerGrid aboutContainer contMaxwidth btCont">
   <header class="centerGrid trekTitle">
     <h1 class="txtScale3">BARTREK</h1>
   </header>
@@ -36,12 +36,12 @@ random: true
   </section>
 </article>
 
-<article class="medBreak aboutContainer">
+<article class="medBreak aboutContainer contMaxwidth">
   <h2>On a lovely day:</h2>
   <p>The trees are dancing as they defrock in the wind. And I will leaf-fight anyone who denies fall is the best of seasons.</p>
 </article>
 
-<article class="medBreak aboutContainer">
+<article class="medBreak aboutContainer contMaxwidth">
   <h2>Resolved:</h2>
 
   <p>Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
@@ -54,7 +54,7 @@ random: true
   </figure>
 </article>
 
-<article class="medBreak aboutContainer">
+<article class="medBreak aboutContainer contMaxwidth">
   <p>Shortly after breakfast one morning, my little child turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
   <p>"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
@@ -62,7 +62,7 @@ random: true
   <p>"But not today," he replied.</p>
 </article>
 
-<article class="medBreak aboutContainer">
+<article class="medBreak aboutContainer contMaxwidth">
   <p>We are quick to judge substance dependence but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
 
   <p>Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
@@ -75,7 +75,7 @@ random: true
   </ol>
 </article>
 
-<article class="medBreak aboutContainer">
+<article class="medBreak aboutContainer contMaxwidth">
   <h2>Sometimes</h2>
   <p>when I see claims of '<span class="embold">character assassination</span>', I to myself, "I certainly hope so."</p>
 </article>
