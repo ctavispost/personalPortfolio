@@ -36,12 +36,12 @@ random: true
   </section>
 </article>
 
-<article class="medBreak">
+<article class="medBreak aboutContainer">
   <p>On a lovely day:</p>
   <p>The trees are dancing as they defrock in the wind. And I will leaf-fight anyone who denies fall is the best of seasons.</p>
 </article>
 
-<article class="medBreak">
+<article class="medBreak aboutContainer">
   <h1>Resolved:</h1>
 
   <p>Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity' (and should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs).</p>
@@ -51,18 +51,18 @@ random: true
   <section class="iframeCont">
     <iframe <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." -->
       title="Ten Commandments clip"
+      class="respIframe"
       width="560"
       height="315"
       loading="lazy"
-      class="respIframe"
       src="https://www.youtube.com/embed/3bQnxlHZsjY"
       frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"   allowfullscreen>
     </iframe>
   </section>
 </article>
 
-<article class="medBreak">
+<article class="medBreak aboutContainer">
   <p>Shortly after breakfast one morning, my little child turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
   <p>"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
@@ -70,7 +70,7 @@ random: true
   <p>"But not today," he replied.</p>
 </article>
 
-<article class="medBreak">
+<article class="medBreak aboutContainer">
   <p>We are quick to judge substance dependence but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
 
   <p>Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
@@ -83,6 +83,6 @@ random: true
   </ol>
 </article>
 
-<article class="medBreak">
+<article class="medBreak aboutContainer">
   <p>Sometimes, when I see claims of '<span class="embold">character assination</span>', I to myself, "I certainly hope so."</p>
 </article>

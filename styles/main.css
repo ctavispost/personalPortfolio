@@ -5,7 +5,7 @@
 html {
   box-sizing: border-box;
   font-size: 18px; /* fallback font size: should be large enough for mobile screens */
-  font-size: min(max(16px, 4vw), 24px); /* responsive font size */
+  font-size: min(max(16px, 3vw), 24px); /* responsive font size */
   scroll-behavior: smooth;
 
   --outerMargin: 20px;
@@ -401,6 +401,10 @@ a.darkLink {
   margin-left: var(--outerMargin);
   margin-right: var(--outerMargin);
   margin-bottom: 0;
+}
+
+.copywrite {
+  font-size: calc(var(--headFootText) * 0.8);
 }
 
 @media (prefers-color-scheme: light) { /* sets color to dark theme high emphasis for text always on dark backgrounds, like in the footer */
