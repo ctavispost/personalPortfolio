@@ -14,7 +14,7 @@ layout: default
   <article class="card project04">
     <a href="project04.html" class="dispBlock paddingSmB">
       <h1 class="padText">findthemasks</h1>
-      <p class="padText">the how, what, and where of donating gear to hospitals</p>
+      <p class="padText">how, what, and where to donate gear to hospitals</p>
       <div class="projContainer padText"> <!-- center images in grid and add padding to sides -->
         <img src="images/ftm-logo-dk-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferDark">
         <img src="images/ftm-logo-lt-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferLight">

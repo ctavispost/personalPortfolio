@@ -44,21 +44,13 @@ random: true
 <article class="medBreak aboutContainer">
   <h1>Resolved:</h1>
 
-  <p>Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity' (and should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs).</p>
+  <p>Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
   <p>–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
 
   <section class="iframeCont">
-    <iframe <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." -->
-      title="Ten Commandments clip"
-      class="respIframe"
-      width="560"
-      height="315"
-      loading="lazy"
-      src="https://www.youtube.com/embed/3bQnxlHZsjY"
-      frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"   allowfullscreen>
-    </iframe>
+    <iframe <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." --> title="Ten_Commandments_clip" class="respIframe" width="560"
+      height="315" loading="lazy" src="https://www.youtube.com/embed/3bQnxlHZsjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </section>
 </article>
 
