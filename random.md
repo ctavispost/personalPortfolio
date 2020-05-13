@@ -18,7 +18,7 @@ random: true
   <img src="images/random/jeanlukedrunkard.jpg" alt="John Luke Drunkard happy and holding a mug of ale" class="drunkard photoLGResp" width="1000px" height="593px">
 
   <section class="trekSubHd">
-    <p class="smallLeading">John Luke Drunkard –</p>
+    <p class="embold smallLeading">John Luke Drunkard –</p>
     <p class="lessLeading">Captain's blog, bardate some-day-ending-in-y:</p>
   </section>
 
@@ -34,4 +34,55 @@ random: true
     <img src="images/random/picard-facepalm.jpg" alt="Captain Picard facepalming" class="medBreak palm photoLGResp" width="600px" height="338px">
     <p>"Computer, end simulation."</p>
   </section>
+</article>
+
+<article class="medBreak">
+  <p>On a lovely day:</p>
+  <p>The trees are dancing as they defrock in the wind. And I will leaf-fight anyone who denies fall is the best of seasons.</p>
+</article>
+
+<article class="medBreak">
+  <h1>Resolved:</h1>
+
+  <p>Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity' (and should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs).</p>
+
+  <p>–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
+
+  <section class="iframeCont">
+    <iframe <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." -->
+      title="Ten Commandments clip"
+      width="560"
+      height="315"
+      loading="lazy"
+      class="respIframe"
+      src="https://www.youtube.com/embed/3bQnxlHZsjY"
+      frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+  </section>
+</article>
+
+<article class="medBreak">
+  <p>Shortly after breakfast one morning, my little child turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
+
+  <p>"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
+
+  <p>"But not today," he replied.</p>
+</article>
+
+<article class="medBreak">
+  <p>We are quick to judge substance dependence but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
+
+  <p>Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
+
+  <ol>
+    <li>it's dangerous</li>
+    <li>not everyone can do it</li>
+    <li>it's sort of impressive</li>
+    <li>and it's kind of stupid</li>
+  </ol>
+</article>
+
+<article class="medBreak">
+  <p>Sometimes, when I see claims of '<span class="embold">character assination</span>', I to myself, "I certainly hope so."</p>
 </article>
