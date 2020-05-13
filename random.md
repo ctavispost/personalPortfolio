@@ -48,10 +48,10 @@ random: true
 
   <p>–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
 
-  <section class="iframeCont">
-    <iframe <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." --> title="Ten_Commandments_clip" class="respIframe" width="560"
-      height="315" loading="lazy" src="https://www.youtube.com/embed/3bQnxlHZsjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </section>
+  <figure class="smBreak" style="--aspect-ratio: 16/9;">
+    <iframe title="Ten_Commandments_clip" class="respIframe" width="560"
+      height="315" loading="lazy" src="https://www.youtube.com/embed/3bQnxlHZsjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." -->
+  </figure>
 </article>
 
 <article class="medBreak aboutContainer">
