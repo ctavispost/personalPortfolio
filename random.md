@@ -5,8 +5,8 @@ random: true
 ---
 
 <article class="centerGrid aboutContainer btCont">
-  <header class="centerGrid">
-    <h1 class="trekTitle txtScale3"><span>BAR</span><span>TREK</span></h1>
+  <header class="centerGrid trekTitle">
+    <h1 class="txtScale3">BARTREK</h1>
   </header>
 
   <img src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero binger photoMedResp" width="600px" height="600px">
@@ -17,8 +17,10 @@ random: true
 
   <img src="images/random/jeanlukedrunkard.jpg" alt="John Luke Drunkard happy and holding a mug of ale" class="drunkard photoLGResp" width="1000px" height="593px">
 
-  <p class="aboutText trekSubHd">John Luke Drunkard –</p>
-  <p class="aboutText trekSubHd">Captain's blog, bardate some-day-ending-in-y:</p>
+  <section class="trekSubHd">
+    <p class="smallLeading">John Luke Drunkard –</p>
+    <p class="lessLeading">Captain's blog, bardate some-day-ending-in-y:</p>
+  </section>
 
   <section class="aboutText trekStory">
     <p>The novel barona virus outbreak continues aboard ship, and we find ourselves unsocially distancing to avoid contamination. Commander Spiker remains useless, even more so now, as he has no one to dose but himself.</p>
