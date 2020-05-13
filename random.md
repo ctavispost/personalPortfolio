@@ -37,12 +37,12 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer">
-  <p>On a lovely day:</p>
+  <h2>On a lovely day:</h2>
   <p>The trees are dancing as they defrock in the wind. And I will leaf-fight anyone who denies fall is the best of seasons.</p>
 </article>
 
 <article class="medBreak aboutContainer">
-  <h1>Resolved:</h1>
+  <h2>Resolved:</h2>
 
   <p>Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
@@ -76,5 +76,6 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer">
-  <p>Sometimes, when I see claims of '<span class="embold">character assination</span>', I to myself, "I certainly hope so."</p>
+  <h2>Sometimes</h2>
+  <p>when I see claims of '<span class="embold">character assassination</span>', I to myself, "I certainly hope so."</p>
 </article>
