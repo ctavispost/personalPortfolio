@@ -11,7 +11,7 @@ html {
   --outerMargin: 20px;
   --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
   --smBreak: calc(var(--mainGap) / 3); /* a small break */
-  --headFootText: 1.2rem; /* text size for head and footer elements */
+  --headFootText: 1rem; /* text size for head and footer elements */
   --lineHeight: 1.5;
   --maxText: 66ch; /* max text line width */
   --textScale: 1.414; /* scale text at powers of 1.414 */
