@@ -32,7 +32,7 @@
 main {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
 }
 
 .contMaxwidth {
@@ -116,10 +116,6 @@ main {
 
 .palm {
   grid-area: btPalm;
-}
-
-.justFlexEnd {
-  justify-content: flex-end;
 }
 
 .iframeCont {
