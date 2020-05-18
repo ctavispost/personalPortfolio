@@ -11,18 +11,18 @@ random: true
 
   <img src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero binger photoMedResp" width="600px" height="600px">
 
-  <section class="trekIntro">
+  <section class="aboutText trekIntro">
     <p class="aboutText marginTopZero">Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.</p>
   </section>
 
+  <h3 class="trekSubHd">John Luke Drunkard –</h3>
+
   <img src="images/random/jeanlukedrunkard.jpg" alt="John Luke Drunkard happy and holding a mug of ale" class="drunkard photoLGResp" width="1000px" height="593px">
 
-  <section class="trekSubHd">
-    <p class="embold smallLeading">John Luke Drunkard –</p>
-    <p class="lessLeading">Captain's blog, bardate some-day-ending-in-y:</p>
-  </section>
-
   <section class="aboutText trekStory">
+    <p class="embold">Captain's blog,</p>
+    <p class="embold">bardate some-day-ending-in-y:</p>
+
     <p>The novel barona virus outbreak continues aboard ship, and we find ourselves unsocially distancing to avoid contamination. Commander Spiker remains useless, even more so now, as he has no one to dose but himself.</p>
 
     <p>All bars, taverns, and pubs have been closed. Much to the crew's disappointment, even the orgy dome of Bend Forward is sealed shut.</p>
@@ -38,15 +38,15 @@ random: true
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2>On a lovely day:</h2>
-  <p>The trees are dancing as they defrock in the wind. And I will leaf-fight anyone who denies fall is the best of seasons.</p>
+  <p class="aboutText">The trees are dancing as they defrock in the wind. And I will leaf-fight anyone who denies fall is the best of seasons.</p>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2>Resolved:</h2>
 
-  <p>Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
+  <p class="aboutText">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
-  <p>–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
+  <p class="aboutText medEmphTxt">–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
 
   <figure class="smBreak" style="--aspect-ratio: 16/9;">
     <iframe title="Ten_Commandments_clip" class="respIframe" width="560"
@@ -55,17 +55,17 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <p>Shortly after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
+  <p class="aboutText">Shortly after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
-  <p>"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
+  <p class="aboutText">"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
 
-  <p>"But not today," he replied.</p>
+  <p class="aboutText">"But not today," he replied.</p>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <p>We are quick to judge substance dependence but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
+  <p class="aboutText">We are quick to judge substance dependence but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
 
-  <p>Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
+  <p class="aboutText">Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
 
   <ul>
     <li>it's dangerous</li>
@@ -77,5 +77,5 @@ random: true
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2>Sometimes</h2>
-  <p>when I see claims of '<span class="embold">character assassination</span>', I to myself, "I certainly hope so."</p>
+  <p class="aboutText">when I see claims of '<span class="embold">character assassination</span>', I to myself, "I certainly hope so."</p>
 </article>
