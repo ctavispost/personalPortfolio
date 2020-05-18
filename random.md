@@ -37,14 +37,14 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2>On a lovely day,</h2>
+  <h2 class="leadingOne">On a lovely day,</h2>
   <p class="aboutText">The trees are dancing as they defrock in the wind,</p>
   <p class="aboutText">And I will leaf-fight anyone</p>
   <p class="aboutText">Who denies fall is the best of seasons.</p>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2>Resolved:</h2>
+  <h2 class="leadingOne">Resolved:</h2>
 
   <p class="aboutText">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
@@ -57,8 +57,8 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="dispInline leadingOne">Shortly</h2>
-  <p class="aboutText dispInline">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
+  <h2 class="leadingOne">Shortly</h2>
+  <p class="aboutText">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
   <p class="aboutText">"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
 
@@ -66,8 +66,8 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="dispInline leadingOne">We are quick</h2>
-  <p class="aboutText dispInline">to judge <span class="embold">substance dependence</span> but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
+  <h2 class="leadingOne">We are quick</h2>
+  <p class="aboutText">to judge <span class="embold">substance dependence</span> but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
 
   <p class="aboutText">Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
 
@@ -80,7 +80,8 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2>Sometimes,</h2>
-  <p class="aboutText marginTopZero">when I see claims of '<span class="embold">character assassination</span>',</p>
-  <p class="aboutText marginTopZero">I think to myself, "I certainly hope so."</p>
+  <h2 class="leadingOne">Sometimes,</h2>
+  <p>when I see claims of <span class="embold">'character assassination'</span>,</p>
+  <p>I think to myself,</p>
+  <p>"I certainly hope so."</p>
 </article>
