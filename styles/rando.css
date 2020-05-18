@@ -118,6 +118,10 @@ main {
   grid-area: btPalm;
 }
 
+.flexAlignItemsEnd {
+  align-items: flex-end;
+}
+
 .iframeCont {
   position: relative;
   overflow: hidden;
