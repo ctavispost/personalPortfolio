@@ -75,6 +75,16 @@ body {
   padding: 0;
 }
 
+.speechOnly {
+  display: none;
+}
+
+@media speech {
+  .speechOnly {
+    display: block;
+  }
+}
+
 .navbar {
   display: grid;
   grid-auto-flow: row;
@@ -160,6 +170,16 @@ a { /* set links to primary color for light or dark mode  */
 
 .navUl {
   align-content: center;
+}
+
+@media print { /* hides header and footer navigation lists in print */
+  .navUl {
+    display: none;
+  }
+
+  .footUl {
+    display: none;
+  }
 }
 
 .navText {
