@@ -11,7 +11,7 @@ random: true
 
   <img src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero binger photoMedResp" width="600px" height="600px">
 
-  <section class="aboutText trekIntro">
+  <section class="aboutText trekIntro respTxtThirty">
     <p class="aboutText marginTopZero">Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.</p>
   </section>
 
@@ -31,7 +31,7 @@ random: true
   </section>
 
   <section class="conditionalFlexCol palm flexAlignItemsEnd"> <!-- becomes a flex column w. end justification at screen width of 640px or higher -->
-    <img src="images/random/picard-facepalm.jpg" alt="Captain Picard facepalming" class="medBreak palm photoLGResp" width="600px" height="338px">
+    <img src="images/random/picard-facepalm.jpg" alt="Captain Picard facepalming" class="smallestBreak palm photoLGResp" width="600px" height="338px">
     <p>"Computer, end simulation."</p>
   </section>
 </article>

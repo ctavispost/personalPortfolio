@@ -5,7 +5,7 @@
   font-style: normal;
 }
 
-/* makes iframes responsive by contraining them with a parent element */
+/* makes iframes responsive by contraining them with a parent element per CSS Tricks */
 [style*="--aspect-ratio"] > :first-child {
   width: 100%;
 }
@@ -67,7 +67,7 @@ main {
       "btBinge btIntro btIntro"
       ". . ."
       "btSub btSub btSub"
-      ". btDrunk ."
+      "btDrunk btDrunk ."
       "btStory btStory ."
       ". btPalm btPalm";
   }
@@ -94,6 +94,11 @@ main {
 
 .trekIntro {
   grid-area: btIntro;
+}
+
+.respTxtThirty {
+  font-size: 1.1rem; /* fallback font size */
+  font-size: min(max(1.1rem, 4vw), 32px); /* responsive font size */
 }
 
 .drunkard {
