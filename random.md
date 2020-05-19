@@ -41,6 +41,7 @@ random: true
   <p class="aboutText">The trees are dancing as they defrock in the wind,</p>
   <p class="aboutText">And I will leaf-fight anyone</p>
   <p class="aboutText">Who denies fall is the best of seasons.</p>
+  <img src="images/random/leaffight.jpeg" alt="a small person brandishing an enourmous leaf" class="smallestBreak photoMedResp" width="683" height="683">
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
@@ -77,6 +78,8 @@ random: true
     <li>it's sort of impressive</li>
     <li>and it's kind of stupid</li>
   </ul>
+
+  <img src="images/random/mountainClimb.jpeg" alt="a line of people climbing a mountain" class="smallestBreak photoMedResp" width="648" height="648">
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
