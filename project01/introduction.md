@@ -1,7 +1,7 @@
 <section class="centerGrid respImgGrid grid3Col">
   <img src="images/jotAnd/jotMobGrid.png" alt="jot & mobile dashboard in grid view" class="centerImg">
   <img src="images/jotAnd/jotMobList.png" alt="jot & mobile dashboard in list view" class="centerImg">
-  <img src="images/jotAnd/jotMobNote.webp" alt="jot & mobile dashboard in a note" class="centerImg">
+  <img src="images/jotAnd/jotMobNote.jpg" alt="jot & mobile dashboard in a note" class="centerImg">
 </section>
 
 <section class="lgBreak"> <!-- problem -->

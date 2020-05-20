@@ -99,7 +99,7 @@
 
   <div class="conditionalFlexRow">
     <img src="images/jotAnd/flows.jpg" alt="penciled user-flows in a pile over wood flooring" class="centerImg smBreak smallPic conditionalRightMarg">
-    <img src="images/jotAnd/flowChartsDk.webp" alt="user-flow charts" class="centerImg smBreak">
+    <img src="images/jotAnd/flowChartsDk.jpg" alt="user-flow charts" class="centerImg smBreak">
   </div>
 
   <p class="smBreak">Following the user stories, I generated 33 user flows, an important reference for crafting content strategy and connecting wireframes.</p>

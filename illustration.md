@@ -37,7 +37,7 @@ layout: default
         <img src="images/illustrations/psa03.jpg" alt="Pointless Man scoots towards a jump and launches himself into the air" class="illustImg">
         <img src="images/illustrations/psa04.jpeg" alt="Pointless Man flies through the air, striking unhelmeted onlookers on their heads with a scooter" class="illustImg">
       </div>
-      <p class="caption">A pointless service announcement</p>
+      <p class="caption">'A pointless service announcement'</p>
       <p class="caption">markers on paper, 2014</p>
     </article>
 
@@ -134,6 +134,6 @@ layout: default
     <article class="illustCard">
       <img src="images/illustrations/cookieFerret.jpg" loading="lazy" alt="leaping ferret gets a cookie" class="illustImg">
       <p class="caption">'Ferret can has cookie'</p>
-      <p class="caption">digital illustration, 2018</p>
+      <p class="caption">digital illustration from stock photo, 2018</p>
     </article>
 </section>
