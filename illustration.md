@@ -7,13 +7,25 @@ layout: default
 
     <!-- illustrations -->
     <article class="illustCard">
+      <img src="images/illustrations/elephant.jpg" loading="eager" alt="Seattle's pink elephant car wash sign and surroundings" class="illustImg">
+      <p class="caption">'Denny Way and its elephants'</p>
+      <p class="caption">digital illustration, 2020</p>
+    </article>
+
+    <article class="illustCard">
+      <img src="images/illustrations/treeclimb.jpg" loading="eager" alt="people climbing fallen trees on the beach" class="illustImg">
+      <p class="caption">'Climbing fallen trees on Rialto Beach'</p>
+      <p class="caption">digital illustration, 2019-2020</p>
+    </article>
+
+    <article class="illustCard">
       <img src="images/illustrations/lakeWashington.jpg" loading="eager" alt="a woman in a sunhat at a park" class="illustImg">
       <p class="caption">'Overlooking Lake Washington on a fine day'</p>
       <p class="caption">digital illustration, 2018</p>
     </article>
 
     <article class="illustCard">
-      <img src="images/illustrations/hoodCanalSunset.jpg" loading="eager" alt="Hood Canal and Olympic mountains after sunset" class="illustImg">
+      <img src="images/illustrations/hoodCanalSunset.jpg" alt="Hood Canal and Olympic mountains after sunset" class="illustImg">
       <p class="caption">'Hood Canal at dusk'</p>
       <p class="caption">digital illustration, 2018</p>
     </article>
@@ -43,14 +55,20 @@ layout: default
 
     <article class="illustCard">
       <img src="images/illustrations/busRiders.jpg" loading="lazy" alt="view from behind a woman and man on the bus" class="illustImg">
-      <p class="caption">'Bussing'</p>
+      <p class="caption">'Bussing at the end of the day'</p>
       <p class="caption">pigment and marker on paper, 2014</p>
     </article>
 
     <article class="illustCard">
       <img src="images/illustrations/paranoia.jpg" loading="lazy" alt="comic page showing the start of a fight under a streetlight" class="illustImg">
-      <p class="caption">'Urban Paranoia'</p>
+      <p class="caption">'Urban paranoia'</p>
       <p class="caption">pigment and marker on paper, 2015</p>
+    </article>
+
+    <article class="illustCard">
+      <img src="images/illustrations/shadows.jpg" loading="lazy" alt="people: two silhouettes, three shadows, and the shadows' reflections in a pond" class="illustImg">
+      <p class="caption">'Reflections of shadows'</p>
+      <p class="caption">digital illustration, 2020</p>
     </article>
 
     <article class="illustCard illustCardLong">
