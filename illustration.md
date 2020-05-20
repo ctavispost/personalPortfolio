@@ -43,7 +43,7 @@ layout: default
 
     <article class="illustCard">
       <img src="images/illustrations/selfPortraitBooks.jpg" alt="self portrait with bookshelves" class="illustImg">
-      <p class="caption">'The artist with his books and not a hint of pretention'</p>
+      <p class="caption">'Artist with books – not a hint of pretention'</p>
       <p class="caption">digital illustration, 2019</p>
     </article>
 
@@ -55,7 +55,7 @@ layout: default
 
     <article class="illustCard">
       <img src="images/illustrations/busRiders.jpg" loading="lazy" alt="view from behind a woman and man on the bus" class="illustImg">
-      <p class="caption">'Bussing at the end of the day'</p>
+      <p class="caption">'Bussing'</p>
       <p class="caption">pigment and marker on paper, 2014</p>
     </article>
 
@@ -67,7 +67,7 @@ layout: default
 
     <article class="illustCard">
       <img src="images/illustrations/shadows.jpg" loading="lazy" alt="people: two silhouettes, three shadows, and the shadows' reflections in a pond" class="illustImg">
-      <p class="caption">'Reflections of shadows'</p>
+      <p class="caption">'Reflections'</p>
       <p class="caption">digital illustration, 2020</p>
     </article>
 
@@ -79,32 +79,26 @@ layout: default
 
     <article class="illustCard">
       <img src="images/illustrations/warnSignExplode.jpg" loading="lazy" alt="a simplified person staring directly into an exploding vent" class="illustImg">
-      <p class="caption">'Warning Signs: Life is Dangerous'</p>
+      <p class="caption">'Warning signs: life is dangerous'</p>
       <p class="caption">acrylic and paint-pen on board, 2016</p>
     </article>
 
     <article class="illustCard">
       <img src="images/illustrations/warnSignWave.jpg" loading="lazy" alt="person on a jetty about to be swallowed by a tall wave" class="illustImg">
-      <p class="caption">'Warning Signs: Life is Dangerous'</p>
+      <p class="caption">'Warning signs: life is dangerous'</p>
       <p class="caption">acrylic and paint-pen on board, 2016</p>
     </article>
 
     <article class="illustCard">
       <img src="images/illustrations/sketching.jpg" loading="lazy" alt="a lady sketching the landscape" class="illustImg">
       <p class="caption">'Sketching'</p>
-      <p class="caption">digital illustration from stock photography, 2019</p>
+      <p class="caption">digital illustration from stock photo, 2019</p>
     </article>
 
     <article class="illustCard">
       <img src="images/illustrations/photographing.jpg" loading="lazy" alt="a woman taking a picture while seated" class="illustImg">
       <p class="caption">'Photographing'</p>
-      <p class="caption">digital illustration from stock photography, 2019</p>
-    </article>
-
-    <article class="illustCard">
-      <img src="images/illustrations/david.jpg" loading="lazy" alt="close-up bust of a man, David" class="illustImg">
-      <p class="caption">'David'</p>
-      <p class="caption">digital illustration, 2019</p>
+      <p class="caption">digital illustration from stock photo, 2019</p>
     </article>
 
     <article class="illustCard">
