@@ -66,18 +66,20 @@ random: true
   <p class="aboutText">"But not today," he replied.</p>
 </article>
 
-<article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="leadingOne">We are quick</h2>
-  <p class="aboutText">to judge <span class="embold">substance dependence</span> but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
+<article class="centerGrid medBreak aboutContainer contMaxwidth gridGapOne condGridRowTwoToOne">
+  <section>
+    <h2 class="leadingOne">We are quick</h2>
+    <p class="aboutText">to judge <span class="embold">substance dependence</span> but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
 
-  <p class="aboutText">Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
+    <p class="aboutText">Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
 
-  <ul>
-    <li>it's dangerous</li>
-    <li>not everyone can do it</li>
-    <li>it's sort of impressive</li>
-    <li>and it's kind of stupid</li>
-  </ul>
+    <ul>
+      <li>it's dangerous</li>
+      <li>not everyone can do it</li>
+      <li>it's sort of impressive</li>
+      <li>and it's kind of stupid</li>
+    </ul>
+  </section>
 
   <img src="images/random/mountainClimb.jpeg" alt="a line of people climbing a mountain" class="smallestBreak photoMedResp" width="648" height="648">
 </article>
