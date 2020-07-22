@@ -9,7 +9,10 @@ random: true
     <h1 class="txtScale3">BARTREK</h1>
   </header>
 
-  <img src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero binger photoMedResp" width="600px" height="600px">
+  <img srcset="images/random/bingerprize.jpg 1x,
+      images/random/bingerprizeMd.jpg 2x,
+      images/random/bingerprizeLg.jpg 4x"
+    src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero binger photoMedResp" width="320" height="320">
 
   <section class="aboutText trekIntro respTxtThirty">
     <p class="aboutText marginTopZero">Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.</p>
@@ -17,7 +20,14 @@ random: true
 
   <h3 class="trekSubHd">John Luke Drunkard –</h3>
 
-  <img src="images/random/jeanlukedrunkard.jpg" alt="John Luke Drunkard happy and holding a mug of ale" class="drunkard photoLGResp" width="1000px" height="593px">
+  <img srcset="images/random/jeanlukedrunkard.jpg 1x,
+        images/random/jeanlukedrunkardMd.jpg 2x,
+        images/random/jeanlukedrunkardLg.jpg 4x"
+      src="images/random/jeanlukedrunkard.jpg"
+      alt="John Luke Drunkard happy and holding a mug of ale"
+      class="drunkard photoLGResp"
+      width="320"
+      height="190">
 
   <section class="aboutText trekStory">
     <p class="embold">Captain's blog,</p>
@@ -31,29 +41,52 @@ random: true
   </section>
 
   <section class="conditionalFlexCol palm flexAlignItemsEnd"> <!-- becomes a flex column w. end justification at screen width of 640px or higher -->
-    <img src="images/random/picard-facepalm.jpg" alt="Captain Picard facepalming" class="smallestBreak palm photoLGResp" width="600px" height="338px">
+    <img srcset="images/random/picard-facepalm.jpg 1x,
+        images/random/picard-facepalmMd.jpg 2x"
+      src="images/random/picard-facepalm.jpg"
+      alt="Captain Picard facepalming"
+      class="smallestBreak palm photoLGResp"
+      width="320"
+      height="180">
     <p>"Computer, end simulation."</p>
   </section>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2 class="leadingOne">On a lovely day,</h2>
-  <p class="aboutText">The trees are dancing as they defrock in the wind,</p>
+
+  <p class="aboutText">The trees are dancing</p>
+  <p class="aboutText">As they defrock in the wind,</p>
   <p class="aboutText">And I will leaf-fight anyone</p>
   <p class="aboutText">Who denies fall is the best of seasons.</p>
-  <img src="images/random/leaffight.jpeg" alt="a small person brandishing an enourmous leaf" class="smallestBreak photoMedResp" width="683" height="683">
+
+  <img srcset="images/random/leaffight.jpg 1x,
+      images/random/leaffightMd.jpg 2x,
+      images/random/leaffightLg.jpg 4x"
+    src="images/random/leaffight.jpeg"
+    alt="a small person brandishing an enourmous leaf"
+    class="smallestBreak photoMedResp"
+    width="320"
+    height="320">
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2 class="leadingOne">Resolved:</h2>
+
+  <img src="images/random/blandished.svg"
+      alt="multi-hued, quartered beige circles over beige rectangles"
+      class="smallestBreak photoMedResp"
+      width="280"
+      height="280">
 
   <p class="aboutText">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
   <p class="aboutText medEmphTxt">–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
 
   <figure class="smBreak" style="--aspect-ratio: 16/9;">
+    <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." -->
     <iframe title="Ten_Commandments_clip" class="respIframe" width="560"
-      height="315" loading="lazy" src="https://www.youtube.com/embed/3bQnxlHZsjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." -->
+      height="315" loading="lazy" src="https://www.youtube.com/embed/3bQnxlHZsjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </figure>
 </article>
 
@@ -81,7 +114,28 @@ random: true
     </ul>
   </section>
 
-  <img src="images/random/mountainClimb.jpeg" alt="a line of people climbing a mountain" class="smallestBreak photoMedResp" width="648" height="648">
+  <img srcset="images/random/mountainClimb.jpg 1x,
+      images/random/mountainClimbMd.jpg 2x,
+      images/random/mountainClimbLg.jpg 4x"
+      src="images/random/mountainClimb.jpg" alt="a line of people climbing a mountain" class="smallestBreak photoMedResp" width="320" height="320">
+
+  <img srcset="images/random/squirrelsuit.jpg 1x,
+      images/random/squirrelsuitMd.jpg 2x,
+      images/random/squirrelsuitLg.jpg 4x"
+    src="images/random/squirrelsuit.jpg"
+    alt="person gliding in a squirrelsuit"
+    class="smallestBreak photoMedResp"
+    width="320"
+    height="320">
+
+  <img srcset="images/random/cuddlydrunk.jpg 1x,
+      images/random/cuddlydrunkMd.jpg 2x,
+      images/random/cuddlydrunkLg.jpg 4x"
+    src="images/random/cuddlydrunk.jpg"
+    alt="Captain Picard nuzzling a shot and sipping whiskey"
+    class="smallestBreak photoMedResp"
+    width="320"
+    height="320">
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
