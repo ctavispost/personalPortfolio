@@ -63,7 +63,7 @@ random: true
   <img srcset="images/random/leaffight.jpg 1x,
       images/random/leaffightMd.jpg 2x,
       images/random/leaffightLg.jpg 4x"
-    src="images/random/leaffight.jpeg"
+    src="images/random/leaffight.jpg"
     alt="a small person brandishing an enourmous leaf"
     class="smallestBreak photoMedResp"
     width="320"
@@ -117,7 +117,11 @@ random: true
   <img srcset="images/random/mountainClimb.jpg 1x,
       images/random/mountainClimbMd.jpg 2x,
       images/random/mountainClimbLg.jpg 4x"
-      src="images/random/mountainClimb.jpg" alt="a line of people climbing a mountain" class="smallestBreak photoMedResp" width="320" height="320">
+    src="images/random/mountainClimb.jpg"
+    alt="a line of people climbing a mountain"
+    class="smallestBreak photoMedResp"
+    width="320"
+    height="320">
 
   <img srcset="images/random/squirrelsuit.jpg 1x,
       images/random/squirrelsuitMd.jpg 2x,
