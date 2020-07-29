@@ -9,10 +9,14 @@ random: true
     <h1 class="txtScale3">BARTREK</h1>
   </header>
 
-  <img srcset="images/random/bingerprize.jpg 1x,
-      images/random/bingerprizeMd.jpg 2x,
-      images/random/bingerprizeLg.jpg 4x"
-    src="images/random/bingerprize.jpg" alt="a starship that looks like an overflowing martini glass on a coaster" class="marginTopZero binger photoMedResp" width="320" height="320">
+  <img srcset="images/random/bingerprize.jpg 320w,
+      images/random/bingerprizeMd.jpg 700w,
+      images/random/bingerprizeLg.jpg 1366w"
+    src="images/random/bingerprize.jpg"
+    alt="a starship that looks like an overflowing martini glass on a coaster"
+    class="marginTopZero binger photoMedResp"
+    width="320"
+    height="320">
 
   <section class="aboutText trekIntro respTxtThirty">
     <p class="aboutText marginTopZero">Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.</p>
@@ -20,9 +24,9 @@ random: true
 
   <h3 class="trekSubHd">John Luke Drunkard –</h3>
 
-  <img srcset="images/random/jeanlukedrunkard.jpg 1x,
-        images/random/jeanlukedrunkardMd.jpg 2x,
-        images/random/jeanlukedrunkardLg.jpg 4x"
+  <img srcset="images/random/jeanlukedrunkard.jpg 320w,
+        images/random/jeanlukedrunkardMd.jpg 500w,
+        images/random/jeanlukedrunkardLg.jpg 1000w"
       src="images/random/jeanlukedrunkard.jpg"
       alt="John Luke Drunkard happy and holding a mug of ale"
       class="drunkard photoLGResp"
@@ -41,8 +45,8 @@ random: true
   </section>
 
   <section class="conditionalFlexCol palm flexAlignItemsEnd"> <!-- becomes a flex column w. end justification at screen width of 640px or higher -->
-    <img srcset="images/random/picard-facepalm.jpg 1x,
-        images/random/picard-facepalmMd.jpg 2x"
+    <img srcset="images/random/picard-facepalm.jpg 320w,
+        images/random/picard-facepalmMd.jpg 600w"
       src="images/random/picard-facepalm.jpg"
       alt="Captain Picard facepalming"
       class="smallestBreak palm photoLGResp"
@@ -55,16 +59,16 @@ random: true
 <article class="medBreak aboutContainer contMaxwidth">
   <h2 class="leadingOne">On a lovely day,</h2>
 
-  <p class="aboutText">The trees are dancing</p>
-  <p class="aboutText">As they defrock in the wind,</p>
-  <p class="aboutText">And I will leaf-fight anyone</p>
-  <p class="aboutText">Who denies fall is the best of seasons.</p>
+  <p class="aboutText">The trees are dancing<br>
+    As they defrock in the wind,<br>
+    And I will leaf-fight anyone<br>
+    Who denies fall is the best of seasons.</p>
 
-  <img srcset="images/random/leaffight.jpg 1x,
-      images/random/leaffightMd.jpg 2x,
-      images/random/leaffightLg.jpg 4x"
+  <img srcset="images/random/leaffight.jpg 320w,
+      images/random/leaffightMd.jpg 700w,
+      images/random/leaffightLg.jpg 1366w"
     src="images/random/leaffight.jpg"
-    alt="a small person brandishing an enourmous leaf"
+    alt="a small person holding an enourmous leaf"
     class="smallestBreak photoMedResp"
     width="320"
     height="320">
@@ -74,10 +78,10 @@ random: true
   <h2 class="leadingOne">Resolved:</h2>
 
   <img src="images/random/blandished.svg"
-      alt="multi-hued, quartered beige circles over beige rectangles"
+      alt="quartered beige circles on beige rectangles"
       class="smallestBreak photoMedResp"
-      width="280"
-      height="280">
+      width="320"
+      height="320">
 
   <p class="aboutText">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
@@ -114,37 +118,39 @@ random: true
     </ul>
   </section>
 
-  <img srcset="images/random/mountainClimb.jpg 1x,
-      images/random/mountainClimbMd.jpg 2x,
-      images/random/mountainClimbLg.jpg 4x"
+  <section>
+  <img srcset="images/random/mountainClimb.jpg 320w,
+      images/random/mountainClimbMd.jpg 700w,
+      images/random/mountainClimbLg.jpg 1020w"
     src="images/random/mountainClimb.jpg"
     alt="a line of people climbing a mountain"
     class="smallestBreak photoMedResp"
     width="320"
     height="320">
 
-  <img srcset="images/random/squirrelsuit.jpg 1x,
-      images/random/squirrelsuitMd.jpg 2x,
-      images/random/squirrelsuitLg.jpg 4x"
+  <img srcset="images/random/squirrelsuit.jpg 320w,
+      images/random/squirrelsuitMd.jpg 700w,
+      images/random/squirrelsuitLg.jpg 1366w"
     src="images/random/squirrelsuit.jpg"
     alt="person gliding in a squirrelsuit"
     class="smallestBreak photoMedResp"
     width="320"
     height="320">
 
-  <img srcset="images/random/cuddlydrunk.jpg 1x,
-      images/random/cuddlydrunkMd.jpg 2x,
-      images/random/cuddlydrunkLg.jpg 4x"
+  <img srcset="images/random/cuddlydrunk.jpg 320w,
+      images/random/cuddlydrunkMd.jpg 700w,
+      images/random/cuddlydrunkLg.jpg 1366w"
     src="images/random/cuddlydrunk.jpg"
     alt="Captain Picard nuzzling a shot and sipping whiskey"
     class="smallestBreak photoMedResp"
     width="320"
     height="320">
+  </section>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2 class="leadingOne">Sometimes,</h2>
-  <p>when I see claims of <span class="embold">'character assassination'</span>,</p>
-  <p>I think to myself,</p>
-  <p>"I certainly hope so."</p>
+  <p>when I see claims of <span class="embold">'character assassination'</span>,<br>
+  I think to myself,<br>
+  "I certainly hope so."</p>
 </article>
