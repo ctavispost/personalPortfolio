@@ -84,6 +84,7 @@ main {
 
 .photoMedResp {
   max-width: 100%;
+  max-height: 90vh;
   height: auto;
   object-fit: contain;
 }

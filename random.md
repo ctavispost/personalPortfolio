@@ -14,9 +14,7 @@ random: true
       images/random/bingerprizeLg.jpg 1366w"
     src="images/random/bingerprize.jpg"
     alt="a starship that looks like an overflowing martini glass on a coaster"
-    class="marginTopZero binger photoMedResp"
-    width="320"
-    height="320">
+    class="marginTopZero binger photoMedResp">
 
   <section class="aboutText trekIntro respTxtThirty">
     <p class="aboutText marginTopZero">Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.</p>
@@ -29,9 +27,7 @@ random: true
         images/random/jeanlukedrunkardLg.jpg 1000w"
       src="images/random/jeanlukedrunkard.jpg"
       alt="John Luke Drunkard happy and holding a mug of ale"
-      class="drunkard photoLGResp"
-      width="320"
-      height="190">
+      class="drunkard photoLGResp">
 
   <section class="aboutText trekStory">
     <p class="embold">Captain's blog,</p>
@@ -69,9 +65,7 @@ random: true
       images/random/leaffightLg.jpg 1366w"
     src="images/random/leaffight.jpg"
     alt="a small person holding an enourmous leaf"
-    class="smallestBreak photoMedResp"
-    width="320"
-    height="320">
+    class="smallestBreak photoMedResp">
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
@@ -79,9 +73,7 @@ random: true
 
   <img src="images/random/blandished.svg"
       alt="quartered beige circles on beige rectangles"
-      class="smallestBreak photoMedResp"
-      width="320"
-      height="320">
+      class="smallestBreak photoMedResp">
 
   <p class="aboutText">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
@@ -124,27 +116,21 @@ random: true
       images/random/mountainClimbLg.jpg 1020w"
     src="images/random/mountainClimb.jpg"
     alt="a line of people climbing a mountain"
-    class="smallestBreak photoMedResp"
-    width="320"
-    height="320">
+    class="smallestBreak photoMedResp">
 
   <img srcset="images/random/squirrelsuit.jpg 320w,
       images/random/squirrelsuitMd.jpg 700w,
       images/random/squirrelsuitLg.jpg 1366w"
     src="images/random/squirrelsuit.jpg"
     alt="person gliding in a squirrelsuit"
-    class="smallestBreak photoMedResp"
-    width="320"
-    height="320">
+    class="smallestBreak photoMedResp">
 
   <img srcset="images/random/cuddlydrunk.jpg 320w,
       images/random/cuddlydrunkMd.jpg 700w,
       images/random/cuddlydrunkLg.jpg 1366w"
     src="images/random/cuddlydrunk.jpg"
     alt="Captain Picard nuzzling a shot and sipping whiskey"
-    class="smallestBreak photoMedResp"
-    width="320"
-    height="320">
+    class="smallestBreak photoMedResp">
   </section>
 </article>
 
