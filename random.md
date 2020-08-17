@@ -44,7 +44,7 @@ random: true
       class="drunkard photoLGResp">
 
   <section class="aboutText trekStory">
-    <p class="embold">Captain's blog,</br>
+    <p class="embold">Captain's blog,<br>
       bardate some-day-ending-in-y:</p>
 
     <p>The novel barona virus outbreak continues aboard ship, and we find ourselves unsocially distancing to avoid contamination. Commander Spiker remains useless, even more so now, as he has no one to dose but himself.</p>
