@@ -7,7 +7,7 @@ random: true
 <article class="medBreak aboutContainer contMaxwidth">
   <img srcset="images/random/nijaLady.jpg 500w,
     images/random/ninjaLadyMd.jpg 700w,
-    images/random/nijaLadyLg.jpg 1024w"
+    images/random/ninjaLadyLg.jpg 1024w"
   src="images/random/ninjaLady.jpg"
   alt="comic: a ninja engages her target"
   class="photoMedResp">
