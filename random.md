@@ -12,14 +12,14 @@ random: true
   alt="comic: a ninja engages her target"
   class="photoMedResp">
 
-  <h2 class="leadingOne">Sometimes,</h2>
+  <h2 class="leadingOne margBottSm">Sometimes,</h2>
   <p>when I see claims of <span class="embold">'character assassination'</span>,<br>
   I think to myself,<br>
   "I certainly hope so."</p>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="leadingOne">On a lovely day,</h2>
+  <h2 class="leadingOne margBottSm">On a lovely day,</h2>
 
   <p class="aboutText">The trees are dancing<br>
     As they defrock in the wind,<br>
@@ -50,7 +50,7 @@ random: true
     <p class="aboutText marginTopZero">Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.</p>
   </section>
 
-  <h3 class="trekSubHd">John Luke Drunkard –</h3>
+  <h3 class="trekSubHd margBottSm">John Luke Drunkard –</h3>
 
   <img srcset="images/random/jeanlukedrunkard.jpg 320w,
         images/random/jeanlukedrunkardMd.jpg 500w,
@@ -83,7 +83,7 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="leadingOne">Shortly</h2>
+  <h2 class="leadingOne margBottSm">Shortly</h2>
   <p class="aboutText">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
   <p class="aboutText">"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
@@ -142,7 +142,7 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="leadingOne">Resolved:</h2>
+  <h2 class="leadingOne margBottSm">Resolved:</h2>
   <!--
     <img src="images/random/blandished.svg"
       alt="quartered beige circles on beige rectangles"
