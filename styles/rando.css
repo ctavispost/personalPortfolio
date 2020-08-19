@@ -39,6 +39,10 @@ main {
   max-width: 80ch;
 }
 
+.margBottSm {
+  margin-bottom: 0.75rem;
+}
+
 .btCont {
   display: grid;
   grid-row-gap: 1rem;

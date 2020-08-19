@@ -18,6 +18,22 @@ random: true
   "I certainly hope so."</p>
 </article>
 
+<article class="medBreak aboutContainer contMaxwidth">
+  <h2 class="leadingOne">On a lovely day,</h2>
+
+  <p class="aboutText">The trees are dancing<br>
+    As they defrock in the wind,<br>
+    And I will leaf-fight anyone<br>
+    Who denies fall is the best of seasons.</p>
+
+  <img srcset="images/random/leaffight.jpg 320w,
+      images/random/leaffightMd.jpg 700w,
+      images/random/leaffightLg.jpg 1366w"
+    src="images/random/leaffight.jpg"
+    alt="a small person holding an enourmous leaf"
+    class="smallestBreak photoMedResp">
+</article>
+
 <article class="centerGrid aboutContainer contMaxwidth btCont">
   <header class="centerGrid trekTitle">
     <h1 class="txtScale3">BARTREK</h1>
@@ -67,22 +83,6 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="leadingOne">On a lovely day,</h2>
-
-  <p class="aboutText">The trees are dancing<br>
-    As they defrock in the wind,<br>
-    And I will leaf-fight anyone<br>
-    Who denies fall is the best of seasons.</p>
-
-  <img srcset="images/random/leaffight.jpg 320w,
-      images/random/leaffightMd.jpg 700w,
-      images/random/leaffightLg.jpg 1366w"
-    src="images/random/leaffight.jpg"
-    alt="a small person holding an enourmous leaf"
-    class="smallestBreak photoMedResp">
-</article>
-
-<article class="medBreak aboutContainer contMaxwidth">
   <h2 class="leadingOne">Shortly</h2>
   <p class="aboutText">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
@@ -95,7 +95,8 @@ random: true
       images/random/kidCroissantLg.jpg 1024w"
     src="images/random/kidCroissant.jpg"
     alt="child in beret eating croissant"
-    class="smallestBreak photoMedResp">
+    class="smallestBreak photoMedResp"
+    loading="lazy">
 </article>
 
 <article class="centerGrid medBreak aboutContainer contMaxwidth gridGapOne condGridRowTwoToOne">
@@ -119,30 +120,34 @@ random: true
       images/random/mountainClimbLg.jpg 1020w"
     src="images/random/mountainClimb.jpg"
     alt="a line of people climbing a mountain"
-    class="smallestBreak photoMedResp">
+    class="smallestBreak photoMedResp"
+    loading="lazy">
 
   <img srcset="images/random/squirrelsuit.jpg 320w,
       images/random/squirrelsuitMd.jpg 700w,
       images/random/squirrelsuitLg.jpg 1366w"
     src="images/random/squirrelsuit.jpg"
     alt="person gliding in a squirrelsuit"
-    class="smallestBreak photoMedResp">
+    class="smallestBreak photoMedResp"
+    loading="lazy">
 
   <img srcset="images/random/cuddlydrunk.jpg 320w,
       images/random/cuddlydrunkMd.jpg 700w,
       images/random/cuddlydrunkLg.jpg 1366w"
     src="images/random/cuddlydrunk.jpg"
     alt="Captain Picard nuzzling a shot and sipping whiskey"
-    class="smallestBreak photoMedResp">
+    class="smallestBreak photoMedResp"
+    loading="lazy">
   </section>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2 class="leadingOne">Resolved:</h2>
-
-  <img src="images/random/blandished.svg"
+  <!--
+    <img src="images/random/blandished.svg"
       alt="quartered beige circles on beige rectangles"
       class="smallestBreak photoMedResp">
+  -->
 
   <p class="aboutText">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
@@ -155,12 +160,13 @@ random: true
   </figure>
 </article>
 
-<article class="medBreak aboutContainer contMaxwidth">
-  <h2>Contemporary variations on the Gadsden flag</h2>
+<article class="medBreak contMaxwidth">
+  <h2 class="aboutContainer">Contemporary variations on the Gadsden flag</h2>
   <img srcset="images/random/gadsden.jpg 320w,
       images/random/gadsdenMd.jpg 512w,
       images/random/gadsdenLg.jpg 1024w"
     src="images/random/gadsden.jpg"
     alt="snakes not counter attacking in various situations"
-    class="smallestBreak photoMedResp">
+    class="smallestBreak photoMedResp"
+    loading="lazy">
 </article>
