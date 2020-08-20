@@ -9,8 +9,8 @@ html {
   scroll-behavior: smooth;
 
   --outerMargin: 20px;
-  --mainGap: calc(1.5rem + 15vh); /* margin between main and nav-banner or footer */
-  --smBreak: calc(var(--mainGap) / 3); /* a small break */
+  --mainGap: calc(1.5rem + 5vh); /* margin between main and nav-banner or footer */
+  --smBreak: calc((var(--mainGap) / 3) + 1rem); /* a small break */
   --headFootText: 1rem; /* text size for head and footer elements */
   --lineHeight: 1.5;
   --maxText: 66ch; /* max text line width */
@@ -47,6 +47,12 @@ html {
 @media screen and (min-width: 501px) { /* increase outerMargin for screens over 500px width */
   html {
     --outerMargin: 40px;
+  }
+}
+
+@media screen and (min-width: 850px) {
+  html {
+    --mainGap: calc(1.5rem + 15vh); /* increase spacing for larger screens */
   }
 }
 
@@ -505,11 +511,17 @@ a.darkLink {
 }
 
 .lgBreak {
-  margin-top: var(--mainGap);
+  margin-top: calc(var(--mainGap) + 2rem);
+}
+
+@media and screen (min-width: 850px) {
+  .lgBreak {
+    margin-top: var(--mainGap);
+  }
 }
 
 .medBreak {
-  margin-top: calc(var(--mainGap) / 1.5);
+  margin-top: calc((var(--smBreak) * 1.5) + 1rem);
 }
 
 .speechOrPrintOnly {
