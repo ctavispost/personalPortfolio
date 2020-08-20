@@ -20,12 +20,13 @@ random: true
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth centerGrid gridGapOne condGridRow condGridOneTwo">
-  <h2 class="leadingOne margBottSm">On a lovely day,</h2>
-
-  <p class="aboutText marginTopZero">The trees are dancing<br>
-    As they defrock in the wind,<br>
-    And I will leaf-fight anyone<br>
-    Who denies fall is the best of seasons.</p>
+  <section>
+    <h2 class="leadingOne margBottSm">On a lovely day,</h2>
+    <p class="aboutText marginTopZero">The trees are dancing<br>
+      As they defrock in the wind,<br>
+      And I will leaf-fight anyone<br>
+      Who denies fall is the best of seasons.</p>
+  </section>
 
   <img srcset="images/random/leaffight.jpg 320w,
       images/random/leaffightMd.jpg 700w,
