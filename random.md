@@ -167,6 +167,6 @@ random: true
       images/random/gadsdenLg.jpg 1024w"
     src="images/random/gadsden.jpg"
     alt="snakes not counter attacking in various situations"
-    class="smallestBreak photoMedResp gridSelfJustCenter" <!-- self-justification as fallback -->
+    class="smallestBreak photoMedResp gridSelfJustCenter"
     loading="lazy">
 </article>
