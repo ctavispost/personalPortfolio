@@ -13,10 +13,8 @@ random: true
   class="photoMedResp">
 
   <h2 class="leadingOne smallestBreak margBottSm">Sometimes,</h2>
-  <p class="marginTopZero">when I see claims<br>
-    of 'character assassination',<br>
-    I think to myself,<br>
-    "I certainly hope so."</p>
+  <p class="marginTopZero">when I see claims of 'character assassination',<br>
+    I think to myself, "I certainly hope so."</p>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth centerGrid gridGapOne condGridRow condGridOneTwo">
@@ -36,7 +34,7 @@ random: true
     class="smallestBreak photoMedResp">
 </article>
 
-<article class="centerGrid aboutContainer contMaxwidth btCont">
+<article class="medBreak centerGrid aboutContainer contMaxwidth btCont">
   <header class="centerGrid trekTitle">
     <h1 class="txtScale3">BARTREK</h1>
   </header>
@@ -103,7 +101,7 @@ random: true
 
 <article class="centerGrid medBreak aboutContainer contMaxwidth gridGapOne condGridRow condGridTwoOne">
   <section>
-    <h2 class="leadingOne margBottMed">We are quick</h2>
+    <h2 class="leadingOne margBottSm">We are quick</h2>
     <p class="aboutText marginTopZero">to judge <span class="embold">substance dependence</span> but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
 
     <p class="aboutText">Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
