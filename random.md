@@ -160,13 +160,13 @@ random: true
   </figure>
 </article>
 
-<article class="medBreak contMaxwidth">
+<article class="centerGrid medBreak contMaxwidth">
   <h2 class="aboutContainer">Contemporary variations on the Gadsden flag</h2>
   <img srcset="images/random/gadsden.jpg 320w,
       images/random/gadsdenMd.jpg 512w,
       images/random/gadsdenLg.jpg 1024w"
     src="images/random/gadsden.jpg"
     alt="snakes not counter attacking in various situations"
-    class="smallestBreak photoMedResp"
+    class="smallestBreak photoMedResp gridSelfJustCenter" <!-- self-justification as fallback -->
     loading="lazy">
 </article>
