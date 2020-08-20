@@ -35,12 +35,16 @@ main {
   align-items: center;
 }
 
+p {
+  max-width: 68ch;
+}
+
 .contMaxwidth {
   max-width: 80ch;
 }
 
 .margBottSm {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .btCont {
@@ -159,12 +163,20 @@ main {
 }
 
 .gridGapOne {
-  grid-gap: 1rem;
+  gap: 1rem; /* sets gap for columns, flex, grid */
+  grid-gap: 1rem; /* grid fallback */
 }
 
 @media screen and (min-width: 640px) {
-  .condGridRowTwoToOne {
+  .condGridRow {
     grid-auto-flow: row;
+  }
+
+  .condGridTwoOne {
     grid-template-columns: 2fr 1fr;
+  }
+
+  .condGridOneTwo {
+    grid-template-columns: 1fr 2fr;
   }
 }

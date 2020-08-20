@@ -13,15 +13,16 @@ random: true
   class="photoMedResp">
 
   <h2 class="leadingOne smallestBreak margBottSm">Sometimes,</h2>
-  <p>when I see claims of <span class="embold">'character assassination'</span>,<br>
-  I think to myself,<br>
-  "I certainly hope so."</p>
+  <p class="marginTopZero">when I see claims<br>
+    of 'character assassination',<br>
+    I think to myself,<br>
+    "I certainly hope so."</p>
 </article>
 
-<article class="medBreak aboutContainer contMaxwidth">
+<article class="medBreak aboutContainer contMaxwidth centerGrid gridGapOne condGridRow condGridOneTwo">
   <h2 class="leadingOne margBottSm">On a lovely day,</h2>
 
-  <p class="aboutText">The trees are dancing<br>
+  <p class="aboutText marginTopZero">The trees are dancing<br>
     As they defrock in the wind,<br>
     And I will leaf-fight anyone<br>
     Who denies fall is the best of seasons.</p>
@@ -84,7 +85,7 @@ random: true
 
 <article class="medBreak aboutContainer contMaxwidth">
   <h2 class="leadingOne margBottSm">Shortly</h2>
-  <p class="aboutText">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
+  <p class="aboutText marginTopZero">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
   <p class="aboutText">"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
 
@@ -99,10 +100,10 @@ random: true
     loading="lazy">
 </article>
 
-<article class="centerGrid medBreak aboutContainer contMaxwidth gridGapOne condGridRowTwoToOne">
+<article class="centerGrid medBreak aboutContainer contMaxwidth gridGapOne condGridRow condGridTwoOne">
   <section>
-    <h2 class="leadingOne">We are quick</h2>
-    <p class="aboutText">to judge <span class="embold">substance dependence</span> but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
+    <h2 class="leadingOne margBottMed">We are quick</h2>
+    <p class="aboutText marginTopZero">to judge <span class="embold">substance dependence</span> but idolize the adrenaline rush of dangerous and pointless accomplishments.</p>
 
     <p class="aboutText">Climbing Everest is a bit like drinking heroic amounts of whiskey:</p>
 
@@ -149,7 +150,7 @@ random: true
       class="smallestBreak photoMedResp">
   -->
 
-  <p class="aboutText">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
+  <p class="aboutText marginTopZero">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
   <p class="aboutText medEmphTxt">–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
 
