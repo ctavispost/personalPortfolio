@@ -144,17 +144,19 @@ random: true
   </section>
 </article>
 
-<article class="medBreak aboutContainer contMaxwidth">
-  <h2 class="leadingOne margBottSm">Resolved:</h2>
-  <!--
-    <img src="images/random/blandished.svg"
-      alt="quartered beige circles on beige rectangles"
-      class="smallestBreak photoMedResp">
-  -->
+<article class="medBreak contMaxwidth">
+  <section class="aboutContainer">
+    <h2 class="leadingOne margBottSm">Resolved:</h2>
+    <!--
+      <img src="images/random/blandished.svg"
+        alt="quartered beige circles on beige rectangles"
+        class="smallestBreak photoMedResp">
+        -->
 
-  <p class="aboutText marginTopZero">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
+    <p class="aboutText marginTopZero">Henceforth, 'blandishment' should mean 'becoming bland, being made commonplace or unremarkable, or a state of mundanity'. It should in no way be associated with alluring, coaxing, or persuasion except in fantasy novels and renaissance fairs.</p>
 
-  <p class="aboutText medEmphTxt">–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
+    <p class="aboutText medEmphTxt">–This is in line with its origin, where the Latin word meant 'mild' as well as 'flattering'.–</p>
+  </section>
 
   <figure class="smBreak" style="--aspect-ratio: 16/9;">
     <!-- a video clip from 'The Ten Commandments': "So let it be written, so let it be done." -->

@@ -77,7 +77,7 @@ p {
       "btSub btSub btSub"
       "btDrunk btDrunk ."
       "btStory btStory ."
-      ". btPalm btPalm";
+      ". btPalm .";
   }
 }
 
@@ -130,6 +130,7 @@ p {
 
 .palm {
   grid-area: btPalm;
+  justify-self: center;
 }
 
 .flexAlignItemsEnd {
