@@ -12,7 +12,7 @@ random: true
   alt="comic: a ninja engages her target"
   class="photoMedResp">
 
-  <h2 class="leadingOne margBottSm">Sometimes,</h2>
+  <h2 class="leadingOne smallestBreak margBottSm">Sometimes,</h2>
   <p>when I see claims of <span class="embold">'character assassination'</span>,<br>
   I think to myself,<br>
   "I certainly hope so."</p>
