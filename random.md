@@ -5,16 +5,16 @@ random: true
 ---
 
 <article class="aboutContainer contMaxwidth">
+  <h2 class="leadingOne smallestBreak margBottSm">Sometimes,</h2>
+  <p class="marginTopZero">when I see claims of 'character assassination',<br>
+  I think to myself, "I certainly hope so."</p>
+
   <img srcset="images/random/nijaLady.jpg 500w,
     images/random/ninjaLadyMd.jpg 700w,
     images/random/ninjaLadyLg.jpg 1024w"
   src="images/random/ninjaLady.jpg"
   alt="comic: a ninja engages her target"
   class="photoMedResp">
-
-  <h2 class="leadingOne smallestBreak margBottSm">Sometimes,</h2>
-  <p class="marginTopZero">when I see claims of 'character assassination',<br>
-    I think to myself, "I certainly hope so."</p>
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth centerGrid gridGapOne condGridRow condGridOneTwo">
@@ -36,7 +36,7 @@ random: true
 
 <article class="medBreak centerGrid aboutContainer contMaxwidth btCont">
   <header class="centerGrid trekTitle">
-    <h1 class="txtScale3">BARTREK</h1>
+    <h1 class="txtScale3 leadingOne margBottSm">BARTREK</h1>
   </header>
 
   <img srcset="images/random/bingerprize.jpg 320w,
@@ -50,7 +50,10 @@ random: true
     <p class="aboutText marginTopZero">Space ale, the finest of beers. These are the indulgences of the barship Bingerprize. Its unending mission: to explore strange new brews, to seek out new stills and new concoctions, to boldly drink where no one has drunk before.</p>
   </section>
 
-  <h3 class="trekSubHd margBottSm">John Luke Drunkard –</h3>
+  <h2 class="trekSub margBottSm leadingOne">Episode One: Encounter at Bar Point</h2>
+  <p>Episode one deals with the ridiculous yet strangely powerful entity which calls itself Qanon...</p>
+
+  <h3 class="trekSubHd margBottSm">John Luke Drunkard</h3>
 
   <img srcset="images/random/jeanlukedrunkard.jpg 320w,
         images/random/jeanlukedrunkardMd.jpg 500w,
