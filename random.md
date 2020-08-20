@@ -4,7 +4,7 @@ layout: default
 random: true
 ---
 
-<article class="medBreak aboutContainer contMaxwidth">
+<article class="aboutContainer contMaxwidth">
   <img srcset="images/random/nijaLady.jpg 500w,
     images/random/ninjaLadyMd.jpg 700w,
     images/random/ninjaLadyLg.jpg 1024w"
