@@ -74,14 +74,15 @@ random: true
   </section>
 
   <section class="conditionalFlexCol palm flexAlignItemsEnd"> <!-- becomes a flex column w. end justification at screen width of 640px or higher -->
+  
     <img srcset="images/random/picard-facepalm.jpg 320w,
         images/random/picard-facepalmMd.jpg 600w"
       src="images/random/picard-facepalm.jpg"
       alt="Captain Picard facepalming"
-      class="smallestBreak palm photoLGResp"
+      class="smallestBreak palm captionedImg"
       width="320"
       height="180">
-    <p>"Computer, end simulation."</p>
+    <p class="caption embold">"Computer, end simulation."</p>
   </section>
 </article>
 

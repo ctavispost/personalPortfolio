@@ -82,7 +82,7 @@ p {
 }
 
 .trekTitle {
-  font-family: 'TNG_Title', 'Audiowide', sans-serif;
+  font-family: 'TNG_Title', 'Audiowide', 'Montserrat', 'Roboto', sans-serif;
   grid-area: btTitle;
 }
 
