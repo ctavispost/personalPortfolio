@@ -15,11 +15,13 @@ layout: default
 
 <article class="medBreak">
   <h2>Examples</h2>
-  <section class="centerGrid gridGapOne">
+  <section class="centerGrid">
     <h3>Conveying and packaging information</h3>
 
-    <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
-    <img class="centerImg illustImg" src="images/writing/ftmHome.jpg">
+    <section class="centerGrid gridGapOne>
+      <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
+      <img class="centerImg illustImg" src="images/writing/ftmHome.jpg">
+    </section>
 
     <section>
       <a href="docs/ftmHome.pdf">Home</a>
@@ -31,15 +33,18 @@ layout: default
       <p><span class="embold">role:</span> UX Designer </p>
       <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
       <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
-    <section>
+    </section>
   </section>
 
-  <section class="centerGrid gridGapOne medBreak">
+  <section class="centerGrid medBreak">
     <h3>Onboarding</h3>
 
-    <p>New users sign up and are given a walkthrough of jot &amp;.</p>
-    <img class="centerImg" src="images/writing/jotOnboard.jpg">
-    <a href="docs/jotOnboard.pdf">jot &amp; pdf</a>
+    <section class="centerGrid gridGapOne>
+      <p>New users sign up and are given a walkthrough of jot &amp;.</p>
+      <img class="centerImg" src="images/writing/jotOnboard.jpg">
+    </section>
+
+    <p><a href="docs/jotOnboard.pdf">jot &amp; pdf</a></p>
 
     <section>
       <p><span class="embold">role:</span> UX Designer</p>
@@ -48,16 +53,18 @@ layout: default
     </section>
   </section>
 
-  <section class="centerGrid gridGapOne medBreak">
+  <section class="centerGrid medBreak">
     <h3>Landing pages</h3>
 
-    <p>Showing the services offered at <span class=embold">jot &amp;</span> and <span class=embold">Dauntlez.org</span>.</p>
-    <img class="centerImg" src="images/writing/jotLanding.jpg">
-    <img class="centerImg" src="images/writing/dauntlezLand.jpg">
+    <section class="centerGrid gridGapOne>
+      <p>Showing the services offered at <span class=embold">jot &amp;</span> and <span class=embold">Dauntlez.org</span>.</p>
+      <img class="centerImg" src="images/writing/jotLanding.jpg">
+      <img class="centerImg" src="images/writing/dauntlezLand.jpg">
+    </section>
 
     <section>
-      <a href="docs/jotLanding.pdf">jot &amp; pdf</a>
-      <a href="docs/dauntlezLand.pdf">Dauntlez pdf</a>
+      <p><a href="docs/jotLanding.pdf">jot &amp; pdf</a></p>
+      <p><a href="docs/dauntlezLand.pdf">Dauntlez pdf</a></p>
     </section>
 
     <section>
