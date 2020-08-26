@@ -54,9 +54,11 @@ layout: default
       <h3>Landing pages</h3>
 
       <section class="centerGrid gridGapOne">
-        <p>Showing the services offered at <span class=embold">jot &amp;</span> and <span class=embold">Dauntlez.org</span>.</p>
-        <img class="centerImg photoMedResp" src="images/writing/jotLanding.jpg">
-        <img class="centerImg photoMedResp" src="images/writing/dauntlezLand.jpg">
+        <p>Showing the services offered at <span class="embold">jot &amp;</span> and <span class="embold">Dauntlez.org</span>.</p>
+        <section class="condGridRow gridGapOne">
+          <img class="centerImg photoMedResp" src="images/writing/jotLanding.jpg">
+          <img class="centerImg photoMedResp" src="images/writing/dauntLand.jpg">
+        </section>
       </section>
 
       <section class="flex flexCol">
@@ -77,10 +79,10 @@ layout: default
       <section class="centerGrid gridGapOne">
         <p>Gathering information to define problems and solutions.</p>
         <img class="centerImg photoMedResp" src="images/writing/survey.jpg">
-        <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
-        <a href="docs/.pdf"></a>
-        <a href="docs/.pdf"></a>
       </section>
+      
+      <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
+      <a href="docs/cloudSurvey.pdf"></a>
 
       <section class="flex flexCol">
         <p><span class="embold">role:</span> UX Designer</p>
