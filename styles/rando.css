@@ -168,6 +168,7 @@ p {
   grid-gap: 1rem; /* grid fallback */
 }
 
+/* conditional grid rules */
 @media screen and (min-width: 640px) {
   .condGridRow {
     grid-auto-flow: row;
