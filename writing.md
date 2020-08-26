@@ -23,6 +23,10 @@ layout: default
     <a href="docs/ftmHome.pdf">Home</a>
     <a href="docs/ftmFaq.pdf">FAQ</a>
     <a href="docs/ftmAbout.pdf">About</a>
+
+    <p><span class="embold">role:</span> UX Designer </p>
+    <p><span class="embold">contributions:</span> information architecture, writing, editing, iconography, testing</p>
+    <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
   </section>
 
   <section class="conditionalFlexRow">
@@ -31,6 +35,10 @@ layout: default
     <p>New users sign up and are given a walkthrough of jot &.</p>
     <img class="centerImg" src="images/writing/jotOnboard.jpg">
     <a href="docs/jotOnboard.pdf"></a>
+
+    <p><span class="embold">role:</span> UX Designer</p>
+    <p><span class="embold">contributions:</span> interaction design, writing, user testing</p>
+    <p><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
   </section>
 
   <section class="conditionalFlexRow">
@@ -41,6 +49,10 @@ layout: default
     <img class="centerImg" src="images/writing/">
     <a href="docs/jotLanding.pdf"></a>
     <a href="docs/"></a>
+
+    <p><span class="embold">role:</span> UX Designer</p>
+    <p><span class="embold">contributions: research, writing, illustration, iconography, layout, information architecture</span> </p>
+    <p><span class="embold">tools: Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</span> </p>
   </section>
 
   <section class="conditionalFlexRow">
@@ -51,6 +63,10 @@ layout: default
     <a href="docs/"></a>
     <a href="docs/"></a>
     <a href="docs/"></a>
+
+    <p><span class="embold">role:</span> UX Designer</p>
+    <p><span class="embold">contributions:</span> </p>
+    <p><span class="embold">tools:</span> </p>
   </section>
 
   <section class="conditionalFlexRow">
@@ -61,4 +77,8 @@ layout: default
     <a href="docs/"></a>
     <a href="docs/"></a>
     <a href="docs/"></a>
+
+    <p><span class="embold">role:</span> UX Designer</p>
+    <p><span class="embold">contributions:</span> </p>
+    <p><span class="embold">tools:</span> </p>
   </section>
