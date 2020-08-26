@@ -12,7 +12,7 @@ layout: default
   </article>
 
   <article class="medBreak">
-    <section class="centerGrid">
+    <section class="grid">
       <h3>Showing and packaging information</h3>
 
       <section class="centerGrid gridGapOne">
@@ -20,7 +20,7 @@ layout: default
         <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
       </section>
 
-      <section>
+      <section class="flex flexCol">
         <a href="docs/ftmHome.pdf">Home</a>
         <a href="docs/ftmFaq.pdf">FAQ</a>
         <a href="docs/ftmAbout.pdf">About</a>
@@ -33,10 +33,10 @@ layout: default
       </section>
     </section>
 
-    <section class="centerGrid medBreak">
+    <section class="grid medBreak">
       <h3>Onboarding</h3>
 
-      <section class="centerGrid gridGapOne>
+      <section class="centerGrid gridGapOne">
         <p>New users sign up and are given a walkthrough of jot &amp;.</p>
         <img class="centerImg photoMedResp" src="images/writing/jotOnboard.jpg">
       </section>
@@ -50,10 +50,10 @@ layout: default
       </section>
     </section>
 
-    <section class="centerGrid medBreak">
+    <section class="grid medBreak">
       <h3>Landing pages</h3>
 
-      <section class="centerGrid gridGapOne>
+      <section class="centerGrid gridGapOne">
         <p>Showing the services offered at <span class=embold">jot &amp;</span> and <span class=embold">Dauntlez.org</span>.</p>
         <img class="centerImg photoMedResp" src="images/writing/jotLanding.jpg">
         <img class="centerImg photoMedResp" src="images/writing/dauntlezLand.jpg">
@@ -71,14 +71,16 @@ layout: default
       </section>
     </section>
 
-    <section class="centerGrid medBreak">
+    <section class="grid medBreak">
       <h3>Surveys</h3>
 
-      <p>Gathering information to define problems and solutions.</p>
-      <img class="centerImg photoMedResp" src="images/writing/survey.jpg">
-      <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
-      <a href="docs/.pdf"></a>
-      <a href="docs/.pdf"></a>
+      <section class="centerGrid gridGapOne">
+        <p>Gathering information to define problems and solutions.</p>
+        <img class="centerImg photoMedResp" src="images/writing/survey.jpg">
+        <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
+        <a href="docs/.pdf"></a>
+        <a href="docs/.pdf"></a>
+      </section>
 
       <section class="flex flexCol">
         <p><span class="embold">role:</span> UX Designer</p>
@@ -90,7 +92,7 @@ layout: default
 <!--
   <section class="centerGrid medBreak">
     <h3>Reports and analysis</h3>
-    <section class="centerGrid gridGapOne">
+    <section class="grid gridGapOne">
       <p>Reccommendations based upon evidence.</p>
       <img class="centerImg photoMedResp" src="images/writing/">
       <a href="docs/"></a>
