@@ -13,18 +13,52 @@ layout: default
   <p>If you share similar thoughts, I would love to work with you towards these goals. <a href="mailto:ctavispost@gmail.com">Send me a note.</a></p>
 </article>
 
-<section class="conditionalFlexRow">
-  <h2>Information</h2>
+<article>
+  <h1>Examples</h1>
+  <section class="conditionalFlexRow">
+    <h2>Conveying and packaging information</h2>
 
-  <p>I contributed to the content and underlying architecture at FindTheMasks.com, seen in these pages.</p>
-  <img class="centerImg" src="">
-  <img class="centerImg" src="">
-</section>
+    <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
+    <img class="centerImg illustImg" src="images/writing/ftmHome.jpg">
+    <a href="docs/ftmHome.pdf">Home</a>
+    <a href="docs/ftmFaq.pdf">FAQ</a>
+    <a href="docs/ftmAbout.pdf">About</a>
+  </section>
 
-<section class="conditionalFlexRow">
-  <h2></h2>
+  <section class="conditionalFlexRow">
+    <h2>Onboarding</h2>
 
-  <p></p>
-  <img class="centerImg" src="">
-  <img class="centerImg" src="">
-</section>
+    <p>New users sign up and are given a walkthrough of jot &.</p>
+    <img class="centerImg" src="images/writing/jotOnboard.jpg">
+    <a href="docs/jotOnboard.pdf"></a>
+  </section>
+
+  <section class="conditionalFlexRow">
+    <h2>Landing pages</h2>
+
+    <p>Showing the services offered at <span class=embold">jot &</span> and <span class=embold">Dauntlez.org</span>.</p>
+    <img class="centerImg" src="images/writing/">
+    <img class="centerImg" src="images/writing/">
+    <a href="docs/jotLanding.pdf"></a>
+    <a href="docs/"></a>
+  </section>
+
+  <section class="conditionalFlexRow">
+    <h2>Surveys</h2>
+
+    <p>Gathering information to define problems and solutions.</p>
+    <img class="centerImg" src="images/writing/">
+    <a href="docs/"></a>
+    <a href="docs/"></a>
+    <a href="docs/"></a>
+  </section>
+
+  <section class="conditionalFlexRow">
+    <h2>Reports and analysis</h2>
+
+    <p>Reccommendations based upon evidence.</p>
+    <img class="centerImg" src="images/writing/">
+    <a href="docs/"></a>
+    <a href="docs/"></a>
+    <a href="docs/"></a>
+  </section>
