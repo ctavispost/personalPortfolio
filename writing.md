@@ -25,7 +25,7 @@ layout: default
     <a href="docs/ftmAbout.pdf">About</a>
 
     <p><span class="embold">role:</span> UX Designer </p>
-    <p><span class="embold">contributions:</span> information architecture, writing, editing, iconography, testing</p>
+    <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
     <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
   </section>
 
@@ -37,7 +37,7 @@ layout: default
     <a href="docs/jotOnboard.pdf"></a>
 
     <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">contributions:</span> interaction design, writing, user testing</p>
+    <p><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
     <p><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
   </section>
 
@@ -45,16 +45,17 @@ layout: default
     <h2>Landing pages</h2>
 
     <p>Showing the services offered at <span class=embold">jot &</span> and <span class=embold">Dauntlez.org</span>.</p>
-    <img class="centerImg" src="images/writing/">
-    <img class="centerImg" src="images/writing/">
+    <img class="centerImg" src="images/writing/jotLanding.jpg">
+    <img class="centerImg" src="images/writing/dauntlezLand.jpg">
     <a href="docs/jotLanding.pdf"></a>
-    <a href="docs/"></a>
+    <a href="docs/dauntlezLand.pdf"></a>
 
     <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">contributions: research, writing, illustration, iconography, layout, information architecture</span> </p>
-    <p><span class="embold">tools: Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</span> </p>
+    <p><span class="embold">deliverables:</span> research, writing, illustration, iconography, layout, information architecture, content strategy</p>
+    <p><span class="embold">tools:</span> Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</p>
   </section>
 
+<!--
   <section class="conditionalFlexRow">
     <h2>Surveys</h2>
 
@@ -65,10 +66,11 @@ layout: default
     <a href="docs/"></a>
 
     <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">contributions:</span> </p>
+    <p><span class="embold">deliverables:</span> </p>
     <p><span class="embold">tools:</span> </p>
   </section>
-
+-->
+<!--
   <section class="conditionalFlexRow">
     <h2>Reports and analysis</h2>
 
@@ -79,6 +81,7 @@ layout: default
     <a href="docs/"></a>
 
     <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">contributions:</span> </p>
+    <p><span class="embold">deliverables:</span> </p>
     <p><span class="embold">tools:</span> </p>
   </section>
+-->
