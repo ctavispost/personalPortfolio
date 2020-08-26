@@ -3,7 +3,7 @@ title: content
 layout: default
 ---
 <article class="aboutContainer contMaxwidth centerGrid">
-<article class="centerGrid">
+<article>
   <h1>Writing in UX and content</h1>
 
   <p>I am passionate about service and devoted to strong content and communication.</p>
@@ -20,13 +20,18 @@ layout: default
 
     <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
     <img class="centerImg illustImg" src="images/writing/ftmHome.jpg">
-    <a href="docs/ftmHome.pdf">Home</a>
-    <a href="docs/ftmFaq.pdf">FAQ</a>
-    <a href="docs/ftmAbout.pdf">About</a>
 
-    <p><span class="embold">role:</span> UX Designer </p>
-    <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
-    <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
+    <section>
+      <a href="docs/ftmHome.pdf">Home</a>
+      <a href="docs/ftmFaq.pdf">FAQ</a>
+      <a href="docs/ftmAbout.pdf">About</a>
+    </section>
+
+    <section>
+      <p><span class="embold">role:</span> UX Designer </p>
+      <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
+      <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
+    <section>
   </section>
 
   <section class="centerGrid gridGapOne medBreak">
@@ -34,11 +39,13 @@ layout: default
 
     <p>New users sign up and are given a walkthrough of jot &.</p>
     <img class="centerImg" src="images/writing/jotOnboard.jpg">
-    <a href="docs/jotOnboard.pdf"></a>
+    <a href="docs/jotOnboard.pdf">jot & pdf</a>
 
-    <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
-    <p><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
+    <section>
+      <p><span class="embold">role:</span> UX Designer</p>
+      <p><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
+      <p><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
+    </section>
   </section>
 
   <section class="centerGrid gridGapOne medBreak">
@@ -47,12 +54,17 @@ layout: default
     <p>Showing the services offered at <span class=embold">jot &</span> and <span class=embold">Dauntlez.org</span>.</p>
     <img class="centerImg" src="images/writing/jotLanding.jpg">
     <img class="centerImg" src="images/writing/dauntlezLand.jpg">
-    <a href="docs/jotLanding.pdf"></a>
-    <a href="docs/dauntlezLand.pdf"></a>
 
-    <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">deliverables:</span> research, writing, illustration, iconography, layout, information architecture, content strategy</p>
-    <p><span class="embold">tools:</span> Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</p>
+    <section>
+      <a href="docs/jotLanding.pdf">jot & pdf</a>
+      <a href="docs/dauntlezLand.pdf">Dauntlez pdf</a>
+    </section>
+
+    <section>
+      <p><span class="embold">role:</span> UX Designer</p>
+      <p><span class="embold">deliverables:</span> research, writing, illustration, iconography, layout, information architecture, content strategy</p>
+      <p><span class="embold">tools:</span> Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</p>
+    </section>
   </section>
 
 <!--
@@ -65,9 +77,11 @@ layout: default
     <a href="docs/"></a>
     <a href="docs/"></a>
 
-    <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">deliverables:</span> </p>
-    <p><span class="embold">tools:</span> </p>
+    <section>
+      <p><span class="embold">role:</span> UX Designer</p>
+      <p><span class="embold">deliverables:</span> </p>
+      <p><span class="embold">tools:</span> </p>
+    </section>
   </section>
 -->
 <!--
