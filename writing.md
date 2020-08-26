@@ -13,9 +13,9 @@ layout: default
 
   <article class="medBreak">
     <section class="centerGrid">
-      <h3>Conveying and packaging information</h3>
+      <h3>Showing and packaging information</h3>
 
-      <section class="centerGrid gridGapOne>
+      <section class="centerGrid gridGapOne">
         <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
         <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
       </section>
