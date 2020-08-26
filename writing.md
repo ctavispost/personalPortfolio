@@ -14,9 +14,9 @@ layout: default
 </article>
 
 <article class="medBreak">
-  <h1>Examples</h1>
+  <h2>Examples</h2>
   <section class="centerGrid gridGapOne">
-    <h2>Conveying and packaging information</h2>
+    <h3>Conveying and packaging information</h3>
 
     <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
     <img class="centerImg illustImg" src="images/writing/ftmHome.jpg">
@@ -35,11 +35,11 @@ layout: default
   </section>
 
   <section class="centerGrid gridGapOne medBreak">
-    <h2>Onboarding</h2>
+    <h3>Onboarding</h3>
 
-    <p>New users sign up and are given a walkthrough of jot &.</p>
+    <p>New users sign up and are given a walkthrough of jot &amp;.</p>
     <img class="centerImg" src="images/writing/jotOnboard.jpg">
-    <a href="docs/jotOnboard.pdf">jot & pdf</a>
+    <a href="docs/jotOnboard.pdf">jot &amp; pdf</a>
 
     <section>
       <p><span class="embold">role:</span> UX Designer</p>
@@ -49,14 +49,14 @@ layout: default
   </section>
 
   <section class="centerGrid gridGapOne medBreak">
-    <h2>Landing pages</h2>
+    <h3>Landing pages</h3>
 
-    <p>Showing the services offered at <span class=embold">jot &</span> and <span class=embold">Dauntlez.org</span>.</p>
+    <p>Showing the services offered at <span class=embold">jot &amp;</span> and <span class=embold">Dauntlez.org</span>.</p>
     <img class="centerImg" src="images/writing/jotLanding.jpg">
     <img class="centerImg" src="images/writing/dauntlezLand.jpg">
 
     <section>
-      <a href="docs/jotLanding.pdf">jot & pdf</a>
+      <a href="docs/jotLanding.pdf">jot &amp; pdf</a>
       <a href="docs/dauntlezLand.pdf">Dauntlez pdf</a>
     </section>
 
@@ -69,7 +69,7 @@ layout: default
 
 <!--
   <section class="conditionalFlexRow flexWrap medBreak">
-    <h2>Surveys</h2>
+    <h3>Surveys</h3>
 
     <p>Gathering information to define problems and solutions.</p>
     <img class="centerImg" src="images/writing/">
@@ -86,7 +86,7 @@ layout: default
 -->
 <!--
   <section class="conditionalFlexRow flexWrap medBreak">
-    <h2>Reports and analysis</h2>
+    <h3>Reports and analysis</h3>
 
     <p>Reccommendations based upon evidence.</p>
     <img class="centerImg" src="images/writing/">
