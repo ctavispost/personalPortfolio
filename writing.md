@@ -20,7 +20,7 @@ layout: default
 
     <section class="centerGrid gridGapOne>
       <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
-      <img class="centerImg illustImg" src="images/writing/ftmHome.jpg">
+      <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
     </section>
 
     <section>
@@ -29,7 +29,7 @@ layout: default
       <a href="docs/ftmAbout.pdf">About</a>
     </section>
 
-    <section>
+    <section class="flex flexCol">
       <p><span class="embold">role:</span> UX Designer </p>
       <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
       <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
@@ -41,12 +41,12 @@ layout: default
 
     <section class="centerGrid gridGapOne>
       <p>New users sign up and are given a walkthrough of jot &amp;.</p>
-      <img class="centerImg" src="images/writing/jotOnboard.jpg">
+      <img class="centerImg photoMedResp" src="images/writing/jotOnboard.jpg">
     </section>
 
     <p><a href="docs/jotOnboard.pdf">jot &amp; pdf</a></p>
 
-    <section>
+    <section class="flex flexCol">
       <p><span class="embold">role:</span> UX Designer</p>
       <p><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
       <p><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
@@ -58,11 +58,11 @@ layout: default
 
     <section class="centerGrid gridGapOne>
       <p>Showing the services offered at <span class=embold">jot &amp;</span> and <span class=embold">Dauntlez.org</span>.</p>
-      <img class="centerImg" src="images/writing/jotLanding.jpg">
-      <img class="centerImg" src="images/writing/dauntlezLand.jpg">
+      <img class="centerImg photoMedResp" src="images/writing/jotLanding.jpg">
+      <img class="centerImg photoMedResp" src="images/writing/dauntlezLand.jpg">
     </section>
 
-    <section>
+    <section class="flex flexCol">
       <p><a href="docs/jotLanding.pdf">jot &amp; pdf</a></p>
       <p><a href="docs/dauntlezLand.pdf">Dauntlez pdf</a></p>
     </section>
@@ -74,36 +74,38 @@ layout: default
     </section>
   </section>
 
-<!--
-  <section class="conditionalFlexRow flexWrap medBreak">
+  <section class="centerGrid medBreak">
     <h3>Surveys</h3>
 
     <p>Gathering information to define problems and solutions.</p>
-    <img class="centerImg" src="images/writing/">
-    <a href="docs/"></a>
-    <a href="docs/"></a>
-    <a href="docs/"></a>
+    <img class="centerImg photoMedResp" src="images/writing/survey.jpg">
+    <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
+    <a href="docs/.pdf"></a>
+    <a href="docs/.pdf"></a>
 
-    <section>
+    <section class="flex flexCol">
+      <p><span class="embold">role:</span> UX Designer</p>
+      <p><span class="embold">deliverables:</span> survey</p>
+      <p><span class="embold">tools:</span> Google forms, Reddit, Facebook, email, Slack, Zoom</p>
+    </section>
+  </section>
+
+<!--
+  <section class="centerGrid medBreak">
+    <h3>Reports and analysis</h3>
+    <section class="centerGrid gridGapOne">
+      <p>Reccommendations based upon evidence.</p>
+      <img class="centerImg photoMedResp" src="images/writing/">
+      <a href="docs/"></a>
+      <a href="docs/"></a>
+      <a href="docs/"></a>
+    </section>
+
+    <section  class="flex flexCol">
       <p><span class="embold">role:</span> UX Designer</p>
       <p><span class="embold">deliverables:</span> </p>
       <p><span class="embold">tools:</span> </p>
     </section>
-  </section>
--->
-<!--
-  <section class="conditionalFlexRow flexWrap medBreak">
-    <h3>Reports and analysis</h3>
-
-    <p>Reccommendations based upon evidence.</p>
-    <img class="centerImg" src="images/writing/">
-    <a href="docs/"></a>
-    <a href="docs/"></a>
-    <a href="docs/"></a>
-
-    <p><span class="embold">role:</span> UX Designer</p>
-    <p><span class="embold">deliverables:</span> </p>
-    <p><span class="embold">tools:</span> </p>
   </section>
 -->
 </article>
