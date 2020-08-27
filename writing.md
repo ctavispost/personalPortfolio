@@ -57,7 +57,7 @@ layout: default
         <p>Showing the services offered at <span class="embold">jot &amp;</span> and <span class="embold">Dauntlez.org</span>.</p>
         <section class="condGridRow gridGapOne">
           <img class="centerImg photoMedResp" src="images/writing/jotLanding.jpg">
-          <img class="centerImg photoMedResp" src="images/writing/dauntLand.jpg">
+          <img class="centerImg photoMedResp" src="images/writing/dautlezLand.jpg">
         </section>
       </section>
 
@@ -80,7 +80,7 @@ layout: default
         <p>Gathering information to define problems and solutions.</p>
         <img class="centerImg photoMedResp" src="images/writing/survey.jpg">
       </section>
-      
+
       <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
       <a href="docs/cloudSurvey.pdf"></a>
 
