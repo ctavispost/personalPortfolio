@@ -38,7 +38,7 @@ layout: default
 
       <section class="centerGrid gridGapOne">
         <p>New users sign up and are given a walkthrough of jot &amp;.</p>
-        <img class="centerImg photoMedResp" src="images/writing/jotOnboard.jpg">
+        <img class="centerImg photoMedResp" src="images/writing/jotOnboard.png">
       </section>
 
       <p><a href="docs/jotOnboard.pdf">jot &amp; pdf</a></p>
