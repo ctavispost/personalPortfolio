@@ -708,6 +708,9 @@ figcaption, .medEmphTxt {
   min-width: 20vw;
 }
 
+.flexy {
+  display: flex;
+}
 .flexCenter {
   display: flex;
   align-items: center;
@@ -905,6 +908,10 @@ figcaption, .medEmphTxt {
 
 .leadingOne {
   line-height: 1;
+}
+
+.grid {
+  display: grid;
 }
 
 .gridGapOne {

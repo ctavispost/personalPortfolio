@@ -20,13 +20,13 @@ layout: default
         <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
       </section>
 
-      <section class="flex flexCol">
+      <section class="flexy flexCol">
         <a href="docs/ftmHome.pdf">Home</a>
         <a href="docs/ftmFaq.pdf">FAQ</a>
         <a href="docs/ftmAbout.pdf">About</a>
       </section>
 
-      <section class="flex flexCol">
+      <section class="flexy flexCol">
         <p><span class="embold">role:</span> UX Designer </p>
         <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
         <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
@@ -43,7 +43,7 @@ layout: default
 
       <p><a href="docs/jotOnboard.pdf">jot &amp; pdf</a></p>
 
-      <section class="flex flexCol">
+      <section class="flexy flexCol">
         <p><span class="embold">role:</span> UX Designer</p>
         <p><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
         <p><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
@@ -61,9 +61,9 @@ layout: default
         </section>
       </section>
 
-      <section class="flex flexCol">
-        <p><a href="docs/jotLanding.pdf">jot &amp; pdf</a></p>
-        <p><a href="docs/dauntlezLand.pdf">Dauntlez pdf</a></p>
+      <section class="flexy flexCol">
+        <a href="docs/jotLanding.pdf">jot &amp; pdf</a>
+        <a href="docs/dauntlezLand.pdf">Dauntlez pdf</a>
       </section>
 
       <section>
@@ -82,9 +82,9 @@ layout: default
       </section>
 
       <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
-      <a href="docs/cloudSurvey.pdf"></a>
+      <a href="docs/cloudSurvey.pdf">on cloud use</a>
 
-      <section class="flex flexCol">
+      <section class="flexy flexCol">
         <p><span class="embold">role:</span> UX Designer</p>
         <p><span class="embold">deliverables:</span> survey</p>
         <p><span class="embold">tools:</span> Google forms, Reddit, Facebook, email, Slack, Zoom</p>
@@ -102,7 +102,7 @@ layout: default
       <a href="docs/"></a>
     </section>
 
-    <section  class="flex flexCol">
+    <section  class="flexy flexCol">
       <p><span class="embold">role:</span> UX Designer</p>
       <p><span class="embold">deliverables:</span> </p>
       <p><span class="embold">tools:</span> </p>
