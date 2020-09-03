@@ -12,26 +12,36 @@ layout: default
   </article>
 
   <article class="medBreak">
-    <section class="grid">
-      <h3>Showing and packaging information</h3>
-
+    <h3>Showing and packaging information</h3>
+    <div class="">
       <section class="centerGrid gridGapOne">
-        <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
         <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
       </section>
 
-      <section class="flexy flexCol">
-        <a href="docs/ftmHome.pdf">Home</a>
-        <a href="docs/ftmFaq.pdf">FAQ</a>
-        <a href="docs/ftmAbout.pdf">About</a>
-      </section>
+      <section class="grid">
+        <h3>Showing and packaging information</h3>
+        <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
 
-      <section class="flexy flexCol">
-        <p><span class="embold">role:</span> UX Designer </p>
-        <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
-        <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
+        <section class="flexy flexCol">
+          <a href="docs/ftmHome.pdf">Home</a>
+          <a href="docs/ftmFaq.pdf">FAQ</a>
+          <a href="docs/ftmAbout.pdf">About</a>
+        </section>
+
+        <section class="flexy flexCol">
+          <p><span class="embold">role:</span> UX Designer </p>
+          <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
+          <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
+        </section>
+
+        <section class="flexy flexCol">
+          <a href="docs/ftmHome.pdf">Home</a>
+          <a href="docs/ftmFaq.pdf">FAQ</a>
+          <a href="docs/ftmAbout.pdf">About</a>
+        </section>
       </section>
-    </section>
+    </div>
+  </article>
 
     <section class="grid medBreak">
       <h3>Onboarding</h3>
@@ -55,8 +65,7 @@ layout: default
 
       <section class="centerGrid gridGapOne">
         <p>Showing the services offered at <span class="embold">jot &amp;</span> and <span class="embold">Dauntlez.org</span>.</p>
-        <section class="condGridRow gridGapOne">
-          <img class="centerImg photoMedResp" src="images/writing/jotLanding.jpg">
+        <section class="gridSelfJustCenter">
           <img class="centerImg photoMedResp" src="images/writing/dautlezLand.jpg">
         </section>
       </section>
