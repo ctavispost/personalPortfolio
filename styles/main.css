@@ -291,7 +291,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      gap: 1rem;
      grid-gap: 1rem; /* fallback for gap */
      grid-template-columns: repeat(3, 1fr);
-     grid-template-rows: repeat(2, auto);
+     grid-template-rows: repeat(2, minmax(1rem, 95vh));
      grid-template-areas:
       "proj04 . ."
       "proj04 . illust"
@@ -300,6 +300,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       ". proj03 ."
       "proj01 . ."
       "proj01 . writ"
+      ". . ."
       ". fun .";
    }
 }
