@@ -74,7 +74,7 @@ random: true
   </section>
 
   <section class="conditionalFlexCol palm flexAlignItemsEnd"> <!-- becomes a flex column w. end justification at screen width of 640px or higher -->
-  
+
     <img srcset="images/random/picard-facepalm.jpg 320w,
         images/random/picard-facepalmMd.jpg 600w"
       src="images/random/picard-facepalm.jpg"

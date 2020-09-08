@@ -96,7 +96,7 @@ body {
   grid-auto-flow: row;
   grid-template-columns: auto auto;
   justify-content: space-between;
-  align-items: center;
+  align-items: start;
   margin: var(--outerMargin);
 }
 
@@ -154,7 +154,7 @@ a { /* set links to primary color for light or dark mode  */
   overflow: hidden;
 }
 
-@media screen and (max-width: 750px) { /* places nav links in a right justified column so they fit on screen */
+@media screen and (max-width: 640px) { /* places nav links in a right justified column so they fit on screen */
   .navbar {
     align-items: flex-start;
   }
@@ -174,10 +174,6 @@ a { /* set links to primary color for light or dark mode  */
   }
 }
 
-.navUl {
-  align-content: center;
-}
-
 @media print { /* hides header and footer navigation lists in print */
   .navUl {
     display: none;
@@ -191,6 +187,14 @@ a { /* set links to primary color for light or dark mode  */
 .navText {
   color: var(--anchorNorm);
   font-size: var(--headFootText);
+}
+
+@media and screen (min-width: 751px) {
+  .navText {
+    line-height: 1;
+    margin-top: 0;
+    padding-top: 0;
+  }
 }
 
 .spaceToLeft {

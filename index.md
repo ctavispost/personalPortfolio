@@ -51,9 +51,27 @@ layout: default
   </article>
   -->
 
+  <article class="card writ">
+    <a href="writing.html" class="dispBlock paddingSmB">
+      <h1 class="padText">writing</h1>
+      <p class="padText">writing</p>
+      <img src="" alt="" class="projPic preferDark">
+      <img src="" alt="" class="projPic preferLight">
+    </a>
+  </article>
+
+  <article class="card fun">
+    <a href="random.html" class="dispBlock paddingSmB">
+      <h1 class="padText">fun</h1>
+      <p class="padText"></p>
+      <img src="" alt="" class="projPic preferDark">
+      <img src="" alt="" class="projPic preferLight">
+    </a>
+  </article>
+
   <article class="card illustration">
     <a href="illustration.html" class="bgCover darkLink illustLink">
-      <h1>illustrations</h1>
+      <h1>art</h1>
     </a>
   </article>
 </section> <!-- end showcase for cards -->
