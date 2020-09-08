@@ -51,7 +51,7 @@ layout: default
   </article>
   -->
 
-  <article class="card writ">
+  <article class="card writing">
     <a href="writing.html" class="dispBlock paddingSmB">
       <h1 class="padText">writing</h1>
       <img src="images/keysLt.svg" alt="outlines of keys on keyboard" class="projPic preferDark" paddingSm>
@@ -60,13 +60,13 @@ layout: default
   </article>
 
   <article class="card fun">
-    <a href="random.html" class="dispBlock paddingSmB bgCover darkLink">
+    <a href="random.html" class="dispBlock paddingSmB bgCover darkLink imageLink">
       <h1 class="padText">fun</h1>
     </a>
   </article>
 
   <article class="card illustration">
-    <a href="illustration.html" class="bgCover darkLink illustLink">
+    <a href="illustration.html" class="bgCover darkLink imageLink writeVert writeWhite">
       <h1>art</h1>
     </a>
   </article>

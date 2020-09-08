@@ -17,8 +17,10 @@ html {
   --textScale: 1.414; /* scale text at powers of 1.414 */
   --paddText: 20px; /* padding for text in cards */
 
+  --whiteMd: hsla(0, 0%, 100%, .87); /* var for high emph text in white, can be used even in light theme */
+
   /* set default color variables for dark theme */
-  --textHighEmph: hsla(0, 0%, 100%, .87); /* Material dark theme high emphasis text */
+  --textHighEmph: var(--whiteMd); /* Material dark theme high emphasis text */
   --textMedEmph: hsla(0, 0%, 100%, .6); /* Material dark theme medium emphasis text */
   --mainBg: #1C2124; /* main background-color (#121212 w. 8% primary color #90CAF9 overlay) */
   --oneDpBg: #272C2F; /* background-color at 1dp (w. 5% white overlay) */
@@ -296,8 +298,8 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       ". . illust"
       ". proj03 ."
       ". proj03 ."
-      "proj01 . writ"
       "proj01 . ."
+      "proj01 . writ"
       ". fun .";
    }
 }
@@ -378,10 +380,13 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   background-color: hsla(203, 9%, 17%, 0);
 }
 
-.illustLink {
+.imageLink {
   display: block;
   height: 100%;
   width: 100%;
+}
+
+.writeVert {
   writing-mode: vertical-lr;
   -webkit-writing-mode: vertical-lr;
   -ms-writing-mode: vertical-lr;
@@ -404,6 +409,10 @@ a.darkLink {
   max-width: 800px; /* width of selected image */
   max-height: 60vh;
   min-height: max(200px, 60vh); /* what looks good for selected image */
+}
+
+.writeWhite {
+  color: var(--whiteMd);
 }
 
 
