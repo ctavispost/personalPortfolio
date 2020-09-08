@@ -13,7 +13,7 @@ layout: default
 <section class="studies sideMargin" id="projects"> <!-- wrapper for cards -->
   <article class="card project04">
     <a href="project04.html" class="dispBlock paddingSmB">
-      <h1 class="padText">findthemasks</h1>
+      <h1 class="padText leadingSm">find the masks</h1>
       <p class="padText">how, what, and where to donate gear to hospitals</p>
       <div class="projContainer padText"> <!-- center images in grid and add padding to sides -->
         <img src="images/ftm-logo-dk-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferDark">
@@ -54,17 +54,14 @@ layout: default
   <article class="card writ">
     <a href="writing.html" class="dispBlock paddingSmB">
       <h1 class="padText">writing</h1>
-      <img src="images/keysDk.svg" alt="outlines of keys on keyboard" class="projPic preferDark" paddingSm>
-      <img src="images/keysLt.svg" alt="outlines of keys on keyboard" class="projPic preferLight paddingSm">
+      <img src="images/keysLt.svg" alt="outlines of keys on keyboard" class="projPic preferDark" paddingSm>
+      <img src="images/keysDk.svg" alt="outlines of keys on keyboard" class="projPic preferLight paddingSm">
     </a>
   </article>
 
   <article class="card fun">
-    <a href="random.html" class="dispBlock paddingSmB">
+    <a href="random.html" class="dispBlock paddingSmB bgCover darkLink">
       <h1 class="padText">fun</h1>
-      <p class="padText"></p>
-      <img src="" alt="" class="projPic preferDark">
-      <img src="" alt="" class="projPic preferLight">
     </a>
   </article>
 

@@ -267,8 +267,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
     "proj03"
     /* "proj02" */
     "proj01"
-    /* "writ" */
-    "illust";
+    "writ"
+    "illust"
+    "fun";
 }
 
 @media screen and (max-width: 799px) {
@@ -285,7 +286,8 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      background-repeat: repeat-y;
      padding-bottom: calc(var(--mainGap) * 2);
      margin-bottom: calc(0px - var(--mainGap));
-     grid-gap: 1rem;
+     gap: 1rem;
+     grid-gap: 1rem; /* fallback for gap */
      grid-template-columns: repeat(3, 1fr);
      grid-template-rows: repeat(2, auto);
      grid-template-areas:
@@ -294,7 +296,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       ". . illust"
       ". proj03 ."
       ". proj03 ."
-      "proj01 . .";
+      "proj01 . writ"
+      "proj01 . ."
+      ". fun .";
    }
 }
 
@@ -387,9 +391,20 @@ a.darkLink {
   color: hsla(0, 100%, 0%, 0.9);
 }
 
-/* .writing {
+.writing {
   grid-area: writ;
-} */
+}
+
+.fun {
+  grid-area: fun;
+  background-image: url(/images/qwho.jpg); /* if replacing, choose a light image or adjust a.darklink below */
+  background-position: bottom left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 800px; /* width of selected image */
+  max-height: 60vh;
+  min-height: max(200px, 60vh); /* what looks good for selected image */
+}
 
 
 /* for footer */
@@ -753,6 +768,10 @@ figcaption, .medEmphTxt {
 
 .lessLeading {
   line-height: .5;
+}
+
+.leadingSm {
+  line-height: 0.75;
 }
 
 .selfPortrait {
