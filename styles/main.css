@@ -149,20 +149,12 @@ a { /* set links to primary color for light or dark mode  */
   display: flex;
   flex-wrap: wrap; /* fallback in case there's a problem putting the links in a column in the media query below */
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
 }
 
-@media screen and (max-width: 640px) { /* places nav links in a right justified column so they fit on screen */
-  .navbar {
-    align-items: flex-start;
-  }
 
-  .brand {
-    align-items: flex-start;
-  }
-
+/* places nav links in a right justified column so they fit on screen */
+@media screen and (max-width: 640px) {
   .navUl {
     align-items: flex-end;
     flex-direction: column;
@@ -174,7 +166,8 @@ a { /* set links to primary color for light or dark mode  */
   }
 }
 
-@media print { /* hides header and footer navigation lists in print */
+/* hides header and footer navigation lists in print */
+@media print {
   .navUl {
     display: none;
   }
@@ -189,9 +182,9 @@ a { /* set links to primary color for light or dark mode  */
   font-size: var(--headFootText);
 }
 
+/* Place nav text close to being aligned to top margin and logo's top */
 @media and screen (min-width: 751px) {
-  .navText {
-    line-height: 1;
+  .navText, .navUl {
     margin-top: 0;
     padding-top: 0;
   }
@@ -936,4 +929,8 @@ figcaption, .medEmphTxt {
   .condGridOneTwo {
     grid-template-columns: 1fr 2fr;
   }
+}
+
+.paddingSm {
+  padding: .5rem;
 }
