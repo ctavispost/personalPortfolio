@@ -60,14 +60,14 @@ layout: default
   </article>
 
   <article class="card fun">
-    <a href="random.html" class="dispBlock paddingSmB bgCover darkLink imageLink">
-      <h1 class="padText">fun</h1>
+    <a href="random.html" class="paddingSmB bgCover darkLink imageLink writeWhite">
+      <h1 class="padText">random fun</h1>
     </a>
   </article>
 
   <article class="card illustration">
-    <a href="illustration.html" class="bgCover darkLink imageLink writeVert writeWhite">
-      <h1>art</h1>
+    <a href="illustration.html" class="bgCover darkLink imageLink writeVert">
+      <h1>illustration</h1>
     </a>
   </article>
 </section> <!-- end showcase for cards -->

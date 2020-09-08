@@ -17,7 +17,7 @@ html {
   --textScale: 1.414; /* scale text at powers of 1.414 */
   --paddText: 20px; /* padding for text in cards */
 
-  --whiteMd: hsla(0, 0%, 100%, .87); /* var for high emph text in white, can be used even in light theme */
+  --whiteMd: hsla(0, 0%, 100%, .87); /* var for high emph text in white */
 
   /* set default color variables for dark theme */
   --textHighEmph: var(--whiteMd); /* Material dark theme high emphasis text */
@@ -291,7 +291,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      gap: 1rem;
      grid-gap: 1rem; /* fallback for gap */
      grid-template-columns: repeat(3, 1fr);
-     grid-template-rows: repeat(2, minmax(1rem, 95vh));
+     grid-template-rows: repeat(2, auto);
      grid-template-areas:
       "proj04 . ."
       "proj04 . illust"
@@ -409,7 +409,7 @@ a.darkLink {
   background-repeat: no-repeat;
   max-width: 800px; /* width of selected image */
   max-height: 60vh;
-  min-height: max(200px, 60vh); /* what looks good for selected image */
+  min-height: 300px; /* what looks good for selected image */
 }
 
 .writeWhite {
