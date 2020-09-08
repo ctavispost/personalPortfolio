@@ -60,8 +60,8 @@ layout: default
   </article>
 
   <article class="card fun">
-    <a href="random.html" class="paddingSmB bgCover darkLink imageLink writeWhite">
-      <h1 class="padText">random fun</h1>
+    <a href="random.html" class="bgCover darkLink imageLink writeWhite">
+      <h1>random fun</h1>
     </a>
   </article>
 

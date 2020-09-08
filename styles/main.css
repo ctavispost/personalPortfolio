@@ -291,7 +291,6 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      gap: 1rem;
      grid-gap: 1rem; /* fallback for gap */
      grid-template-columns: repeat(3, 1fr);
-     grid-template-rows: repeat(2, auto);
      grid-template-areas:
       "proj04 . ."
       "proj04 . illust"
@@ -407,9 +406,9 @@ a.darkLink {
   background-position: bottom left;
   background-size: cover;
   background-repeat: no-repeat;
-  max-width: 800px; /* width of selected image */
+  max-width: 800px; /* expand up to larger breakpoints */
   max-height: 60vh;
-  min-height: 300px; /* what looks good for selected image */
+  min-height: 200px; /* what looks good for selected image */
 }
 
 .writeWhite {
