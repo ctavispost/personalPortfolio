@@ -376,8 +376,6 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   max-width: 800px; /* expand up to larger breakpoints */
   max-height: 60vh;
   min-height: 200px; /* what looks good for selected image */
-  padding-bottom: max(220px, 25vh);
-  padding-top: var(--padText);
 }
 
 .bgCover { /* set a background color overlay for cards with an image */
@@ -408,6 +406,10 @@ a.darkLink {
 
 .writing {
   grid-area: writ;
+}
+
+.padBotLg {
+  padding-bottom: max(220px, 25vh);
 }
 
 /* for footer */

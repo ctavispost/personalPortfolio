@@ -60,7 +60,7 @@ layout: default
   </article>
 
   <article class="card fun">
-    <a href="random.html" class="bgCover imageLink marginTopZero">
+    <a href="random.html" class="bgCover imageLink marginTopZero padBotLg">
       <h1 class="padText leadingOne">random fun</h1>
     </a>
   </article>
