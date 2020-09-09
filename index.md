@@ -54,8 +54,8 @@ layout: default
   <article class="card writing">
     <a href="writing.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">writing</h1>
-      <img src="images/keysLt.svg" alt="outlines of keys on keyboard" class="projPic preferDark paddingSm">
-      <img src="images/keysDk.svg" alt="outlines of keys on keyboard" class="projPic preferLight paddingSm">
+      <img src="images/boardDk.svg" alt="outlines of keys on keyboard" class="projPic preferDark paddingSm">
+      <img src="images/boardLt.svg" alt="outlines of keys on keyboard" class="projPic preferLight paddingSm">
     </a>
   </article>
 
