@@ -295,12 +295,12 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       "proj04 . ."
       "proj04 . illust"
       ". . illust"
-      ". proj03 ."
-      ". proj03 ."
-      "proj01 . ."
-      "proj01 . writ"
-      ". . ."
-      ". fun .";
+      ". writ ."
+      "proj03 . ."
+      "proj03 fun ."
+      ". fun ."
+      ". . proj01"
+      ". . proj01";
    }
 }
 
@@ -329,7 +329,7 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   padding-bottom: var(--paddText);
 }
 
-.project01 { /* should be larger than other projects */
+.project01 {
     grid-area: proj01;
 }
 
