@@ -347,10 +347,6 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   grid-area: proj02;
 }
 
-.unfinished {
-  display: none;
-}
-
 .project03 {
   grid-area: proj03;
 }
@@ -368,6 +364,17 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   max-width: 800px; /* width of selected image */
   max-height: 60vh;
   min-height: 300px; /* what looks good for selected image */
+}
+
+.fun {
+  grid-area: fun;
+  background-image: url(/images/qwho.jpg); /* if replacing, choose a light image or adjust a.darklink below */
+  background-position: bottom left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 800px; /* expand up to larger breakpoints */
+  max-height: 60vh;
+  min-height: 200px; /* what looks good for selected image */
 }
 
 .bgCover { /* set a background color overlay for cards with an image */
@@ -399,22 +406,6 @@ a.darkLink {
 .writing {
   grid-area: writ;
 }
-
-.fun {
-  grid-area: fun;
-  background-image: url(/images/qwho.jpg); /* if replacing, choose a light image or adjust a.darklink below */
-  background-position: bottom left;
-  background-size: cover;
-  background-repeat: no-repeat;
-  max-width: 800px; /* expand up to larger breakpoints */
-  max-height: 60vh;
-  min-height: 200px; /* what looks good for selected image */
-}
-
-.writeWhite {
-  color: var(--whiteMd);
-}
-
 
 /* for footer */
 .foot {
@@ -781,6 +772,10 @@ figcaption, .medEmphTxt {
 
 .leadingSm {
   line-height: 0.75;
+}
+
+.leadingOne {
+  line-height: 1;
 }
 
 .selfPortrait {
