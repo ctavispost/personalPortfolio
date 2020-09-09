@@ -61,7 +61,7 @@ layout: default
 
   <article class="card fun">
     <a href="random.html" class="bgCover imageLink marginTopZero padBotLg padText">
-      <h1 class="leadingOne">random fun</h1>
+      <h1 class="leadingOne marginTopZero">random fun</h1>
     </a>
   </article>
 

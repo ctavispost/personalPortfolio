@@ -296,11 +296,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       "proj04 . illust"
       ". . illust"
       ". writ ."
-      "proj03 . ."
-      "proj03 fun ."
-      ". fun ."
-      ". . proj01"
-      ". . proj01";
+      "fun . ."
+      ". . proj03"
+      ". proj01 .";
    }
 }
 
