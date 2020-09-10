@@ -12,33 +12,23 @@ layout: default
   </article>
 
   <article class="medBreak">
-    <h3>Showing and packaging information</h3>
+    <h3>Packaging and showing information</h3>
     <div class="">
       <section class="centerGrid gridGapOne">
         <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
       </section>
 
-      <section class="grid">
-        <h3>Showing and packaging information</h3>
-        <p>FindTheMasks powers over a dozen sites with its information and maps, helping people with extra personal protective gear donate to local hospitals.</p>
+      <section>
+        <p>Findthemasks helps people who want to donate personal protective equipment (PPE) find local health organizations who need it.</p>
+        <ul>
+          <li><a href="docs/ftmHome.pdf">Home</a></li>
+          <li><a href="docs/ftmFaq.pdf">FAQ</a></li>
+          <li><a href="docs/ftmAbout.pdf">About</a></li>
+        </ul>
 
-        <section class="flexy flexCol">
-          <a href="docs/ftmHome.pdf">Home</a>
-          <a href="docs/ftmFaq.pdf">FAQ</a>
-          <a href="docs/ftmAbout.pdf">About</a>
-        </section>
-
-        <section class="flexy flexCol">
-          <p><span class="embold">role:</span> UX Designer </p>
-          <p><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
-          <p><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
-        </section>
-
-        <section class="flexy flexCol">
-          <a href="docs/ftmHome.pdf">Home</a>
-          <a href="docs/ftmFaq.pdf">FAQ</a>
-          <a href="docs/ftmAbout.pdf">About</a>
-        </section>
+        <p class="margBottZero"><span class="embold">role:</span> UX Designer </p>
+        <p class="margBottZero"><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
+        <p class="margBottZero"><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
       </section>
     </div>
   </article>
@@ -46,57 +36,60 @@ layout: default
     <section class="grid medBreak">
       <h3>Onboarding</h3>
 
-      <section class="centerGrid gridGapOne">
-        <p>New users sign up and are given a walkthrough of jot &amp;.</p>
-        <img class="centerImg photoMedResp" src="images/writing/jotOnboard.png">
+      <section class="flexy flexCol">
+        <p>New users sign up and are given a walkthrough of jot &amp;'s mobile app. See all the onboarding screens <a href="docs/jotOnboard.pdf">here</a>.</p>
+        <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
+        <p class="margBottZero"><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
+        <p class="margBottZero"><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
       </section>
 
-      <p><a href="docs/jotOnboard.pdf">jot &amp; pdf</a></p>
-
-      <section class="flexy flexCol">
-        <p><span class="embold">role:</span> UX Designer</p>
-        <p><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
-        <p><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
+      <section class="centerGrid gridGapOne">
+        <img class="centerImg photoMedResp" src="images/writing/jotOnboard.png">
       </section>
     </section>
 
     <section class="grid medBreak">
       <h3>Landing pages</h3>
 
+      <section class="gridSelfJustCenter">
+        <img class="centerImg photoMedResp" src="images/writing/dautlezLand.jpg">
+      </section>
+
       <section class="centerGrid gridGapOne">
-        <p>Showing the services offered at <span class="embold">jot &amp;</span> and <span class="embold">Dauntlez.org</span>.</p>
-        <section class="gridSelfJustCenter">
-          <img class="centerImg photoMedResp" src="images/writing/dautlezLand.jpg">
+        <p>Drawing people in and showing what is offered:</p>
+        <ul>
+          <li><span class="embold">jot &amp;</span>'s <a href="docs/jotLanding.pdf">landing page</a></li>
+          <li><span class="embold">Dauntlez.org</span>'s <a href="docs/dauntlezLand.pdf">homepage</a></li>
+        </ul>
+
+        <section>
+          <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
+          <p class="margBottZero"><span class="embold">deliverables:</span> research, writing, illustration, iconography, layout, information architecture, content strategy</p>
+          <p class="margBottZero"><span class="embold">tools:</span> Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</p>
         </section>
       </section>
 
-      <section class="flexy flexCol">
-        <a href="docs/jotLanding.pdf">jot &amp; pdf</a>
-        <a href="docs/dauntlezLand.pdf">Dauntlez pdf</a>
-      </section>
-
-      <section>
-        <p><span class="embold">role:</span> UX Designer</p>
-        <p><span class="embold">deliverables:</span> research, writing, illustration, iconography, layout, information architecture, content strategy</p>
-        <p><span class="embold">tools:</span> Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</p>
-      </section>
     </section>
 
     <section class="grid medBreak">
       <h3>Surveys</h3>
 
       <section class="centerGrid gridGapOne">
-        <p>Gathering information to define problems and solutions.</p>
-        <img class="centerImg photoMedResp" src="images/writing/survey.jpg">
+        <p>Gathering information to define problems and solutions by asking the right questions:</p>
+        <ul>
+          <li><a href="docs/pnSurvey.pdf">ParentNeeds2020</a></li>
+          <li><a href="docs/cloudSurvey.pdf">jot &amp;</a></li>
+        </ul>
+
+        <section class="flexy flexCol">
+          <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
+          <p class="margBottZero"><span class="embold">deliverables:</span> survey, results, interviews, analysis</p>
+          <p class="margBottZero"><span class="embold">tools:</span> Google forms, Reddit, Facebook, email, Slack, Zoom</p>
+        </section>
       </section>
 
-      <a href="docs/pnSurvey.pdf">ParentNeeds2020</a>
-      <a href="docs/cloudSurvey.pdf">on cloud use</a>
-
-      <section class="flexy flexCol">
-        <p><span class="embold">role:</span> UX Designer</p>
-        <p><span class="embold">deliverables:</span> survey</p>
-        <p><span class="embold">tools:</span> Google forms, Reddit, Facebook, email, Slack, Zoom</p>
+      <section>
+        <img class="centerImg photoMedResp" src="images/writing/survey.jpg" alt="a survey on parents' needs">
       </section>
     </section>
 
@@ -109,13 +102,15 @@ layout: default
       <a href="docs/"></a>
       <a href="docs/"></a>
       <a href="docs/"></a>
+      <section  class="flexy flexCol">
+        <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
+        <p class="margBottZero"><span class="embold">deliverables:</span> </p>
+        <p class="margBottZero"><span class="embold">tools:</span> </p>
+      </section>
     </section>
 
-    <section  class="flexy flexCol">
-      <p><span class="embold">role:</span> UX Designer</p>
-      <p><span class="embold">deliverables:</span> </p>
-      <p><span class="embold">tools:</span> </p>
-    </section>
+    <section>
+      <img src="" alt="">
     </section>
 -->
   </article>
