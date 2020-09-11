@@ -8,18 +8,20 @@ layout: default
 
     <p>As a society, I believe we should strive for better and more inclusive services. We should see content, design, and development as partners with a shared mission. We should provide users with clarity and focus while increasing their control, flexibility, and access. And we should treat those users as people deserving of meaningful compassion.</p>
 
-    <p>If you share similar thoughts, I would love to work with you towards these goals. <a href="mailto:ctavispost@gmail.com">Send me a note</a> and let's connect!</p>
+    <p>As you'll see below, I set out to achieve this in all my writing.</p>
+
+    <p>If you share similar feelings, I would love to work with you towards these goals. <a href="mailto:ctavispost@gmail.com">Send me a note</a> and let's connect!</p>
   </article>
 
   <article class="medBreak">
     <h3>Packaging and showing information</h3>
-    <div class="">
+    <div class="grid condGridTwoOne gridGapOne">
       <section class="centerGrid gridGapOne">
         <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
       </section>
 
       <section>
-        <p>Findthemasks helps people who want to donate personal protective equipment (PPE) find local health organizations who need it.</p>
+        <p>Findthemasks helps people with extra personal protective equipment (PPE) find local health organizations who need it.</p>
         <ul>
           <li><a href="docs/ftmHome.pdf">Home</a></li>
           <li><a href="docs/ftmFaq.pdf">FAQ</a></li>
@@ -33,29 +35,32 @@ layout: default
     </div>
   </article>
 
-    <section class="grid medBreak">
-      <h3>Onboarding</h3>
+  <article class="grid centerGrid medBreak">
+    <h3>Onboarding</h3>
 
-      <section class="flexy flexCol">
+    <div class="grid gridGapOne">
+      <section>
+        <img class="centerImg photoMedResp" src="images/writing/jotOnboard.png">
+      </section>
+
+      <section>
         <p>New users sign up and are given a walkthrough of jot &amp;'s mobile app. See all the onboarding screens <a href="docs/jotOnboard.pdf">here</a>.</p>
         <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
         <p class="margBottZero"><span class="embold">deliverables:</span> interaction design, writing, user testing</p>
         <p class="margBottZero"><span class="embold">tools:</span> Figma, pen and paper, interviews and user tests</p>
       </section>
+    </div>
+  </article>
 
-      <section class="centerGrid gridGapOne">
-        <img class="centerImg photoMedResp" src="images/writing/jotOnboard.png">
-      </section>
-    </section>
+  <article class="grid centergrid medBreak">
+    <h3>Landing pages</h3>
 
-    <section class="grid medBreak">
-      <h3>Landing pages</h3>
-
+    <div class="grid gridGapOne condGridOneOne">
       <section class="gridSelfJustCenter">
         <img class="centerImg photoMedResp" src="images/writing/dautlezLand.jpg">
       </section>
 
-      <section class="centerGrid gridGapOne">
+      <section>
         <p>Drawing people in and showing what is offered:</p>
         <ul>
           <li><span class="embold">jot &amp;</span>'s <a href="docs/jotLanding.pdf">landing page</a></li>
@@ -68,13 +73,14 @@ layout: default
           <p class="margBottZero"><span class="embold">tools:</span> Figma, Trello, Google Docs suite, Excel, Illustrator, WordPress, Autodesk Sketchbook, HTML, CSS, Zoom, pen and paper, whiteboard and markers</p>
         </section>
       </section>
+    </div>
+  </article>
 
-    </section>
+  <article class="grid centerGrid medBreak">
+    <h3>Surveys</h3>
 
-    <section class="grid medBreak">
-      <h3>Surveys</h3>
-
-      <section class="centerGrid gridGapOne">
+    <div class="grid gridGapOne condGridTwoOne">
+      <section>
         <p>Gathering information to define problems and solutions by asking the right questions:</p>
         <ul>
           <li><a href="docs/pnSurvey.pdf">ParentNeeds2020</a></li>
@@ -91,7 +97,8 @@ layout: default
       <section>
         <img class="centerImg photoMedResp" src="images/writing/survey.jpg" alt="a survey on parents' needs">
       </section>
-    </section>
+    </div>
+  </article>
 
 <!--
   <section class="centerGrid medBreak">
@@ -113,5 +120,4 @@ layout: default
       <img src="" alt="">
     </section>
 -->
-  </article>
 </article>
