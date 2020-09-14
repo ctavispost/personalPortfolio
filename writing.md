@@ -16,10 +16,6 @@ layout: default
   <article class="medBreak">
     <h3>Packaging and showing information</h3>
     <div class="grid condGridTwoOne gridGapOne">
-      <section class="centerGrid gridGapOne">
-        <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
-      </section>
-
       <section>
         <p>Findthemasks helps people with extra personal protective equipment (PPE) find local health organizations who need it.</p>
         <ul>
@@ -31,6 +27,10 @@ layout: default
         <p class="margBottZero"><span class="embold">role:</span> UX Designer </p>
         <p class="margBottZero"><span class="embold">deliverables:</span> information architecture, writing, editing, iconography, testing</p>
         <p class="margBottZero"><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
+      </section>
+
+      <section class="centerGrid gridGapOne">
+        <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
       </section>
     </div>
   </article>
@@ -55,7 +55,7 @@ layout: default
   <article class="grid centergrid medBreak">
     <h3>Landing pages</h3>
 
-    <div class="grid gridGapOne condGridOneOne">
+    <div class="grid gridGapOne condGridOneTwo">
       <section class="gridSelfJustCenter">
         <img class="centerImg photoMedResp" src="images/writing/dautlezLand.jpg">
       </section>
