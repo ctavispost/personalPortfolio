@@ -130,7 +130,7 @@ layout: default
 
     <section class="grid gridGapOne">
       <section>
-        <img src="images/writing/pexels-ketut-subiyanto-4559555.jpg" alt="folders and notes next to a laptop" <!--cite="https://docs.google.com/document/d/1HgViwIEgB70t-5nhOErMvRskMoC-aQfqty4rWqXPpx4/edit?usp=sharing-->">
+        <img src="images/writing/pexels-ketut-subiyanto-4559555.jpg" alt="folders and notes next to a laptop">
       </section>
 
       <section>
