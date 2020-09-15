@@ -2,7 +2,7 @@
 title: content
 layout: default
 ---
-<article class="aboutContainer contMaxwidth centerGrid">
+<article class="aboutContainer contMaxwidth grid centerGrid">
   <article>
     <p>I am passionate about service devoted to strong content and communication.</p>
 
@@ -11,6 +11,21 @@ layout: default
     <p>As you'll see below, I set out to achieve this in all my writing.</p>
 
     <p>If you share similar feelings, I would love to work with you towards these goals. <a href="mailto:ctavispost@gmail.com">Send me a note</a> and let's connect!</p>
+  </article>
+
+  <article class="medBreak">
+    <h3>What people say</h3>
+    <div class="grid gridGapOne">
+    <section class="grid centerGrid">
+      <img src="thankyou.jpg" class="centerImg photoMedResp smallestBreak" alt="a thank you letter">
+    </section>
+    <section>
+      <blockquote>Thank you for your powerful and attractive writing.</blockquote>
+      <blockquote></blockquote>
+      <blockquote></blockquote>
+      <!-- add quotes from Emma and Robin with small photographs -->
+    </section>
+    </div>
   </article>
 
   <article class="medBreak">
@@ -29,8 +44,8 @@ layout: default
         <p class="margBottZero"><span class="embold">tools:</span> Github, Slack, HTML, CSS, Bootstrap, Firebase, Google Docs, Google Analytics, Illustrator, whiteboard and markers</p>
       </section>
 
-      <section class="centerGrid gridGapOne">
-        <img class="centerImg photoMedResp" src="images/writing/ftmHome.jpg">
+      <section class="grid centerGrid">
+        <img class="centerImg photoMedResp smallestBreak" src="images/writing/ftmHome.jpg">
       </section>
     </div>
   </article>
@@ -39,7 +54,7 @@ layout: default
     <h3>Onboarding</h3>
 
     <div class="grid gridGapOne">
-      <section>
+      <section class="grid centerGrid">
         <img class="centerImg photoMedResp" src="images/writing/jotOnboard.png">
       </section>
 
@@ -53,11 +68,11 @@ layout: default
   </article>
 
   <article class="grid centergrid medBreak">
-    <h3>Landing pages</h3>
+    <h3>Crafting landing pages</h3>
 
     <div class="grid gridGapOne condGridOneTwo">
-      <section class="gridSelfJustCenter">
-        <img class="centerImg photoMedResp" src="images/writing/dautlezLand.jpg">
+      <section class="grid centerGrid gridSelfJustCenter">
+        <img class="centerImg photoMedResp smallestBreak" src="images/writing/dautlezLand.jpg">
       </section>
 
       <section>
@@ -94,30 +109,34 @@ layout: default
         </section>
       </section>
 
-      <section>
-        <img class="centerImg photoMedResp" src="images/writing/survey.jpg" alt="a survey on parents' needs">
+      <section class="grid centerGrid">
+        <img class="centerImg photoMedResp smallestBreak" src="images/writing/survey.jpg" alt="a survey on parents' needs">
       </section>
     </div>
   </article>
 
-<!--
-  <section class="centerGrid medBreak">
+  <article class="centerGrid medBreak">
     <h3>Reports and analysis</h3>
+
     <section class="grid gridGapOne">
-      <p>Reccommendations based upon evidence.</p>
-      <img class="centerImg photoMedResp" src="images/writing/">
-      <a href="docs/"></a>
-      <a href="docs/"></a>
-      <a href="docs/"></a>
-      <section  class="flexy flexCol">
-        <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
-        <p class="margBottZero"><span class="embold">deliverables:</span> </p>
-        <p class="margBottZero"><span class="embold">tools:</span> </p>
+      <section>
+        <img src="images/writing/pexels-ketut-subiyanto-4559555.jpg" alt="folders and notes next to a laptop" cite="https://docs.google.com/document/d/1HgViwIEgB70t-5nhOErMvRskMoC-aQfqty4rWqXPpx4/edit?usp=sharing">
+      </section>
+
+      <section>
+        <p>Reccommendations and plans to solve problems based on evidence.</p>
+
+        <a href="https://docs.google.com/document/d/1IHJvq1w5f7r7YySX0X0GNedk00ECIwRaf9I908ixWHM/edit?usp=sharing">jot &: cloud survey report</a>
+
+        <a href="https://docs.google.com/document/d/1HgViwIEgB70t-5nhOErMvRskMoC-aQfqty4rWqXPpx4/edit?usp=sharing">jot &: competitive analysis</a>
+        <a href="docs/"></a>
+
+        <section  class="flexy flexCol">
+          <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
+          <p class="margBottZero"><span class="embold">deliverables:</span> finished analysis and reports</p>
+          <p class="margBottZero"><span class="embold">tools:</span> Google Docs suite, Microsoft Office, interviews</p>
+        </section>
       </section>
     </section>
-
-    <section>
-      <img src="" alt="">
-    </section>
--->
+  </article>
 </article>
