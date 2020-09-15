@@ -15,16 +15,26 @@ layout: default
 
   <article class="medBreak">
     <h3>What people say</h3>
+
     <div class="grid gridGapOne">
-    <section class="grid centerGrid">
-      <img src="thankyou.jpg" class="centerImg photoMedResp smallestBreak" alt="a thank you letter">
-    </section>
-    <section>
-      <blockquote>Thank you for your powerful and attractive writing.</blockquote>
-      <blockquote></blockquote>
-      <blockquote></blockquote>
-      <!-- add quotes from Emma and Robin with small photographs -->
-    </section>
+      <section class="grid centerGrid">
+        <img src="thankyou.jpg" class="centerImg photoMedResp smallestBreak" alt="a thank you letter">
+      </section>
+
+      <section>
+        <blockquote>
+          <p>Thank you for your powerful and attractive writing.</p>
+        </blockquote>
+        <!--
+        <blockquote>
+          <p>Tavis' editing and narrative skills are incisive and fascile.</p>
+        </blockquote>
+
+        <blockquote>
+          <p>Your help with my resume unblocked my job search!</p>
+        </blockquote>
+        <!-- add quotes from Emma and Robin with small photographs -->
+      </section>
     </div>
   </article>
 
