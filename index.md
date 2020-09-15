@@ -6,7 +6,7 @@ layout: default
 <header class="intro"> <!-- introduction -->
   <div class="introContainer">
     <h1 class="introHead display">Hi!</h1>
-    <p class="introText">I'm Tavis,<sup>&#42;</sup> a thoughtful, inclusive dev in Seattle. With a background in UX, writing, illustration, and customer service, I work across disciplines to clarify and solve problems to help people.</p>
+    <p class="introText">I'm Tavis,<sup class="medEmphTxt">&#42;</sup> a thoughtful, inclusive dev in Seattle. With a background in UX, writing, illustration, and customer service, I work across disciplines to clarify and solve problems to help people.</p>
     <p class="aboutContainer"><sup>&#42;</sup>like 'Travis', but without an 'r' ;)</p>
   </div>
 </header>
@@ -17,8 +17,8 @@ layout: default
       <h1 class="padText leadingOne marginTopZero">find the masks</h1>
       <p class="padText">how, what, and where to donate gear to hospitals</p>
       <div class="projContainer padText"> <!-- center images in grid and add padding to sides -->
-        <img src="images/ftm-logo-dk-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferDark">
-        <img src="images/ftm-logo-lt-share.svg" alt="a shining mask above an outstreched hand" class="projPic preferLight">
+        <img src="images/ftm-logo-dk-share.svg" alt="a shining mask above outstreched hands" class="projPic preferDark">
+        <img src="images/ftm-logo-lt-share.svg" alt="a shining mask above outstreched hands" class="projPic preferLight">
       </div>
     </a>
   </article>
@@ -55,8 +55,8 @@ layout: default
   <article class="card writing">
     <a href="writing.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">writing</h1>
-      <img src="images/boardDk.svg" alt="outlines of keys on keyboard" class="projPic preferDark paddingSm">
-      <img src="images/boardLt.svg" alt="outlines of keys on keyboard" class="projPic preferLight paddingSm">
+      <img src="images/boardDk.svg" alt="keyboard key outlines with letters w r t i g and n shown" class="projPic preferDark paddingSm">
+      <img src="images/boardLt.svg" alt="keyboard key outlines with letters w r t i g and n shown" class="projPic preferLight paddingSm">
     </a>
   </article>
 
