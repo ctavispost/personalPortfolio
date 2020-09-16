@@ -7,7 +7,7 @@ layout: default
   <div class="introContainer">
     <h1 class="introHead display">Hi!</h1>
     <p class="introText">I'm Tavis,<sup class="medEmphTxt">&#42;</sup> a thoughtful, inclusive dev in Seattle. With a background in UX, writing, illustration, and customer service, I work across disciplines to clarify and solve problems to help people.</p>
-    <p class="aboutContainer"><sup>&#42;</sup>like 'Travis', but without an 'r' ;)</p>
+    <p class="aboutContainer"><sup>&#42;</sup>like 'Travis', but without the 'r' ;)</p>
   </div>
 </header>
 
