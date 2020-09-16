@@ -134,12 +134,17 @@ layout: default
       </section>
 
       <section>
-        <p>Reccommendations and plans to solve problems based on evidence.</p>
+        <p>Reccommendations and plans to solve problems based on evidence:</p>
 
-        <a href="https://docs.google.com/document/d/1IHJvq1w5f7r7YySX0X0GNedk00ECIwRaf9I908ixWHM/edit?usp=sharing">jot &: cloud survey report</a>
+        <ul>
+          <li>
+            <a href="https://docs.google.com/document/d/1IHJvq1w5f7r7YySX0X0GNedk00ECIwRaf9I908ixWHM/edit?usp=sharing">jot &: cloud survey report</a>
+          </li>
 
-        <a href="https://docs.google.com/document/d/1HgViwIEgB70t-5nhOErMvRskMoC-aQfqty4rWqXPpx4/edit?usp=sharing">jot &: competitive analysis</a>
-        <a href="docs/"></a>
+          <li>
+            <a href="https://docs.google.com/document/d/1HgViwIEgB70t-5nhOErMvRskMoC-aQfqty4rWqXPpx4/edit?usp=sharing">jot &: competitive analysis</a>
+          </li>
+        </ul>
 
         <section  class="flexy flexCol">
           <p class="margBottZero"><span class="embold">role:</span> UX Designer</p>
