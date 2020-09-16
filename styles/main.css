@@ -266,12 +266,12 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   overflow: visible;
   grid-template-areas:
     "proj04"
-    "proj03"
-    /* "proj02" */
-    "proj01"
     "writ"
     "illust"
-    "fun";
+    "fun"
+    "proj03"
+    /* "proj02" */
+    "proj01";
 }
 
 @media screen and (max-width: 799px) {
@@ -300,13 +300,14 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
       ". . proj03"
       ". proj01 .";
    }
+
+   @media screen and (prefers-color-scheme: light) {
+     .studies {
+       background-image: url(/images/patternLt.svg);
+     }
+   }
 }
 
-@media screen and (min-width: 800) and (prefers-color-scheme: light) {
-  .studies {
-    background-image: url(/images/patternLt.svg);
-  }
-}
 
 .card {
   background-color: var(--oneDpBg);
