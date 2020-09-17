@@ -991,3 +991,7 @@ blockquote:before { /* places quotation mark */
 blockquote p { /* keeps paragraphs from dropping below quotes */
   display: inline;
 }
+
+.txtHiEmph {
+  color: var(--textHighEmph);
+}

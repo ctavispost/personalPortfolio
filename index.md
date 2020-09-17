@@ -15,7 +15,7 @@ layout: default
   <article class="card project04">
     <a href="project04.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">find the masks</h1>
-      <p class="padText">how, what, and where to donate gear to hospitals</p>
+      <p class="padText textHighEmph">how, what, and where to donate gear to hospitals</p>
       <div class="projContainer padText"> <!-- center images in grid and add padding to sides -->
         <img src="images/ftm-logo-dk-share.svg" alt="a shining mask above outstreched hands" class="projPic preferDark">
         <img src="images/ftm-logo-lt-share.svg" alt="a shining mask above outstreched hands" class="projPic preferLight">
@@ -26,7 +26,7 @@ layout: default
   <article class="card project03">
     <a href="project03.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">Dauntlez</h1>
-      <p class="padText">self-defense workshop site</p>
+      <p class="padText textHighEmph">self-defense workshop site</p>
       <img src="images/dauntDark.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferDark">
       <img src="images/dauntLight.png" alt="shield decorated with an amazon carrying a spear" class="projPic preferLight">
     </a>
@@ -35,7 +35,7 @@ layout: default
   <article class="card project01">
     <a href="project01.html" class="dispBlock">
       <h1 class="padText leadingOne marginTopZero">jot &</h1>
-      <p class="padText">web storage & notebook</p>
+      <p class="padText textHighEmph">web storage & notebook</p>
       <img src="images/netWalk.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferDark">
       <img src="images/netwalkLight.png" alt="person with phone, walking toward a cloud or tree as a circuitboard spreading into the ground" class="projPic preferLight">
     </a>
@@ -45,7 +45,7 @@ layout: default
   <article class="card project02">
     <a href="project02.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">bus_hop</h1>
-      <p class="padText">mobile transit app</p>
+      <p class="padText textHighEmph">mobile transit app</p>
       <img src="" alt="" class="projPic preferDark">
       <img src="" alt="" class="projPic preferLight">
     </a>
