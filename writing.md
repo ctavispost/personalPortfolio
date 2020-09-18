@@ -13,7 +13,7 @@ layout: default
     <p>If you share similar feelings, I would love to work with you towards these goals. <a href="mailto:ctavispost@gmail.com">Send me a note</a> and let's connect!</p>
   </article>
 
-  <article class="medBreak">
+  <article class="medBreak centerGrid">
     <h3>What people say</h3>
 
     <div class="grid gridGapOne grid2Col">
@@ -25,7 +25,7 @@ layout: default
         <blockquote>
           <p>Thank you for your powerful and attractive writing.</p>
         </blockquote>
-        
+
         <!--
         <blockquote>
           <p>Tavis' editing and narrative skills are incisive and fascile.</p>
@@ -39,7 +39,7 @@ layout: default
     </div>
   </article>
 
-  <article class="medBreak">
+  <article class="medBreak centerGrid">
     <h3>Packaging and showing information</h3>
     <div class="grid condGridTwoOne gridGapOne">
       <section>
@@ -129,13 +129,13 @@ layout: default
   <article class="centerGrid medBreak">
     <h3>Reports and analysis</h3>
 
-    <section class="grid gridGapOne">
+    <section class="grid gridGapOne condGridOneTwo">
       <section>
         <img src="images/writing/pexels-ketut-subiyanto-4559555.jpg" alt="folders and notes next to a laptop">
       </section>
 
       <section>
-        <p>Reccommendations and plans to solve problems based on evidence:</p>
+        <p>Recommendations and plans to solve problems based on evidence:</p>
 
         <ul>
           <li>
