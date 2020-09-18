@@ -16,7 +16,7 @@ layout: default
   <article class="medBreak">
     <h3>What people say</h3>
 
-    <div class="grid gridGapOne">
+    <div class="grid gridGapOne grid2Col">
       <section class="grid centerGrid">
         <img src="images/writing/thankyou.jpg" class="centerImg photoMedResp smallestBreak" alt="a thank you letter">
       </section>
@@ -25,6 +25,7 @@ layout: default
         <blockquote>
           <p>Thank you for your powerful and attractive writing.</p>
         </blockquote>
+        
         <!--
         <blockquote>
           <p>Tavis' editing and narrative skills are incisive and fascile.</p>
