@@ -3,7 +3,7 @@ title: content
 layout: default
 ---
 <article class="aboutContainer contMaxwidth grid centerGrid">
-  <article>
+  <article class="centerGrid">
     <p>I am passionate about service devoted to strong content and communication.</p>
 
     <p>As a society, I believe we should strive for better and more inclusive services. We should see content, design, and development as partners with a shared mission. We should provide users with clarity and focus while increasing their control, flexibility, and access. And we should treat those users as people deserving of meaningful compassion.</p>
@@ -16,7 +16,7 @@ layout: default
   <article class="medBreak centerGrid">
     <h3>What people say</h3>
 
-    <div class="grid gridGapOne grid2Col">
+    <div class="grid gridGapOne condGridOneTwo">
       <section class="grid centerGrid">
         <img src="images/writing/thankyou.jpg" class="centerImg photoMedResp smallestBreak" alt="a thank you letter">
       </section>
@@ -131,7 +131,7 @@ layout: default
 
     <section class="grid gridGapOne condGridOneTwo">
       <section>
-        <img src="images/writing/pexels-ketut-subiyanto-4559555.jpg" alt="folders and notes next to a laptop">
+        <img src="images/writing/pexels-ketut-subiyanto-4559555.jpg" class="centerImg photoMedResp smallestBreak" alt="folders and notes next to a laptop">
       </section>
 
       <section>
