@@ -27,7 +27,7 @@ format: default
       <p class="aboutText">So <a href="mailto:ctavispost@gmail.com">send me a note</a> and let's chat.</p>
     </section>
   </article>
-  
+
   <img src="images/selfDraw.png" alt="seated artist drawing in a sketchbook" class="selfPortrait">
-  <img src="images/selfPortrait.png" alt="stylized self-portrait of Tavis smiling in a hat" class="selfPortrait">
+  <img src="images/selfPortrait.png" alt="stylized self-portrait of Tavis smiling in a hat" class="selfPortrait medBreak">
 </article>
