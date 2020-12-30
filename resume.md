@@ -23,10 +23,11 @@ Fullstack web developer
 {:.margBottZero .underlineBlock}
 
 [longer docx](./c-tavis-post-resume.docx)
+
 [shorter pdf](./c_tavis_post_resume.pdf)
 </section>
 
-<article class="medBreak" markdown="1">
+<article class="smBreak" markdown="1">
 ## Profile
 {:.margBottZero .underlineBlock}
 
@@ -35,7 +36,7 @@ I am an inclusive, thoughtful fullstack developer with past experience in UX and
 
 <article markdown="1">
 ## Experience
-{:.margBottZero .medBreak .underlineBlock}
+{:.margBottZero .smBreak .underlineBlock}
 
 #### UX Engineer, CTPost Design
 {:.margBottZero .smallestBreak}
@@ -79,7 +80,7 @@ March 1995 - August 2010
 
 <article markdown="1">
 ## Education
-{:.margBottZero .medBreak .underlineBlock}
+{:.margBottZero .smBreak .underlineBlock}
 
 #### General Assembly Software Engineering Immersive
 {:.margBottZero .smallestBreak}
@@ -108,21 +109,21 @@ Philosophy, Japanese.
 
 <article markdown="1">
 ## Skills
-{:.margBottZero .medBreak .underlineBlock}
+{:.margBottZero .smBreak .underlineBlock}
 object orient programming, full stack development, server rendered apps, inclusivity and accessibility, prototyping, wireframes, flows, user tests, surveys, interviews, personas, user stories, mockups, storyboards, research, branding, competitive analysis, sketching, illustration, storytelling, user centered design, writing, copy editing, UI
 {:.smallestBreak}
 </article>
 
 <article markdown="1">
 ## Tools
-{:.margBottZero .medBreak .underlineBlock}
+{:.margBottZero .smBreak .underlineBlock}
 HTML5, CSS, JavaScript, React, Git, Github, jQuery, Python, Ruby, Rails, SQL, Sequelize, Postgres, Express, WordPress, Bootstrap, Materialize CSS, Heroku, Netlify, Firebase, Trello, Jekyll, Figma, pencil & paper
 {:.smallestBreak}
 </article>
 
 <article markdown="1">
 ## Projects
-{:.margBottZero .medBreak .underlineBlock}
+{:.margBottZero .smBreak .underlineBlock}
 
 #### [findthemasks.com](https://findthemasks.com)
 {:.smallestBreak .margBottZero .embold}
@@ -148,7 +149,7 @@ music album search app with videos and commenting made in 6 days using Node, Exp
 
 <article markdown="1">
 ## Interests
-{:.margBottZero .medBreak .underlineBlock}
+{:.margBottZero .smBreak .underlineBlock}
 I like to hike, draw, and read. Sometimes, I do two of those at once.
 {:.smallestBreak}
 </article>
