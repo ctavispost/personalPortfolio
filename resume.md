@@ -19,7 +19,7 @@ Fullstack web developer
 </header>
 
 <section class="smBreak" markdown="1">
-##Download resume
+## Download resume
 {:.margBottZero .underlineBlock}
 
 [longer docx](./c-tavis-post-resume.docx)
