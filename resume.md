@@ -88,15 +88,13 @@ Sept 2020 – December 2020
 {:.medEmphTxt .marginTopZero}
 
 Full-stack software engineering immersive student in an intensive, twelve-week, 480 hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects.
-{:.smallLeading}
 
 #### Bloc.io Design Program
-{:.margBottZero .smallestBreak}
+{:.margBottZero .smallerBreak}
 March 2018 – January 2019
 {:.medEmphTxt .marginTopZero}
 
 UX, UI, and frontend design in a 450 hour program combining comprehensive Human Computer Interaction with HTML, CSS, JavaScript, and jQuery, from definition to deployment.
-{:.smallLeading}
 
 #### University of Washington
 {:.margBottZero .smallerBreak}
@@ -104,7 +102,6 @@ September 1999 – March 2006
 {:.medEmphTxt .marginTopZero}
 
 Philosophy, Japanese.
-{:.smallLeading}
 </article>
 
 <article markdown="1">
