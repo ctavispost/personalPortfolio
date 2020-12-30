@@ -16,8 +16,15 @@ Fullstack web developer
 {:.smallLeading}
 [ctavispost.com](https://ctavispost.com)
 {:.smallLeading}
-
 </header>
+
+<section class="smBreak" markdown="1">
+##Download resume
+{:.margBottZero .underlineBlock}
+
+[longer docx](./c-tavis-post-resume.docx)
+[shorter pdf](./c_tavis_post_resume.pdf)
+</section>
 
 <article class="medBreak" markdown="1">
 ## Profile
