@@ -5,8 +5,7 @@ random: true
 ---
 
 <article class="contMaxwidth aboutContainer">
-  <h2 class="leadingOne smallestBreak margBottSm">"Everybody</h2>
-  <p class="marginTopZero">needs somebody"</p>
+  <h2 class="leadingOne smallestBreak margBottSm">"Everybody needs somebody"</h2>
 
   <img srcset="images/random/validation.jpg 300w,
     images/random/validationMd.jpg 700w,
@@ -26,7 +25,7 @@ random: true
     images/random/ninjaLadyLg.jpg 1024w"
   src="images/random/ninjaLady.jpg"
   alt="comic: a ninja engages her target"
-  class="photoMedResp conditionalLeftMarg conditionalRightMarg">
+  class="photoMedResp">
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth centerGrid gridGapOne condGridRow condGridOneTwo">
