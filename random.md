@@ -4,26 +4,22 @@ layout: default
 random: true
 ---
 
-<article class="contMaxwidth">
-  <section class="aboutContainer">
-    <h2 class="leadingOne smallestBreak margBottSm">"Everybody</h2>
-    <p class="marginTopZero">needs somebody"</p>
-  </section>
+<article class="contMaxwidth aboutContainer">
+  <h2 class="leadingOne smallestBreak margBottSm">"Everybody</h2>
+  <p class="marginTopZero">needs somebody"</p>
 
   <img srcset="images/random/validation.jpg 300w,
     images/random/validationMd.jpg 700w,
     images/random/validationLg.jpg 1366w"
   src="images/random/validation.jpg"
   alt="comic: someone seeks validation from a computer"
-  class="photoMedResp conditionalLeftMarg conditionalRightMarg">
+  class="photoMedResp">
 </article>
 
-<article class="contMaxwidth medBreak">
-  <section class="aboutContainer">
-    <h2 class="leadingOne smallestBreak margBottSm">Sometimes,</h2>
-    <p class="marginTopZero">when I see claims of 'character assassination',<br>
+<article class="contMaxwidth medBreak aboutContainer">
+  <h2 class="leadingOne smallestBreak margBottSm">Sometimes,</h2>
+  <p class="marginTopZero">when I see claims of 'character assassination',<br>
     I think to myself, "I certainly hope so."</p>
-  </section>
 
   <img srcset="images/random/nijaLady.jpg 500w,
     images/random/ninjaLadyMd.jpg 700w,
@@ -102,22 +98,20 @@ random: true
   </section>
 </article>
 
-<article class="medBreak contMaxwidth">
-  <section class="aboutContainer">
-    <h2 class="leadingOne margBottSm">Shortly</h2>
-    <p class="aboutText marginTopZero">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
+<article class="medBreak contMaxwidth aboutContainer">
+  <h2 class="leadingOne margBottSm">Shortly</h2>
+  <p class="aboutText marginTopZero">after breakfast one morning, my little boy turned to me and declared, "Dadda, I'm hungry, and I don't want fruit." We had apples, cherries, raspberries, and blueberries at hand.</p>
 
-    <p class="aboutText">"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
+  <p class="aboutText">"If you say you're hungry, but you won't eat fruit you like, you aren't hungry," I informed him. "We've had this conversation before."</p>
 
-    <p class="aboutText">"But not today," he replied.</p>
-  </section>
+  <p class="aboutText">"But not today," he replied.</p>
 
   <img srcset="images/random/kidCroissant.jpg 320w,
       images/random/kidCroissantMd.jpg 700w,
       images/random/kidCroissantLg.jpg 1024w"
     src="images/random/kidCroissant.jpg"
     alt="child in beret eating croissant"
-    class="smallestBreak photoMedResp conditionalLeftMarg conditionalRightMarg"
+    class="smallestBreak photoMedResp"
     loading="lazy">
 </article>
 
