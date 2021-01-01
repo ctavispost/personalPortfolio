@@ -44,7 +44,7 @@ layout: default
 
     <article class="illustCard illustCardLong">
       <div class="illustComic">
-        <img src="images/illustrations/psa01.jpg" alt="Pointless Man harrasses youths for not wearing helmets" class="illustImg">
+        <img src="images/illustrations/psa01.jpg" alt="Pointless Man harasses youths for not wearing helmets" class="illustImg">
         <img src="images/illustrations/psa02.jpg" alt="Pointless Man dons a helmet" class="illustImg">
         <img src="images/illustrations/psa03.jpg" alt="Pointless Man scoots towards a jump and launches himself into the air" class="illustImg">
         <img src="images/illustrations/psa04.jpeg" alt="Pointless Man flies through the air, striking unhelmeted onlookers on their heads with a scooter" class="illustImg">
