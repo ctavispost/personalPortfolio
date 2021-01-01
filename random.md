@@ -15,7 +15,7 @@ random: true
     images/random/validationLg.jpg 1366w"
   src="images/random/validation.jpg"
   alt="comic: someone seeks validation from a computer"
-  class="photoMedResp">
+  class="photoMedResp conditionalLeftMarg conditionalRightMarg">
 </article>
 
 <article class="contMaxwidth medBreak">
@@ -30,7 +30,7 @@ random: true
     images/random/ninjaLadyLg.jpg 1024w"
   src="images/random/ninjaLady.jpg"
   alt="comic: a ninja engages her target"
-  class="photoMedResp">
+  class="photoMedResp conditionalLeftMarg conditionalRightMarg">
 </article>
 
 <article class="medBreak aboutContainer contMaxwidth centerGrid gridGapOne condGridRow condGridOneTwo">
@@ -117,7 +117,7 @@ random: true
       images/random/kidCroissantLg.jpg 1024w"
     src="images/random/kidCroissant.jpg"
     alt="child in beret eating croissant"
-    class="smallestBreak photoMedResp"
+    class="smallestBreak photoMedResp conditionalLeftMarg conditionalRightMarg"
     loading="lazy">
 </article>
 
@@ -191,6 +191,6 @@ random: true
       images/random/gadsdenLg.jpg 1024w"
     src="images/random/gadsden.jpg"
     alt="snakes not counter attacking in various situations"
-    class="smallestBreak photoMedResp gridSelfJustCenter"
+    class="smallestBreak photoMedResp gridSelfJustCenter conditionalLeftMarg conditionalRightMarg"
     loading="lazy">
 </article>
