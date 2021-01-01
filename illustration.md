@@ -7,6 +7,18 @@ layout: default
 
     <!-- illustrations -->
     <article class="illustCard">
+      <img srcset="images/illustrations/crashed.jpg 300w,
+        images/illustrations/crashedMd.jpg 700w,
+        images/illustrations/crashedLg.jpg 1366w"
+        src="images/illustrations/crashed.jpg"
+        loading="eager"
+        alt="Child asleep on cushions"
+        class="illustImg">
+      <p class="caption">'Crashed out'</p>
+      <p class="caption">digital illustration, 2020</p>
+    </article>
+
+    <article class="illustCard">
       <img src="images/illustrations/elephant.jpg" loading="eager" alt="Seattle's pink elephant car wash sign and surroundings" class="illustImg">
       <p class="caption">'Denny Way and its elephants'</p>
       <p class="caption">digital illustration, 2020</p>
@@ -87,6 +99,18 @@ layout: default
       <img src="images/illustrations/warnSignWave.jpg" loading="lazy" alt="person on a jetty about to be swallowed by a tall wave" class="illustImg">
       <p class="caption">'Warning signs: life is dangerous'</p>
       <p class="caption">acrylic and paint-pen on board, 2016</p>
+    </article>
+
+    <article class="illustCard">
+      <img srcset="images/illustrations/cups.jpg 300w,
+        images/illustrations/cupsMd.jpg 700w,
+        images/illustrations/cupsLg.jpg 1366w"
+        src="images/illustrations/cups.jpg"
+        loading="eager"
+        alt="3 pairs of over-ear headphones"
+        class="illustImg">
+      <p class="caption">'Cups'</p>
+      <p class="caption">digital illustration, 2020</p>
     </article>
 
     <article class="illustCard">
