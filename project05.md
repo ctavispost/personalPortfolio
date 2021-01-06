@@ -6,7 +6,7 @@ layout: default
 <article class="projContainer">
 
   <header class="flexRow flexCenter">
-    <h1 class="class="centerGrid">moodpatch</h1>
+    <h1 class="centerGrid">moodpatch</h1>
     <img src="/images/moodpatch.svg" class="logoInLock">
   </header>
 
@@ -15,7 +15,7 @@ layout: default
 
     <p>I designed and developed moodpatch in 6 days.</p>
 
-    <section class="flexCenter gridGapOne smallerBreak"> <!--  -->
+    <section class="flexCenter gridGapOne smallerBreak">
       <img href="/images/moodpatch/moodpatchTop.jpg" class="centerImg medImgHeight">
       <img href="/images/moodpatch/moodpatchModal.jpg" class="centerImg medImgHeight">
     </section>
