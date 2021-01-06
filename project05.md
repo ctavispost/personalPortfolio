@@ -3,11 +3,11 @@ title: moodpatch
 layout: default
 ---
 
-<article class="projContainer">
+<article class="projContainer aboutContainer">
 
   <header class="flexRow flexCenter">
     <h1 class="centerGrid">moodpatch</h1>
-    <img src="/images/moodpatch.svg" class="logoInLock">
+    <img src="/images/moodpatch.svg" class="logoInLock spaceToLeft" alt="moodpatch logo">
   </header>
 
   <section>
@@ -15,9 +15,9 @@ layout: default
 
     <p>I designed and developed moodpatch in 6 days.</p>
 
-    <section class="flexCenter gridGapOne smallerBreak">
-      <img href="/images/moodpatch/moodpatchTop.jpg" class="centerImg medImgHeight">
-      <img href="/images/moodpatch/moodpatchModal.jpg" class="centerImg medImgHeight">
+    <section class="flexCenter condFlexColSm gridGapOne smallerBreak">
+      <img src="/images/moodpatch/moodpatchTop.jpg" class="centerImg medImgHeight" alt="Primary screen showing moods and a FAB">
+      <img src="/images/moodpatch/moodpatchModal.jpg" class="centerImg medImgHeight" alt="Screen with modal to enter a new mood">
     </section>
 
     <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
@@ -77,7 +77,7 @@ layout: default
 
     <p>Future features include:</p>
     <ul>
-      <li>A profile section where users select color preferences and why they are using the app</li>
+      <li>A profile section where users choose color preferences and why they are using the app</li>
       <li>Private questionnaires to better understand and communicate moods</li>
       <li>Oauth authentication for simpler sign-on</li>
       <li>Faster performance</li>
