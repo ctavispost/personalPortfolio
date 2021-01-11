@@ -24,7 +24,7 @@ layout: default
   </article>
 
   <article class="card project05">
-    <a href="" class="dispBlock paddingSmB">
+    <a href="project05.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">moodpatch</h1>
       <p class="padText textHighEmph">colorful mood tracking</p>
       <div class="projContainer padText">
@@ -34,7 +34,7 @@ layout: default
   </article>
 
   <article class="card project06">
-    <a href="" class="dispBlock paddingSmB">
+    <a href="project06.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">The Green Room</h1>
       <p class="padText textHighEmph">save your favorite albums</p>
       <div class="projContainer padText">
@@ -44,7 +44,7 @@ layout: default
   </article>
 
   <article class="card project07">
-    <a href="" class="dispBlock paddingSmB">
+    <a href="project07.html" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">Andromeda TechConnect</h1>
       <p class="padText textHighEmph">bringing people and events together</p>
       <div class="projContainer padText">
