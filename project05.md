@@ -16,8 +16,8 @@ layout: default
     <p>I designed and developed moodpatch in 6 days.</p>
 
     <section class="flexCenter condFlexColSm gridGapOne smallerBreak">
-      <img src="/images/moodpatch/moodpatchTop.jpg" class="centerImg medImgHeight" alt="Primary screen showing moods and a FAB">
-      <img src="/images/moodpatch/moodpatchModal.jpg" class="centerImg medImgHeight" alt="Screen with modal to enter a new mood">
+      <img src="/images/moodpatch/moodpatchTop.jpg" class="centerImg medImgHeight boxShadowSm" alt="Primary screen showing moods and a FAB">
+      <img src="/images/moodpatch/moodpatchModal.jpg" class="centerImg medImgHeight boxShadowSm" alt="Screen with modal to enter a new mood">
     </section>
 
     <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
