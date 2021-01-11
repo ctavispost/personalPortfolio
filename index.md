@@ -29,7 +29,7 @@ layout: default
       <p class="padText textHighEmph">colorful mood tracking</p>
       <div class="projContainer padText">
         <img src="images/moodpatch.svg" alt="a square patchwork of colors" class="projPic">
-      </div
+      </div>
     </a>
   </article>
 
