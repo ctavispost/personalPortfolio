@@ -62,11 +62,6 @@ layout: default
   </section>
 
   <section class="medBreak">
-    <h2>What I learned</h2>
-    <p></p>
-  </section>
-
-  <section class="medBreak">
     <h2>What's next for the Green Room?</h2>
 
     <p>Future features include:</p>
