@@ -12,7 +12,9 @@ layout: default
 <h1 class="lockupBreakVert" markdown="1">[findthemasks](https://findthemasks.com)</h1>
 </header>
 
-[findthemasks.com](https://findthemasks.com) shares ways to donate protective equipment to hospitals. The spread of COVID-19 has caused shortages of masks, gloves, and other items healthcare workers need. By curating information from thousands of hospitals across the US, Canada, and Europe, findthemasks can help people find what, where, and how to donate in ways that can help protect us all.
+[findthemasks.com](https://findthemasks.com) shares ways to donate protective equipment to hospitals. The spread of COVID-19 caused shortages of masks, gloves, and other items healthcare workers need. By curating information from thousands of hospitals across the US, Canada, and Europe, findthemasks helped people find what, where, and how to donate in ways that helped protect us all.
+
+<img src="/images/ftm/ftm.jpg" class="centerImg medImgHeight" alt="findthemasks' desktop landing page: mapping donation sites">
 
 <section markdown="1">
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly"> <!-- for accessibility, details elements are set to not show if a screen reader or printer is being used -->
@@ -42,31 +44,37 @@ HTML, CSS, wireframes, sketches
 <details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
 <summary>Tools</summary>
 <div>
-GitHub, CSS, Bootstrap, Google Docs, Slack, Figma, markers, whiteboard
+GitHub, HTML, CSS, Bootstrap, Google Docs, Slack, Figma, markers, whiteboard
 </div>
 </details>
 
 <h3 class="speechOrPrintOnly">Tools</h3> <!-- accessible version of above -->
 
-GitHub, CSS, Bootstrap, Google Docs, Slack, Figma, markers, whiteboard
+GitHub, HTML, CSS, Bootstrap, Google Docs, Slack, Figma, markers, whiteboard
 {:.speechOrPrintOnly}
 </section>
 
 <section class="medBreak" markdown="1">
 <h2 class="centerGrid" markdown="1">Problem</h2>
 
-People have personal protective equipment (PPE) and are willing to donate it, but they don't know where or what to give. Hospitals are in desperate need of PPE, and know what they need, but are overburdened and don't have a good way of getting that information out.
+People had personal protective equipment (PPE) and were willing to donate it, but they didn't know where or what to give. Hospitals were in desperate need of PPE, and knew what they needed, but were overburdened and didn't have a good way of getting that information out.
 </section>
 
 <section class="medBreak" markdown="1">
 <h2 class="centerGrid" markdown="1">Solution</h2>
+
+<div class="conditionalFlexRow">
+<div class="illustCard">
+<img src="images/ftm/ftmMob.jpg" alt="ftm mobile page showing nearby donation locations" class="captionedImg medImgHeight conditionalRightMarg minWidthVW">
+<p class="caption">mobile site</p>
+</div>
 
 findthemasks shows:
 - donation locations
 - what they need
 - how to give
 
-Hospitals add or remove their information through a linked form. After moderators approve it, the index automatically updates. The resulting list is searchable by map and filters.
+Hospitals could add or remove their information through a linked form. After moderators approved it, the index automatically updated. The resulting list is searchable by map and filters.
 </section>
 
 <section class="medBreak" markdown="1">
