@@ -84,5 +84,4 @@ layout: default
       <li>Prettier modals</li>
     </ul>
   </section>
-
 </article>
