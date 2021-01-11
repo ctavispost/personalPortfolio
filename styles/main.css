@@ -266,6 +266,9 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
   overflow: visible;
   grid-template-areas:
     "proj04"
+    "proj05"
+    "proj06"
+    "proj07"
     "writ"
     "illust"
     "fun"
@@ -293,7 +296,10 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
      grid-template-columns: repeat(3, 1fr);
      grid-template-areas:
       "proj04 . ."
-      "proj04 . illust"
+      "proj04 . proj05"
+      ". . proj05"
+      ". proj06 ."
+      "proj07 . illust"
       ". . illust"
       ". writ ."
       "fun . ."
@@ -359,6 +365,18 @@ p + ul, p + ol { /* removes margin between paragraphs and lists, there's probabl
 
 .project04 {
   grid-area: proj04;
+}
+
+.project05 {
+  grid-area: proj05;
+}
+
+.project06 {
+  grid-area: proj06;
+}
+
+.project07 {
+  grid-area: proj07;
 }
 
 .illustration { /* should be larger than project 02 and 03, but smaller than 01 */
@@ -766,7 +784,7 @@ figcaption, .medEmphTxt {
 
 @media screen and (min-width: 80ch) {
   .gridTextPicCol {
-    grid-template-columns: minmax(44ch, 66ch) minmax(10px, 600px);
+    grid-template-columns: minmax(40ch, var(--maxText)) minmax(15ch, 600px);
     grid-column-gap: var(--outerMargin);
   }
 }
@@ -994,4 +1012,17 @@ blockquote p { /* keeps paragraphs from dropping below quotes */
 
 .txtHiEmph {
   color: var(--textHighEmph);
+}
+
+@media screen and (max-width: 640px) {
+  .condFlexColSm {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+.boxShadowSm {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
