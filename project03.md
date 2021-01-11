@@ -82,9 +82,9 @@ A new .org site communicates Dauntlez’s mission with a clear hero-section and 
 </section>
 
 <section markdown="1">
-<img src="images/Dauntlez/whiteboard.jpeg" alt="a whiteboard with writing and wireframes" class="projPic medImgHeight">
-
 <h2 class="centerGrid medBreak" markdown="1">The process</h2>
+
+<img src="images/Dauntlez/whiteboard.jpeg" alt="a whiteboard with writing and wireframes" class="projPic medImgHeight margBottMed">
 
 With the time constraints of a hackathon, we based our assumptions and discovery on conversations with Adina, the product owner, and information on her old website. Our discussion helped me to form three user types:
 - people who might take a class (our primary audience)

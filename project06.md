@@ -61,16 +61,15 @@ layout: default
 
     <div class="conditionalFlexRow">
       <div class="illustCard">
-        <img src="images/greenRoom/tgrFavs.jpg" alt="a couple favorite albums" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
-        <p class="caption">favorites</p>
+        <img src="images/greenRoom/tgrAlbum.jpg" alt="an album details page" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
+        <p class="caption">album details</p>
       </div>
+      <p>The Green Room makes it easy to find, save, and comment on your favorite records.</p>
     </div>
 
-    <p>The Green Room makes it easy to find, save, and comment on your favorite records.</p>
-
     <div class="illustCard smallerBreak">
-      <img src="images/greenRoom/tgrAlbum.jpg" alt="an album details page" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
-      <p class="caption">album details</p>
+      <img src="images/greenRoom/tgrFavs.jpg" alt="a couple favorite albums" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
+      <p class="caption">favorites</p>
     </div>
   </section>
 

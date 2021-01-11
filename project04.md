@@ -69,12 +69,14 @@ People had personal protective equipment (PPE) and were willing to donate it, bu
 <p class="caption">mobile site</p>
 </div>
 
+
 findthemasks shows:
 - donation locations
 - what they need
 - how to give
 
 Hospitals could add or remove their information through a linked form. After moderators approved it, the index automatically updated. The resulting list is searchable by map and filters.
+</div>
 </section>
 
 <section class="medBreak" markdown="1">
