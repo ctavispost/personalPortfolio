@@ -19,7 +19,7 @@ layout: default
     <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
       <summary>Role: Developer</summary>
         <div>
-          I worked alongside my teammates to develop this app. Outside of pair programming, my focus was on frontend elements, working with EJS, CSS, and Materialize CSS.
+          I worked alongside my teammates to develop this app. Outside of pair programming, my focus was on frontend elements, involving EJS, CSS, and Materialize CSS.
         </div>
     </details>
 

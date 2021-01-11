@@ -243,7 +243,7 @@ a { /* set links to primary color for light or dark mode  */
   margin: 0 var(--outerMargin) 0 var(--outerMargin); /* sets right margin so text is never flush with window edge */
 }
 
-p {
+p, details {
   max-width: 68ch;
 }
 
