@@ -38,7 +38,7 @@ layout: default
       <h1 class="padText leadingOne marginTopZero">The Green Room</h1>
       <p class="padText textHighEmph">save your favorite albums</p>
       <div class="projContainer padText">
-        <img src="images/tgr_icon.png" alt="a smiling audio cassette" class="projPic">
+        <img src="images/tgr_icon.png" alt="a smiling audio cassette" class="projPic wdEightRm">
       </div>
     </a>
   </article>
