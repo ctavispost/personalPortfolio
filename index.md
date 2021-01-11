@@ -27,7 +27,9 @@ layout: default
     <a href="" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">moodpatch</h1>
       <p class="padText textHighEmph">colorful mood tracking</p>
-      <img src="images/moodpatch.svg" alt="a square patchwork of colors" class="projPic">
+      <div class="projContainer padText">
+        <img src="images/moodpatch.svg" alt="a square patchwork of colors" class="projPic">
+      </div
     </a>
   </article>
 
@@ -35,15 +37,19 @@ layout: default
     <a href="" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">The Green Room</h1>
       <p class="padText textHighEmph">save your favorite albums</p>
-      <img src="images/tgr_icon.png" alt="a smiling audio cassette" class="projPic">
+      <div class="projContainer padText">
+        <img src="images/tgr_icon.png" alt="a smiling audio cassette" class="projPic">
+      </div>
     </a>
   </article>
 
   <article class="card project07">
     <a href="" class="dispBlock paddingSmB">
       <h1 class="padText leadingOne marginTopZero">Andromeda TechConnect</h1>
-      <p class="padText textHighEmph">bringing people and events together in tech</p>
-      <img src="images/andromeda.png" alt="A swirling galaxy and the letters T , C" class="projPic">
+      <p class="padText textHighEmph">bringing people and events together</p>
+      <div class="projContainer padText">
+        <img src="images/andromeda.png" alt="A swirling galaxy and the letters T , C" class="projPic">
+      </div>
     </a>
   </article>
 
