@@ -12,7 +12,7 @@ layout: default
   <section>
     <p>Andromeda TechConnect (ATC) brings people and events together in the tech space. The landing page shows upcoming events and lets users sign up for more information. Users' information is then stored in a SQL database. The admin dashboard simply displays users' names and emails.</p>
 
-    <p>ATC was made by a team of designers (Ulysse Worsfold, Shaina Lieh, and Vince Tran) and developers (<a href="https://github.com/tbisho" target="_blank">T.B.</a>, <a href="https://github.com/TeddySpaghet" target="_blank">Theodore Pochart</a>, and C. Tavis Post) in an 8 hour online collabathon at General Assembly.</p>
+    <p>ATC was made by a team of designers (Ulysse Worsfold, Shaina Lieh, and Vince Tran) and developers (<a href="https://github.com/tbisho" target="_blank">T.B.</a>, <a href="https://github.com/TeddySpaghet" target="_blank">Theodore Pochart</a>, and myself) in an 8 hour online collabathon at General Assembly.</p>
 
     <img src="/images/andromeda/andromeda.jpg" class="centerImg medImgHeight" alt="Andromeda's landing page">    
 

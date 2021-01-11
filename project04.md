@@ -90,7 +90,7 @@ My most lasting contribution to the project was simple, but integral. I placed s
 <section class="medBreak" markdown="1">
 <h2 class="centerGrid" markdown="1">Impact</h2>
 
-My contributions helped to launch findthemasks.com and set it up to scale. In the first three days, we listed 250 hospitals in the US and saw 20,000 unique visitors per day. Now, the site lists thousands of hospitals across multiple continents.
+My contributions helped to launch findthemasks.com and set it up to scale. In the first three days, we listed 250 hospitals in the US and saw 20,000 unique visitors per day. Now, the site lists thousands of hospitals across multiple continents. The information architecture I set up became the basis for integrated donation site listings on the GetUsPPE coalition, undergirding 21 sites.
 </section>
 
 <section class="medBreak" markdown="1">
