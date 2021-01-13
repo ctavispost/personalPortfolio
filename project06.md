@@ -59,17 +59,17 @@ layout: default
   <section class="medBreak">
     <h2>Solution</h2>
 
-    <div class="conditionalFlexRow">
+    <div class="illustCard">
+      <img src="images/greenRoom/tgrFavs.jpg" alt="a couple favorite albums" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
+      <p class="caption">favorites</p>
+    </div>
+
+    <div class="conditionalFlexRow smallerBreak">
       <div class="illustCard">
         <img src="images/greenRoom/tgrAlbum.jpg" alt="an album details page" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
         <p class="caption">album details</p>
       </div>
-      <p>The Green Room makes it easy to find, save, and comment on your favorite records.</p>
-    </div>
-
-    <div class="illustCard smallerBreak">
-      <img src="images/greenRoom/tgrFavs.jpg" alt="a couple favorite albums" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
-      <p class="caption">favorites</p>
+      <p>The Green Room makes it easy to find, save, and comment on your favorite records. You can view track listings and release information, see other people's notes, and watch related music videos.</p>
     </div>
   </section>
 
@@ -78,7 +78,7 @@ layout: default
 
     <p>Future features include:</p>
     <ul>
-      <li>Tighter styling, particularly for videos</li>
+      <li>Better and more modern styling, particularly for videos</li>
       <li>Social media sharing</li>
     </ul>
   </section>

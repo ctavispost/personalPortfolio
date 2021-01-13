@@ -25,7 +25,7 @@ layout: default
 
   <article class="card project05">
     <a href="project05.html" class="dispBlock paddingSmB">
-      <h1 class="padText leadingOne marginTopZero">moodpatch</h1>
+      <h1 class="padText leadingOne marginTopZero">mood<wbr>patch</h1>
       <p class="padText textHighEmph">colorful mood tracking</p>
       <div class="projContainer padText">
         <img src="images/moodpatch.svg" alt="a square patchwork of colors" class="projPic">
@@ -45,7 +45,7 @@ layout: default
 
   <article class="card project07">
     <a href="project07.html" class="dispBlock paddingSmB">
-      <h1 class="padText leadingOne marginTopZero">Andromeda TechConnect</h1>
+      <h1 class="padText leadingOne marginTopZero">Andromeda Tech<wbr>Connect</h1>
       <p class="padText textHighEmph">bringing people and events together</p>
       <div class="projContainer padText">
         <img src="images/andromeda.png" alt="A swirling galaxy and the letters T , C" class="projPic">
