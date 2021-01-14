@@ -26,7 +26,7 @@ layout: default
     <h3 class="speechOrPrintOnly">Role: developer</h3>
     <p class="speechOrPrintOnly">I worked alongside my teammates to develop this app. Outside of pair-coding, my focus was on frontend elements, working with EJS, CSS, and Materialize CSS.</p>
 
-    <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
+    <details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
       <summary>Tools</summary>
         <div>
           <ul>

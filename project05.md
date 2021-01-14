@@ -30,7 +30,7 @@ layout: default
     <h3 class="speechOrPrintOnly">Role: designer and developer</h3>
     <p class="speechOrPrintOnly">With help from instructors at General Assembly, and using their custom authentication, I designed and developed moodpatch from the ground up.</p>
 
-    <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
+    <details aria-expanded="true/false" tabindex="0" role="button" class="smallestBreak screenOnly">
       <summary>Tools</summary>
         <div>
           <ul>
