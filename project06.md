@@ -12,7 +12,9 @@ layout: default
   <section>
     <p>The Green Room is a music album search app using Discogs API. Users can search for, favorite, and comment on albums and watch related music videos. TGR was created by <a href="https://github.com/astudillome" target="_blank">Maria Astudillo</a>, <a href="https://github.com/lucyefranco" target="_blank">Lucy Franco</a>, and myself in six days.</p>
 
-    <img src="/images/greenRoom/tgrResults.jpg" class="centerImg medImgHeight boxShadowSm" alt="Search results in the app">    
+    <div class="centerGrid">
+      <img src="/images/greenRoom/tgrResults.jpg" class="centerImg medImgHeight boxShadowSm" alt="Search results in the app">    
+    </div>
 
     <details aria-expanded="true/false" tabindex="0" role="button" class="smallerBreak screenOnly">
       <summary>Role: design engineer</summary>
@@ -52,29 +54,28 @@ layout: default
   </section>
 
   <section class="medBreak">
-    <h2>Problem</h2>
+    <h2 class="centerGrid">Problem</h2>
     <p>With so much music available across streaming services, users want to keep track of their favorite albums.</p>
   </section>
 
   <section class="medBreak">
-    <h2>Solution</h2>
+    <h2 class="centerGrid">Solution</h2>
 
     <div class="illustCard">
       <img src="images/greenRoom/tgrFavs.jpg" alt="a couple favorite albums" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
       <p class="caption">favorites</p>
     </div>
 
-    <div class="conditionalFlexRow smallerBreak">
-      <div class="illustCard">
-        <img src="images/greenRoom/tgrAlbum.jpg" alt="an album details page" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
-        <p class="caption">album details</p>
-      </div>
-      <p>The Green Room makes it easy to find, save, and comment on your favorite records. You can view track listings and release information, see other people's notes, and watch related music videos.</p>
+    <p class="smallerBreak">The Green Room makes it easy to find, save, and comment on your favorite records. You can view track listings and release information, see other people's notes, and watch related music videos.</p>
+
+    <div class="illustCard">
+      <img src="images/greenRoom/tgrAlbum.jpg" alt="an album details page" class="captionedImg medImgHeight conditionalRightMarg minWidthVW boxShadowSm">
+      <p class="caption">album details</p>
     </div>
   </section>
 
   <section class="medBreak">
-    <h2>What's next for the Green Room?</h2>
+    <h2 class="centerGrid">What's next for the Green Room?</h2>
 
     <p>Future features include:</p>
     <ul>
