@@ -12,7 +12,11 @@ format: default
 
       <p class="aboutText">I am passionate about service. In high school, I began volunteering to write and edit for social workers representing children in dependency cases. This partnership lasted 15 years, and each time we successfully helped someone, it made every effort worthwhile.</p>
 
-      <p class="aboutText">My desire to improve people’s lives through communication led me to writing consultancy. I contributed technical writing and information architecture to court reports on family reunification, parenting plans, and treatment courses. At the same time, I worked as a customer-focused retail manager. Then, in 2018, I transitioned to working as a UX freelancer because I saw it as entry point to software engineering–where we can really make a difference to others. These fields inform my approach to coding: I create open, accessible code based on research and dialogue, because I have seen people benefit from it.</p>
+      <p class="aboutText">My desire to improve people’s lives through communication led me to writing consultancy. I contributed technical writing and information architecture to court reports on family reunification, parenting plans, and treatment courses. At the same time, I worked as a customer-focused retail manager.</p>
+
+      <p>In 2018, I transitioned to UX freelancing. I saw it as entry point to working in information technology–where we can make a difference to others at scale. This same motivation drove my decision to become a software developer.</p>
+
+      <p>My experience in other fields informs my approach to coding: I create open, accessible code based on research and dialogue, because I have seen people benefit from it.</p>
 
       <p class="aboutText">My history of working with and for diverse groups in varied situations brings value in strong cross-functional communication and practical empathy. In all my work, I rely on different viewpoints and feedback to improve interactions and outcomes for people.</p>
 
@@ -28,6 +32,8 @@ format: default
     </section>
   </article>
 
-  <img src="images/selfDraw.png" alt="seated artist drawing in a sketchbook" class="selfPortrait">
-  <img src="images/selfPortrait.png" alt="stylized self-portrait of Tavis smiling in a hat" class="selfPortrait medBreak">
+  <section>
+    <img src="images/selfDraw.png" alt="seated artist drawing in a sketchbook" class="selfPortrait">
+    <img src="images/selfPortrait.png" alt="stylized self-portrait of Tavis smiling in a hat" class="selfPortrait medBreak">
+  </section>
 </article>
