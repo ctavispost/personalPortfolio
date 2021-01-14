@@ -69,7 +69,8 @@ People had personal protective equipment (PPE) and were willing to donate it, bu
 <p class="caption">mobile site</p>
 </div>
 
-findthemasks shows:
+<section>
+<p>findthemasks shows:</p>
 
 <ul>
 <li>donation locations</li>
@@ -77,7 +78,8 @@ findthemasks shows:
 <li>how to give</li>
 </ul>
 
-Hospitals could add or remove their information through a linked form. After moderators approved it, the index automatically updated. The resulting list is searchable by map and filters.
+<p>Hospitals could add or remove their information through a linked form. After moderators approved it, the index automatically updated. The resulting list is searchable by map and filters.</p>
+</section>
 </div>
 </section>
 
