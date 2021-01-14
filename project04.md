@@ -71,9 +71,11 @@ People had personal protective equipment (PPE) and were willing to donate it, bu
 
 findthemasks shows:
 
-- donation locations
-- what they need
-- how to give
+<ul>
+<li>donation locations</li>
+<li>what they needed</li>
+<li>how to give</li>
+</ul>
 
 Hospitals could add or remove their information through a linked form. After moderators approved it, the index automatically updated. The resulting list is searchable by map and filters.
 </div>
@@ -92,7 +94,7 @@ My most lasting contribution to the project was simple, but integral. I placed s
 <section class="medBreak" markdown="1">
 <h2 class="centerGrid" markdown="1">Impact</h2>
 
-My contributions helped to launch findthemasks.com and set it up to scale. In the first three days, we listed 250 hospitals in the US and saw 20,000 unique visitors per day. Now, the site lists thousands of hospitals across multiple continents. The information architecture I set up became the basis for integrated donation site listings on the GetUsPPE coalition, undergirding 21 sites.
+My contributions helped to launch findthemasks.com and set it up to scale. In the first three days, we listed 250 hospitals in the US and saw 20,000 unique visitors per day. Now, the site lists thousands of hospitals across multiple continents. The information architecture I created became the basis for integrated donation site listings on the GetUsPPE coalition, undergirding 21 sites.
 </section>
 
 <section class="medBreak" markdown="1">
@@ -100,11 +102,11 @@ My contributions helped to launch findthemasks.com and set it up to scale. In th
 
 At launch, we listed only 50 donation sites. As locations were added at a high rate, anticipating issues of scale was important. The HTML structure I chose worked well here. But the styling could have done more.
 
-findthemasks operates on a strong assumption that users arrive already motivated, and so it attempts to be as simple as possible. I had tried to stick to this theme using a single font family. Even with different font sizes and opacity to indicate hierarchy, once the donation site list grew over a thousand, it needed to help users quickly differentiate cities and hospitals when scrolling.
+findthemasks operated on a strong assumption that users arrived already motivated, and so it attempted to be as simple as possible. I had tried to stick to this theme using a single font family. Even with different font sizes and opacity to indicate hierarchy, once the donation site list grew over a thousand, it needed to help users quickly differentiate cities and hospitals when scrolling.
 
 User feedback brought this to our attention a week after launch. If I had considered this opportunity at the beginning, I would have used an easy to read, serif font for cities and states, while the hospitals would have been sans serif like the rest of the page.
 
-In retrospect, it's obvious that more content can make the same-styled page seem more complex and harder to read. This is something I will carry with me when I consider how to make products robust.
+In retrospect, it's obvious that more content can make a single font page seem more complex and harder to read. This is something I will carry with me when I consider how to make products robust.
 </section>
 </div>
 </article>
