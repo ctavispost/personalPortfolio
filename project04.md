@@ -69,8 +69,8 @@ People had personal protective equipment (PPE) and were willing to donate it, bu
 <p class="caption">mobile site</p>
 </div>
 
-
 findthemasks shows:
+
 - donation locations
 - what they need
 - how to give
