@@ -93,6 +93,10 @@ body {
   }
 }
 
+[id] {
+  scroll-margin-top: 2ex;
+}
+
 .navbar {
   display: grid;
   grid-auto-flow: row;
@@ -710,7 +714,7 @@ h4 {
     object-fit: cover;
   }
 
-  .conditionalRightMarg {
+    .conditionalRightMarg {
     margin-right: var(--outerMargin);
   }
 
