@@ -74,7 +74,7 @@ random: true
   </section>
 
   <h2 class="trekSub margBottSm leadingOne">Episode One: Encounter at Bar Point</h2>
-  <p>Episode one deals with the ridiculous yet strangely powerful entity which calls itself Qanon...</p>
+  <p>Episode one deals with the ridiculous yet strangely powerful entity which calls itself QuAnon...</p>
 
   <h3 class="trekSubHd margBottSm">John Luke Drunkard</h3>
 
