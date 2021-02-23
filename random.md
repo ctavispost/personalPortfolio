@@ -16,7 +16,7 @@ random: true
   class="photoMedResp">
 </article>
 
-<article class="contMaxwidth aboutContainer">
+<article class="contMaxwidth medBreak aboutContainer">
   <h2 class="leadingOne smallestBreak margBottSm">"Everybody needs somebody"</h2>
 
   <img srcset="images/random/validation.jpg 300w,
