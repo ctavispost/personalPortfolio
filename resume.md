@@ -22,7 +22,7 @@ Fullstack web developer
 ## Download resume
 {:.margBottZero .underlineBlock}
 
-[longer docx](./c-tavis-post-resume.docx)
+[longer docx](./Christopher Tavis Post resume.docx)
 
 [shorter pdf](./c_tavis_post_resume.pdf)
 </section>
