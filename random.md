@@ -6,7 +6,7 @@ random: true
 
 <article class="contMaxwidth aboutContainer">
   <h2 class="leadingOne smallestBreak margBottSm">Eye strain</h2>
-  <p>can be a real problem. Don't be like these guys. Try to relax your eyes for 20 seconds once every 20 minutes by looking at something at least 20 feet away. Really.</p>
+  <p class="marginTopZero">can be a real problem. Don't be like these guys. Try to relax your eyes for 20 seconds once every 20 minutes by looking at something at least 20 feet away. Really.</p>
 
   <img srcset="images/random/thebrainweyes_sm.jpg 320w,
     images/random/thebrainweyes_md.jpg 700w,
